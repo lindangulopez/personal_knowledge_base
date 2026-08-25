@@ -1,13 +1,13 @@
 # Publications
 
 **Summary**: Status tracker for planned outputs from the Rewilding Portugal / Côa Valley project — papers, StoryMap chapters, illustration plates, and blog posts — as a working list toward Linda's goal of eventually writing articles, publishing natural-history illustrations, and writing blog posts.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25 (paper-abstracts draft updated to 14 candidate papers)
 
 ---
 
 ## Draft papers
 
-From `portfolio/paper-abstracts-draft.md` — 11 candidate papers, each currently a draft abstract only (title/venue are suggestions, not commitments). Full descriptions live on the topic page listed.
+From `portfolio/paper-abstracts-draft.md` (updated 25 Aug 2026) — 14 candidate papers, each currently a draft abstract only (title/venue are suggestions, not commitments). Full descriptions live on the topic page listed.
 
 | # | Working title | Suggested venue | Status | Topic page |
 |---|---|---|---|---|
@@ -22,6 +22,9 @@ From `portfolio/paper-abstracts-draft.md` — 11 candidate papers, each currentl
 | 9 | Ocean currents as the physical infrastructure of empire | *Environmental History* / *Water History* | Draft abstract | [[Decolonial_Ecology]] |
 | 10 | Colonial extraction, community resistance, and civil war: Brazil, Mozambique, Angola | *Journal of Political Ecology* / *World Development* | Draft abstract | [[Decolonial_Ecology]] |
 | 11 | Remote work, AI, and the future conservation workforce | Conservation-careers / future-of-work venue, or *People and Nature* | Draft abstract | [[Conservation]] |
+| 12 | Fire as a landscape-stability precondition: Fontainebleau vs. the Côa Valley | Companion to no. 1, or a fire-ecology venue | Draft abstract | [[Climate_Change]], [[Conservation]] |
+| 13 | Zoning without acquisition: the Camargue's stacked-designation governance model | *Land Use Policy*, companion to no. 4 | Draft abstract | [[Political_Ecology]] |
+| 14 | A criteria-based residential livability score and real-network visitor-access analysis | *Applied Geography* / *Data in Brief*, companion to nos. 1 and 7 | Draft abstract (data descriptor) | [[Data]], [[Urban_Planning]] |
 
 ## StoryMap chapters (public, general-audience track)
 
