@@ -1,10 +1,11 @@
 # Reproducible Science
 
 **Summary**: Practices and tooling choices that make scientific/analytical work reproducible — dependency choices, validation limitations stated candidly, and reproducible pipelines.
-**Last updated**: 2026-08-25 (linked to Professional_Background)
+**Last updated**: 2026-08-25 (linked to Agentic_Coding)
 
 ---
 
+- See [[Agentic_Coding]] for Linda's "Agentic Coding for Geospatial" certification (Spatial Thoughts, Aug 2026) — planning, building, and validating geospatial data science workflows using Claude Code.
 - See [[Professional_Background]] for Linda's current FAIR/CARE-aligned research-data governance role at Software Heritage (OSPO-RADAR, CodeMeta), including her own CodeMeta presentation noted below.
 
 - [Web scraping is breaking the internet (and how we fix it)](https://mailchi.mp/softwareheritage/welcoming-and-serving-users-17996940?e=3e00f47ad0): Software Heritage's August 2026 community newsletter. Lead story: Director Roberto Di Cosmo's blog series on the "good enough trap" — AI crawlers repeatedly re-scraping the whole web to detect changes, wildly inefficient and pushing sites to lock down behind bot filters and paywalls, when a push-based fix (his own 1998 IETF Internet-Draft, the Remote Update Protocol) was proposed decades ago and quietly expired for lack of a champion institution; frames Software Heritage's archive-once mission as the modern answer. Also reports: Leiden University's CWTS Scholarly Communication Policy, which treats research software and datasets as primary scientific outputs and names public infrastructures like Software Heritage and Zenodo (not GitHub) as the ones offering long-term preservation guarantees; a Linux port recovered for the HP Prime G2 graphing calculator using repositories reconstructed from the Software Heritage Archive; and upcoming conference presentations by Software Heritage staff, including Linda's own CodeMeta talk at the ELIXIR FAIR-metadata workshop, ECCB 2026, Geneva, 3 September 2026 — see [[Professional_Background]]. Keywords: Software Heritage, web crawling, Remote Update Protocol, CWTS Leiden, open science policy, CodeMeta. Related: [[Data]].

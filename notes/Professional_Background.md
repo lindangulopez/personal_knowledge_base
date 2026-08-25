@@ -1,7 +1,7 @@
 # Professional Background
 
 **Summary**: Linda's own career history — environmental governance and ecological restoration work in South Africa, database/GIS development roles in France, and current open-science and landscape-connectivity work — kept as reference for anything that draws on her real experience.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-08-25 (linked to Agentic_Coding)
 
 ---
 
@@ -26,6 +26,8 @@
   > Interdisciplinary Collaboration • Geographic Information Systems (GIS) • Environmental Science • Full-Stack Development • Graphic Design
 
   Source: `raw/New_Notes.md`. Keywords: LinkedIn, bio, consulting, environmental governance, Software Heritage, Rewilding Portugal. Related: [[Reproducible_Science]], [[Conservation]].
+
+- *Agentic Coding for Geospatial certification*: Spatial Thoughts course completion (17-25 Aug 2026, 12 hours), trained competence in planning, building, and validating geospatial data science workflows using Claude Code — see [[Agentic_Coding]] for the full entry. Extends her earlier Spatial Thoughts PyQGIS/GDAL certifications noted below. Keywords: certification, Claude Code, Spatial Thoughts, agentic coding.
 
 - *Upcoming: CodeMeta presentation, ECCB 2026*: Linda, as Open Science Partnership Specialist, will present CodeMeta at the ELIXIR FAIR-metadata-for-bioinformatics-software workshop during the European Conference on Computational Biology (ECCB 2026), Geneva, 3 September 2026 — detailing how CodeMeta supports FAIR, citable, preservable research-software metadata. See [[Reproducible_Science]] for the Software Heritage newsletter this was announced in, and for Di Cosmo's companion "Beyond FAIR Data" course covering the same CodeMeta/SWHID territory in depth. Source: `raw/Web scraping is breaking the internet (and how we fix it).md`. Keywords: CodeMeta, ECCB 2026, ELIXIR, FAIR metadata, conference presentation.
 

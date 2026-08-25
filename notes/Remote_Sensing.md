@@ -1,10 +1,11 @@
 # Remote Sensing
 
 **Summary**: Satellite and aerial imagery, sensors, and the data products derived from them.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-08-25 (linked to Agentic_Coding)
 
 ---
 
+- See [[Agentic_Coding]] for Linda's "Agentic Coding for Geospatial" certification (Spatial Thoughts, Aug 2026) on geospatial data science workflows using Claude Code.
 - See [[Conservation]] for a satellite-remote-sensing screening method for assessing constructed wetland-infill health in the Venice Lagoon (Chouairi et al., *Restoration Ecology* 2026).
 - See [[Conservation]] for the Côa Valley Eco-Connectivity notebook — GBIF occurrence data and environmental covariates feeding Random Forest resistance surfaces and Omniscape connectivity modeling.
 - See [[Urban_Planning]] for a critique of using satellite land surface temperature (LST) as a proxy for urban air temperature / heat hazard.

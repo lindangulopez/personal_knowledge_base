@@ -6,12 +6,13 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Agentic_Coding]] — Linda's "Agentic Coding for Geospatial" certification (Spatial Thoughts, Aug 2026), on planning, building, and validating geospatial data science workflows using Claude Code.
 - [[Professional_Background]] — Linda's LinkedIn "About" bio: 25+ years bridging environmental governance, landscape ecology, and Open Science, plus her current Software Heritage and Rewilding Portugal roles.
 - [[Conservation]] — Fontainebleau comparative desk study: tiered strict-reserve network, visitor-infrastructure density, and a third confirmation of the designation-stacking pattern.
-- [[Data]] — Fontainebleau's three live GBIF/OSM/Wikidata datasets, including a GBIF filter-bug workaround and an INPN Cloudflare block.
 
 ## Topics
 
+- [[Agentic_Coding]] — LLM-driven coding agents (e.g. Claude Code) for planning, building, and validating technical workflows.
 - [[Remote_Sensing]] — Satellite and aerial imagery, sensors, and the data products derived from them.
 - [[Agriculture]] — Farming systems, crops, and the tools and data used to study and manage them.
 - [[Climate_Change]] — Climate trends, impacts, and the data and events used to study them.
