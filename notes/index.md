@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — Côa Valley eco-connectivity notebook updated to v6: naturalist-livability scoring for Guarda-area housing and real driving-distance visitor access to the rewilding sites.
+- [[Data]] — The v6 notebook's new Guarda naturalist-livability and visitor-access datasets, including a flagged geocoding error caught by cross-checking three sources.
 - [[Agentic_Coding]] — Linda's "Agentic Coding for Geospatial" certification (Spatial Thoughts, Aug 2026), on planning, building, and validating geospatial data science workflows using Claude Code.
-- [[Professional_Background]] — Linda's LinkedIn "About" bio: 25+ years bridging environmental governance, landscape ecology, and Open Science, plus her current Software Heritage and Rewilding Portugal roles.
-- [[Conservation]] — Fontainebleau comparative desk study: tiered strict-reserve network, visitor-infrastructure density, and a third confirmation of the designation-stacking pattern.
 
 ## Topics
 
