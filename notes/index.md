@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Professional_Background]] — Linda's LinkedIn "About" bio: 25+ years bridging environmental governance, landscape ecology, and Open Science, plus her current Software Heritage and Rewilding Portugal roles.
 - [[Conservation]] — Fontainebleau comparative desk study: tiered strict-reserve network, visitor-infrastructure density, and a third confirmation of the designation-stacking pattern.
 - [[Data]] — Fontainebleau's three live GBIF/OSM/Wikidata datasets, including a GBIF filter-bug workaround and an INPN Cloudflare block.
-- [[Professional_Background]] — New biographical detail: Linda lived in Fontainebleau, France for 25 years doing volunteer ecological consulting and field-guide work.
 
 ## Topics
 

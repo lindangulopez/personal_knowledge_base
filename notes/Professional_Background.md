@@ -5,6 +5,28 @@
 
 ---
 
+- [About](https://www.linkedin.com/in/lindangulopez/): Linda's LinkedIn "About" summary — self-description as someone who helps governments, research organisations, international institutions, and conservation initiatives turn scientific knowledge into strategies, partnerships, and practical action for biodiversity, ecosystem restoration, and Open Science, drawing on 25+ years across Europe and Africa at the intersection of environmental governance, landscape ecology, research infrastructures, and digital sustainability. Verbatim text:
+
+  > I help governments, research organisations, international institutions, and conservation initiatives transform scientific knowledge into strategies, partnerships, and practical action that advance biodiversity, ecosystem restoration, and Open Science.
+  >
+  > With more than 25 years of international experience across Europe and Africa, I work at the intersection of environmental governance, landscape ecology, research infrastructures, and digital sustainability. My career bridges ecological restoration, public policy, biodiversity information systems, research infrastructures, and the governance of the commons to strengthen evidence-informed decision-making and the responsible stewardship of scientific knowledge.
+  >
+  > Since September 2025, I have been a Partnerships Specialist at Software Heritage, where I develop strategic partnerships with universities, research organisations, and Open Source Program Offices (OSPOs). In parallel, I participate in the Rewilding Academic Talent Program at Rewilding Portugal, applying landscape ecology, GIS, and ecological connectivity analyses to support landscape restoration, conservation planning, and the implementation of European biodiversity objectives.
+  >
+  > My experience also includes leading national ecological restoration programmes in South Africa, coordinating European scientific collaborations, designing biodiversity information systems, advancing research data governance in line with the FAIR principles, and facilitating collaboration among researchers, public authorities, NGOs, and practitioners.
+  >
+  > My approach combines scientific excellence, strategic thinking, and international collaboration to help build policies, partnerships, and knowledge infrastructures that address the long-term challenges of biodiversity, climate, and the global commons.
+  >
+  > Consulting Rate: €120/hour
+  > Availability: Strategic advisory, project coordination, partnership development, and expert consulting (recommended engagement: 5–20 hours/month)
+  > VAT – SIREN: FR84511680068
+  >
+  > Top skills
+  >
+  > Interdisciplinary Collaboration • Geographic Information Systems (GIS) • Environmental Science • Full-Stack Development • Graphic Design
+
+  Source: `raw/New_Notes.md`. Keywords: LinkedIn, bio, consulting, environmental governance, Software Heritage, Rewilding Portugal. Related: [[Reproducible_Science]], [[Conservation]].
+
 - *Upcoming: CodeMeta presentation, ECCB 2026*: Linda, as Open Science Partnership Specialist, will present CodeMeta at the ELIXIR FAIR-metadata-for-bioinformatics-software workshop during the European Conference on Computational Biology (ECCB 2026), Geneva, 3 September 2026 — detailing how CodeMeta supports FAIR, citable, preservable research-software metadata. See [[Reproducible_Science]] for the Software Heritage newsletter this was announced in, and for Di Cosmo's companion "Beyond FAIR Data" course covering the same CodeMeta/SWHID territory in depth. Source: `raw/Web scraping is breaking the internet (and how we fix it).md`. Keywords: CodeMeta, ECCB 2026, ELIXIR, FAIR metadata, conference presentation.
 
 - *Fontainebleau: 25 Years' Residence, Volunteer Ecological Consulting, Field-Guide Work*: New self-reported biographical context, not previously captured in the CV or the `my-cv` skill — surfaced in the [[Conservation|Fontainebleau ecotourism comparison study]] Linda compiled 25 Aug 2026. She lived in Fontainebleau, France for 25 years, during which she did volunteer ecological consulting and worked as a field guide; the study itself is explicit that no further specifics (dates, organisations, sites, species she personally guided visitors to) are on file and none were invented to fill the gap — if this is worth enriching later, that detail needs to come from Linda directly. Keywords: Fontainebleau, field guide, volunteer ecological consulting, personal history.
