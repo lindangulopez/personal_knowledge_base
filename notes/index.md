@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Professional_Background]] — Linda registered for "Introduction to Biomimicry for Social Innovation" (Biomimicry for Social Innovation, Oct-Nov 2026), a four-week course applying nature-derived patterns to leadership and social change.
 - [[Climate_Change]] — FRB/Biodiversa+ press communiqué: eight EU policy briefs on ecosystem restoration, published ahead of member states' 1 Sept 2026 national-plan deadline under the EU Nature Restoration Regulation.
 - [[Publications]] — Draft-paper tracker expanded to 14 candidate papers, adding a Fontainebleau/Côa fire-recurrence contrast, the Camargue zoning-without-acquisition model, and the naturalist-livability/visitor-access data descriptor.
-- [[Conservation]] — Côa Valley eco-connectivity notebook updated to v6: naturalist-livability scoring for Guarda-area housing and real driving-distance visitor access to the rewilding sites.
 
 ## Topics
 

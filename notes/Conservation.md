@@ -1,10 +1,11 @@
 # Conservation
 
 **Summary**: Ecological connectivity, habitat protection, and conservation planning.
-**Last updated**: 2026-08-26 (linked to Climate_Change EU restoration-policy communiqué)
+**Last updated**: 2026-08-26 (linked to Professional_Background biomimicry course)
 
 ---
 
+- See [[Professional_Background]] for Linda's registration in "Introduction to Biomimicry for Social Innovation" (Oct-Nov 2026), a course applying nature-derived patterns to leadership, partnership-building, and resilience planning — a "nature as teacher" framing that parallels this project's own ecological-restoration lens.
 - See [[Climate_Change]] for the FRB/Biodiversa+ 26 Aug 2026 press communiqué on the EU Nature Restoration Regulation — eight policy briefs on ecosystem restoration (forest-climate-water nexus, marine/coastal, urban water, freshwater, zoonotic-risk reduction, seed supply, nursery biosecurity, public-private financing) published ahead of member states' 1 September 2026 national-plan deadline.
 - See [[Professional_Background]] for Linda's own mine-rehabilitation and ecological-restoration experience directing South Africa's national programme (1997-2002), which informs this project's restoration lens.
 
