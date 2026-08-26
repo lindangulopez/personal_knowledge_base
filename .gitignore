@@ -1,6 +1,9 @@
 # Ingestion-pipeline source clippings — never tracked
 processed/
 
+# Private notes — financial/legal/unpublished-third-party material, never pushed
+notes/private/
+
 # MkDocs build output
 site/
 
