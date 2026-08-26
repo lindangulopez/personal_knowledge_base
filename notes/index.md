@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Professional_Background]] — Linda registered for "Introduction to Biomimicry for Social Innovation" (Biomimicry for Social Innovation, Oct-Nov 2026), a four-week course applying nature-derived patterns to leadership and social change.
-- [[Climate_Change]] — FRB/Biodiversa+ press communiqué: eight EU policy briefs on ecosystem restoration, published ahead of member states' 1 Sept 2026 national-plan deadline under the EU Nature Restoration Regulation.
-- [[Publications]] — Draft-paper tracker expanded to 14 candidate papers, adding a Fontainebleau/Côa fire-recurrence contrast, the Camargue zoning-without-acquisition model, and the naturalist-livability/visitor-access data descriptor.
+- [[Professional_Background]] — Linda's expert/coach role in "Innovate with EU Space Data," an EU-funded Copernicus mentoring program run by Expertise France for entrepreneurs in the Philippines, Africa, and Latin America/the Caribbean.
+- [[Remote_Sensing]] — New Copernicus/EO reference resources: Digital Earth Africa docs, EO4GEO training catalogue, SentiWiki's Sentinel-1 page, and the 2016 ESA–World Bank "Earth Observation for Sustainable Development" report.
+- [[SQL]] — New topic page, starting with the PostgreSQL homepage as a reference entry.
 
 ## Topics
 
@@ -19,6 +19,7 @@ Table of contents of all notes pages.
 - [[Embeddings]] — Vector representations of data, including foundation-model embeddings for earth/satellite imagery.
 - [[Machine_Learning]] — Models, techniques, and applications of machine learning.
 - [[Python]] — Python packages, libraries, and code notes.
+- [[SQL]] — Database systems and SQL notes.
 - [[Reproducible_Science]] — Practices and tooling choices that make scientific/analytical work reproducible.
 - [[Data]] — Datasets and data sources of general interest.
 - [[Conservation]] — Ecological connectivity, habitat protection, and conservation planning.
