@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Climate_Change]] — FRB/Biodiversa+ press communiqué: eight EU policy briefs on ecosystem restoration, published ahead of member states' 1 Sept 2026 national-plan deadline under the EU Nature Restoration Regulation.
 - [[Publications]] — Draft-paper tracker expanded to 14 candidate papers, adding a Fontainebleau/Côa fire-recurrence contrast, the Camargue zoning-without-acquisition model, and the naturalist-livability/visitor-access data descriptor.
 - [[Conservation]] — Côa Valley eco-connectivity notebook updated to v6: naturalist-livability scoring for Guarda-area housing and real driving-distance visitor access to the rewilding sites.
-- [[Climate_Change]] — A cross-continental fire-recurrence contrast: zero MODIS-detected burns in Fontainebleau's core forest (2015–mid-2025) vs. a single 5,000+ ha Côa Valley wildfire in two days.
 
 ## Topics
 
