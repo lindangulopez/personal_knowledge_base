@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]] — SORTEE Conference 2026 registration and full session program.
-- [[Professional_Background]] — Linda's expert/coach role in "Innovate with EU Space Data," an EU-funded Copernicus mentoring program run by Expertise France for entrepreneurs in the Philippines, Africa, and Latin America/the Caribbean.
-- [[Remote_Sensing]] — New Copernicus/EO reference resources: Digital Earth Africa docs, EO4GEO training catalogue, SentiWiki's Sentinel-1 page, and the 2016 ESA–World Bank "Earth Observation for Sustainable Development" report.
+- [[Publications]] — Draft-papers tracker updated to 16 candidate papers, adding two new translocation-siting papers built on the open TRANSLOC database.
+- [[Data]] — TRANSLOC, an open Western Palearctic conservation-translocation database (MNHN-CESCO), newly linked into the eco-connectivity pipeline.
+- [[Conservation]] — Draft-abstracts entry updated with papers 15-16: connectivity-informed translocation siting, and rural depopulation as opportunity/constraint for translocations.
 
 ## Topics
 

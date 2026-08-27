@@ -1,13 +1,13 @@
 # Publications
 
 **Summary**: Status tracker for planned outputs from the Rewilding Portugal / Côa Valley project — papers, StoryMap chapters, illustration plates, and blog posts — as a working list toward Linda's goal of eventually writing articles, publishing natural-history illustrations, and writing blog posts.
-**Last updated**: 2026-08-25 (paper-abstracts draft updated to 14 candidate papers)
+**Last updated**: 2026-08-27 (paper-abstracts draft updated to 16 candidate papers)
 
 ---
 
 ## Draft papers
 
-From `portfolio/paper-abstracts-draft.md` (updated 25 Aug 2026) — 14 candidate papers, each currently a draft abstract only (title/venue are suggestions, not commitments). Full descriptions live on the topic page listed.
+From `portfolio/paper-abstracts-draft.md` (updated 27 Aug 2026) — 16 candidate papers, each currently a draft abstract only (title/venue are suggestions, not commitments). Full descriptions live on the topic page listed.
 
 | # | Working title | Suggested venue | Status | Topic page |
 |---|---|---|---|---|
@@ -25,6 +25,8 @@ From `portfolio/paper-abstracts-draft.md` (updated 25 Aug 2026) — 14 candidate
 | 12 | Fire as a landscape-stability precondition: Fontainebleau vs. the Côa Valley | Companion to no. 1, or a fire-ecology venue | Draft abstract | [[Climate_Change]], [[Conservation]] |
 | 13 | Zoning without acquisition: the Camargue's stacked-designation governance model | *Land Use Policy*, companion to no. 4 | Draft abstract | [[Political_Ecology]] |
 | 14 | A criteria-based residential livability score and real-network visitor-access analysis | *Applied Geography* / *Data in Brief*, companion to nos. 1 and 7 | Draft abstract (data descriptor) | [[Data]], [[Urban_Planning]] |
+| 15 | Connectivity-informed translocation siting: auditing Iberian translocations against the pipeline's own current-flow model | *Conservation Science and Practice* / *Animal Conservation* / *Biological Conservation*, companion to no. 1 | Draft abstract | [[Conservation]], [[Data]] |
+| 16 | Rural depopulation as both opportunity and constraint for conservation translocations: Portugal-Spain-France | *People and Nature* / *Human Dimensions of Wildlife* / *Journal for Nature Conservation*, companion to nos. 3 and 14 | Draft abstract | [[Conservation]], [[Urban_Planning]] |
 
 ## StoryMap chapters (public, general-audience track)
 
