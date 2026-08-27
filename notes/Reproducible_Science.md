@@ -1,9 +1,11 @@
 # Reproducible Science
 
 **Summary**: Practices and tooling choices that make scientific/analytical work reproducible — dependency choices, validation limitations stated candidly, and reproducible pipelines.
-**Last updated**: 2026-08-25 (linked to Agentic_Coding)
+**Last updated**: 2026-08-27 (SORTEE Conference 2026)
 
 ---
+
+- *SORTEE Conference 2026*: Linda registered (SORTEE Member, representing Rewilding Portugal) for the Society for Open, Reliable, & Transparent Ecology & Evolutionary Biology's fully virtual 2026 conference, Tue Oct 13 08:00 WEST through Wed Oct 14 11:00 WEST (Zoom link and full Information Pack to be sent closer to the date). The published program (`raw/SORTEE_conference_program.csv`) runs a full open-science curriculum across the ~27-hour window: two runs of an "Introduction to Open Science Practices" session; workshops on treating R analysis scripts as software ("R user == R developer"), test-driven development for ecology/evolution, and reproducible research with Docker+R; hackathons on how journal data/code policies affect sharing quality, crediting research contributions in acknowledgment sections, and the fidelity of open code to its methods description; unconferences on what "FAIR" actually means a decade on, reproducibility-vs-replicability definitions, preregistration in psychology/health research, piloting transparency practices, and open scholarship across ecological/linguistic diversity; plenary talks by Lauren Cadwallader (code-sharing lessons from expanding a publisher's policy) and Tatsuya Amano (is science open across languages?); plus wellbeing-oriented breaks (career-stage and language breakout groups, a "Cura Vitae" self-care session). Keywords: SORTEE, open science, ecology and evolutionary biology, reproducibility, conference. Related: [[Conservation]], [[Agentic_Coding]].
 
 - See [[Agentic_Coding]] for Linda's "Agentic Coding for Geospatial" certification (Spatial Thoughts, Aug 2026) — planning, building, and validating geospatial data science workflows using Claude Code.
 - See [[Professional_Background]] for Linda's current FAIR/CARE-aligned research-data governance role at Software Heritage (OSPO-RADAR, CodeMeta), including her own CodeMeta presentation noted below.
