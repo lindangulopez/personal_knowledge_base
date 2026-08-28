@@ -1,9 +1,11 @@
 # Professional Background
 
 **Summary**: Linda's own career history — environmental governance and ecological restoration work in South Africa, database/GIS development roles in France, and current open-science and landscape-connectivity work — kept as reference for anything that draws on her real experience.
-**Last updated**: 2026-08-26 (Innovate with EU Space Data mentoring program)
+**Last updated**: 2026-08-28 (GFRN AI Working Group topic-lead role)
 
 ---
+
+- *GFRN AI Working Group — Topic Lead role*: In the sign-up table for the GFRN's ISC/WCRI Round 2 AI-disclosure consultation response, Linda signed on as lead (credited to "SWH & Rewilding Portugal") for two of the five consultation topics: Topic 1 (disclosure thresholds) and Topic 2 (placement of AI disclosure). She's also an interested contributor to the cross-cutting existing-standards/literature review. See [[Reproducible_Science]] for the full working-group context and consultation background. Source: `raw/GFRNAIWG_TopicLeadsandWorkplan.md`. Keywords: GFRN, AI Working Group, topic lead, ISC/WCRI, AI disclosure, reproducibility. Related: [[Reproducible_Science]].
 
 - *Innovate with EU Space Data — expert/coach role*: Linda served as an expert/coach in [Innovate with EU Space Data](https://eurochile.cl/en/noticias/innovate-with-eu-space-data-exploring-the-business-opportunities-of-copernicus/), an EU-funded mentoring program for the use of Copernicus data, part of the "Digital Knowledge Hub in support of Space and Earth Observation" project implemented by Expertise France. The program pairs a pool of experts with selected entrepreneurial projects in the Philippines, Africa, and Latin America/the Caribbean to bridge the gap between Copernicus Earth-observation data and market-driven business applications, via 60-minute coaching sessions delivered over a dedicated platform. See [[Remote_Sensing]] for Copernicus/EO reference material and [[Python]]/[[SQL]] for the geospatial-tooling resources gathered while coaching. Also explored the Erasmus Mundus **Copernicus Master in Digital Earth (CDE)** (master-cde.eu) — a two-year joint MSc in Earth Observation and Geoinformatics co-funded by the EU, with GeoData Science and GeoVisualisation/Geocommunication specialization tracks. Keywords: Copernicus, EU mentoring program, Expertise France, business coaching, Earth observation, Digital Earth. Related: [[Remote_Sensing]].
 
