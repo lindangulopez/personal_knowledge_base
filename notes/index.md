@@ -6,8 +6,8 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Reproducible_Science]] — ISC welcome newsletter: statement on science as a global public good, an AI-in-research-systems report, a scientific-careers podcast, and a gender-equality-in-science study.
 - [[Professional_Background]] — Linda signed on as GFRN AI Working Group topic lead for two ISC/WCRI Round 2 consultation topics (disclosure thresholds, placement).
-- [[Reproducible_Science]] — GFRN AI Working Group's first meeting: coordinating a reproducibility-focused GFRN contribution to the ISC/WCRI global AI-disclosure reporting standard consultation.
 - [[Conservation]] — SER's August 2026 "Restoration Now" newsletter: Truganina Wetlands restoration story, new training courses, and Restoration Ecology's Arid Lands thematic series.
 
 ## Topics
