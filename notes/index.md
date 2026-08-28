@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Reproducible_Science]] — GFRN AI Working Group's first meeting: coordinating a reproducibility-focused GFRN contribution to the ISC/WCRI global AI-disclosure reporting standard consultation.
+- [[Conservation]] — SER's August 2026 "Restoration Now" newsletter: Truganina Wetlands restoration story, new training courses, and Restoration Ecology's Arid Lands thematic series.
 - [[Publications]] — Draft-papers tracker updated to 16 candidate papers, adding two new translocation-siting papers built on the open TRANSLOC database.
-- [[Data]] — TRANSLOC, an open Western Palearctic conservation-translocation database (MNHN-CESCO), newly linked into the eco-connectivity pipeline.
-- [[Conservation]] — Draft-abstracts entry updated with papers 15-16: connectivity-informed translocation siting, and rural depopulation as opportunity/constraint for translocations.
 
 ## Topics
 
