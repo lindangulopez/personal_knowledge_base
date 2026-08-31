@@ -1,10 +1,11 @@
 # Political Ecology
 
 **Summary**: The politics of land, water, and wildlife — who holds legal rights over nature, who resists or bears the cost of conservation and resource decisions, and how tenure and legal structures shape ecological outcomes.
-**Last updated**: 2026-08-26 (linked to Climate_Change EU restoration-policy communiqué)
+**Last updated**: 2026-08-31 (linked to Conservation GEO BON Policy Task Force webinar)
 
 ---
 
+- See [[Conservation]] for GEO BON's Policy Task Force Information Webinar (24 Sept 2026), covering the science-policy interface ahead of CBD COP17 in Armenia and key SBSTTA/SBI outcomes for biodiversity monitoring.
 - See [[Climate_Change]] for the FRB/Biodiversa+ 26 Aug 2026 press communiqué on EU member states' national ecosystem-restoration plans (due to the European Commission by 1 September 2026 under the EU Nature Restoration Regulation) — a live instance of the same legal/governance-implementation question this page tracks for Portugal and South Africa.
 - See [[Conservation]] for Makuleke, a South African community-conservation area inside Kruger National Park's northern section — land returned to the Makuleke community under South Africa's land-restitution programme while remaining under conservation management — surfaced in the Limpopo mine-restoration study as a live example of restoration and land-tenure justice intersecting in the same province Linda once regulated.
 - See [[Conservation]] for the Camargue ecotourism comparison's governance-structure implications for Côa Valley expansion — a zoning/co-management "working-landscape" alternative to acquisition-only tenure, and SNPN's Prefect/Scientific-Council structure as a governance template at scale.

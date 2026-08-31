@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — GEO BON Policy Task Force webinar (24 Sept 2026) on the science-policy interface ahead of CBD COP17.
 - [[Reproducible_Science]] — WCRI 2026 Focus Track slides naming the "Vancouver Standard" for AI Disclosure in Research, and the Round 2 consultation prep reading it's based on.
 - [[Professional_Background]] — Linda's submitted GFRN Round 2 consultation input on AI-disclosure thresholds, placement, and taxonomy.
-- [[Machine_Learning]] — Cui & Alexander (2026), a 480-run study finding LLM-generated data analysis isn't reproducible across repeated executions.
 
 ## Topics
 
