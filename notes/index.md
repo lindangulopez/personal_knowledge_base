@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Professional_Background]] — Linda's Zenodo deposit for "Making Research Software FAIR with CodeMeta [Part I]", her RSEcon26 workshop presentation, Sheffield, 9-11 Sept 2026.
-- [[Reproducible_Science]] — IRSC26 (International Research Software Conference) attendee logistics, Sheffield, 7-8 Sept 2026, co-located with RSECon26.
-- [[Cartography]] — Linda's own StoryMap competition entry for Esri France's "24 Heures du SIG" 2026: *"Mouvement, Eau, Connexion: Renaturaliser la Grande Vallée du Côa."*
+- [[Reproducible_Science]] — WCRI 2026 Focus Track slides naming the "Vancouver Standard" for AI Disclosure in Research, and the Round 2 consultation prep reading it's based on.
+- [[Professional_Background]] — Linda's submitted GFRN Round 2 consultation input on AI-disclosure thresholds, placement, and taxonomy.
+- [[Machine_Learning]] — Cui & Alexander (2026), a 480-run study finding LLM-generated data analysis isn't reproducible across repeated executions.
 
 ## Topics
 
