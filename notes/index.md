@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]] — ISC welcome newsletter: statement on science as a global public good, an AI-in-research-systems report, a scientific-careers podcast, and a gender-equality-in-science study.
+- [[Reproducible_Science]] — IRSC26 (International Research Software Conference) attendee logistics, Sheffield, 7-8 Sept 2026, co-located with RSECon26.
+- [[Cartography]] — Linda's own StoryMap competition entry for Esri France's "24 Heures du SIG" 2026: *"Mouvement, Eau, Connexion: Renaturaliser la Grande Vallée du Côa."*
 - [[Professional_Background]] — Linda signed on as GFRN AI Working Group topic lead for two ISC/WCRI Round 2 consultation topics (disclosure thresholds, placement).
-- [[Conservation]] — SER's August 2026 "Restoration Now" newsletter: Truganina Wetlands restoration story, new training courses, and Restoration Ecology's Arid Lands thematic series.
 
 ## Topics
 
