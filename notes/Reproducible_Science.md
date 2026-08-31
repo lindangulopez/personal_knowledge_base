@@ -1,9 +1,11 @@
 # Reproducible Science
 
 **Summary**: Practices and tooling choices that make scientific/analytical work reproducible — dependency choices, validation limitations stated candidly, and reproducible pipelines.
-**Last updated**: 2026-08-31 (IRSC26 attendee info, OSOR digest)
+**Last updated**: 2026-08-31 (RSEcon26 CodeMeta workshop Zenodo deposit)
 
 ---
+
+- *RSEcon26 CodeMeta Workshop* (Zenodo deposit, 31 Aug 2026, DOI [10.5281/zenodo.22210982](https://doi.org/10.5281/zenodo.22210982)): Linda's own workshop presentation "Making Research Software FAIR with CodeMeta [Part I]", co-authored with Esteban Gonzalez, Anas El Hounsri, and Aida Jafarbigloo, for RSECon26 (Sheffield, UK, 9-11 Sept 2026). Teaches CodeMeta as a JSON-LD/schema.org metadata exchange layer that counters research-software metadata fragmentation: automatic `codemeta.json` generation (GitHub Actions, autocodemeta, SOMEF), avoiding common metadata pitfalls, mapping other metadata schemas into CodeMeta via structured crosswalks and SSSOM, and using LLMs to assist mapping. Full professional-context entry, co-author roles, and session materials at [[Professional_Background]]. Keywords: CodeMeta, FAIR, RSEcon26, metadata crosswalks, SSSOM, Zenodo. Related: [[Professional_Background]].
 
 - *IRSC26 — International Research Software Conference, attendee logistics* (27 Aug 2026 forward, `raw/Zimbra_IRSC26.pdf`): Attendee-information email from the [IRSC26](https://www.researchsoft.org/irsc/) organising team (ReSA — Research Software Alliance) ahead of the conference, 7-8 Sept 2026 at The Wave, University of Sheffield, with remote participation via Zoom Events. Co-located with [RSECon26](https://rsecon26.society-rse.org/) (9-11 Sept), whose free "Global RSE Activities" remote sessions (9 & 10 Sept) are open to IRSC26 attendees. Covers venue/accessibility (The Wave is wheelchair-accessible, step-free, with a quiet room), three dedicated ReSA-Slack channels (#irsc, #irsc-chat, #irsc-helpdesk), discounted Visit Sheffield accommodation, UK entry-requirement/ETA guidance, and ReSA's Code of Conduct. See [[Professional_Background]] for Linda's own CodeMeta/OSPO-RADAR conference activity this period. Keywords: IRSC26, RSECon26, ReSA, research software conference, Sheffield. Related: [[Professional_Background]].
 

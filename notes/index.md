@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Professional_Background]] — Linda's Zenodo deposit for "Making Research Software FAIR with CodeMeta [Part I]", her RSEcon26 workshop presentation, Sheffield, 9-11 Sept 2026.
 - [[Reproducible_Science]] — IRSC26 (International Research Software Conference) attendee logistics, Sheffield, 7-8 Sept 2026, co-located with RSECon26.
 - [[Cartography]] — Linda's own StoryMap competition entry for Esri France's "24 Heures du SIG" 2026: *"Mouvement, Eau, Connexion: Renaturaliser la Grande Vallée du Côa."*
-- [[Professional_Background]] — Linda signed on as GFRN AI Working Group topic lead for two ISC/WCRI Round 2 consultation topics (disclosure thresholds, placement).
 
 ## Topics
 
