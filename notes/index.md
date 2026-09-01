@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Climate_Change]] — A WEF digest on the economics of land restoration, ahead of UNCCD COP17, featuring MapBiomas' satellite mapping of Brazil.
 - [[Conservation]] — The Côa Valley connectivity pipeline is being opened to collaborators as a reproducible template for resource-limited rewilding projects.
 - [[Reproducible_Science]] — The pipeline's Linux-style contribution workflow: branch protection, DCO sign-off, FAIR4RS metadata, and a mandatory AI-assistance disclosure block on every pull request.
-- [[Professional_Background]] — Linda's registration for Women in GIS's monthly "Communities of Practice: Public Sector" call.
 
 ## Topics
 
