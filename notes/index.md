@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]] — GEO BON Policy Task Force webinar (24 Sept 2026) on the science-policy interface ahead of CBD COP17.
-- [[Reproducible_Science]] — WCRI 2026 Focus Track slides naming the "Vancouver Standard" for AI Disclosure in Research, and the Round 2 consultation prep reading it's based on.
-- [[Professional_Background]] — Linda's submitted GFRN Round 2 consultation input on AI-disclosure thresholds, placement, and taxonomy.
+- [[Conservation]] — Full record of SER's "Five-Star System and Recovery Wheels" ecological-restoration-assessment workshop (30 Sept 2026).
+- [[Professional_Background]] — Linda's registration for Women in GIS's monthly "Communities of Practice: Public Sector" call.
+- [[Decolonial_Ecology]] — An ethnobotanical survey of 87 medicinal plant species and 29 healers in Batna, Algeria.
 
 ## Topics
 
