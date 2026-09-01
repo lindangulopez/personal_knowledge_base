@@ -12,6 +12,7 @@
 - *Dunia-Streamer manual (v2.0)*: User manual for Dunia-Streamer, a lightweight browser-based tool (via "EarthStreamer" technology) for streaming and downloading satellite mission imagery as GeoTIFFs, optimized for low-bandwidth connections. Keywords: satellite imagery, streaming, GeoTIFF, low-bandwidth, browser tool.
 - See [[Climate_Change]] for MapBiomas' ultra-detailed satellite land-cover mapping of Brazil (deforestation, water-surface loss, crop cover), highlighted in a World Economic Forum digest alongside the Pantanal wetland's 60% average water-surface loss.
 - See [[Agentic_Coding]] for Linda's "Agentic Coding for Geospatial" certification (Spatial Thoughts, Aug 2026) on geospatial data science workflows using Claude Code.
+- See [[Professional_Background]] for a Geoawesome piece on how AI is reshaping the geospatial job market — O*NET/BLS labor-market data, a five-layer future-ready curriculum, and a hiring manager's take on spatial judgment vs. tool proficiency.
 - See [[Conservation]] for a satellite-remote-sensing screening method for assessing constructed wetland-infill health in the Venice Lagoon (Chouairi et al., *Restoration Ecology* 2026).
 - See [[Conservation]] for the Côa Valley Eco-Connectivity notebook — GBIF occurrence data and environmental covariates feeding Random Forest resistance surfaces and Omniscape connectivity modeling.
 - See [[Urban_Planning]] for a critique of using satellite land surface temperature (LST) as a proxy for urban air temperature / heat hazard.
