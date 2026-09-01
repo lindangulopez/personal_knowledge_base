@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Political_Ecology]] — SOEL's July/August newsletter reports Nigeria's River Ethiope on the path to legal-personhood status.
 - [[Professional_Background]] — Linda is a named CodeMeta v4.0 co-author and one of the most active Discussion contributors on the codemeta/codemeta GitHub repo.
 - [[Reproducible_Science]] — TODO Group's OSPO Landscape, a reference map of the open source program office community and its tooling.
-- [[Climate_Change]] — A WEF digest on the economics of land restoration, ahead of UNCCD COP17, featuring MapBiomas' satellite mapping of Brazil.
 
 ## Topics
 
