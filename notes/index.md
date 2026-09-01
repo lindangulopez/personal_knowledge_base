@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[codeMeta_meeting]] — Notes from the 1 Sept 2026 CodeMeta crosswalks community call, plus updates on CodeMeta v4.0, RSECon26, and the *Scientific Data* "CODE beyond FAIR" roadmap.
+- [[Professional_Background]] — Linda is a named CodeMeta v4.0 co-author and a standing participant in the weekly CodeMeta crosswalks call.
 - [[Political_Ecology]] — SOEL's July/August newsletter reports Nigeria's River Ethiope on the path to legal-personhood status.
-- [[Professional_Background]] — Linda is a named CodeMeta v4.0 co-author and one of the most active Discussion contributors on the codemeta/codemeta GitHub repo.
-- [[Reproducible_Science]] — TODO Group's OSPO Landscape, a reference map of the open source program office community and its tooling.
 
 ## Topics
 
@@ -30,3 +30,4 @@ Table of contents of all notes pages.
 - [[Cartography]] — Maps, story maps, and the visual/narrative design of geographic storytelling.
 - [[Publications]] — Status tracker for planned papers, StoryMap chapters, illustration plates, and blog posts from the Côa Valley project.
 - [[Professional_Background]] — Linda's own career history in environmental governance, ecological restoration, GIS/database work, and open science.
+- [[codeMeta_meeting]] — Working notes from CodeMeta community calls and recent CodeMeta project / research-software-metadata news.

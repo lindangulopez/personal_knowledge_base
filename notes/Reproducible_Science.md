@@ -1,9 +1,11 @@
 # Reproducible Science
 
 **Summary**: Practices and tooling choices that make scientific/analytical work reproducible — dependency choices, validation limitations stated candidly, and reproducible pipelines.
-**Last updated**: 2026-09-01 (TODO Group OSPO Landscape reference)
+**Last updated**: 2026-09-01 (CodeMeta community call and project roundup)
 
 ---
+
+- *CodeMeta meeting notes* — see [[codeMeta_meeting]] for the CodeMeta crosswalks community call (1 Sept 2026: PR review, post-release communication, backward compatibility, the "Hands-on Exercise: Mapping Metadata to CodeMeta" workshop deck, and the IMRaD/FAIR4RS structure agreed for the project's methodology paper), plus a roundup of CodeMeta v4.0 (released March 2026), the SSSOM "Rosetta stone" crosswalks methodology, the RSECon26 workshop, and the *Scientific Data* "CODE beyond FAIR" roadmap. Keywords: CodeMeta, crosswalks, SSSOM, community call, v4.0. Related: [[codeMeta_meeting]], [[Professional_Background]], [[Data]].
 
 - [OSPO Landscape](https://landscape.todogroup.org/): TODO Group's interactive map of the Open Source Program Office (OSPO) community — filterable by GitHub stars, funding, commits, contributors, HQ location. As captured: 253 cards, 91,121 combined stars, $36.5B combined funding across 201 TODO Group member products/projects (Adobe, AWS, Google, Meta, Microsoft, Red Hat, SAP, and many more, split into OSPO Adopter/Associate/Member categories) plus 52 non-member projects, including several directly relevant to Linda's OSPO-RADAR/CodeMeta work: Bitergia Analytics/Cauldron/GrimoireLab (contribution-metrics tooling), CHAOSS and CHAOSS Metrics, SPDX and FOSSA/Debricked/Snyk (license/security compliance), and OpenChain/OpenSSF/LF Europe (Linux Foundation associate projects). A reference map for scoping future OSPO-RADAR partner outreach and tool crosswalks — see [[Professional_Background]]. Keywords: OSPO, TODO Group, open source program office, landscape map, adopters. Related: [[Professional_Background]].
 
