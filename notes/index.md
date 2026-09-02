@@ -8,7 +8,7 @@ Table of contents of all notes pages.
 
 - [[Professional_Background]] — Geoawesome on how AI is reshaping the geospatial job market: a five-layer future-ready skills curriculum and a hiring manager's take on spatial judgment vs. AI tool use.
 - [[Reproducible_Science]] — Software Heritage profile of RSE Esha Nasir on treating reproducibility as a gradual practice and software as a legitimate scholarly output.
-- [[codeMeta_meeting]] — Notes from the 1 Sept 2026 CodeMeta crosswalks community call, plus updates on CodeMeta v4.0, RSECon26, and the *Scientific Data* "CODE beyond FAIR" roadmap.
+- [[codeMeta_meeting]] — CodeMeta's standing community-reporting issue for keeping the tools page current, plus notes from the 1 Sept 2026 crosswalks call and updates on v4.0, RSECon26, and the *Scientific Data* "CODE beyond FAIR" roadmap.
 
 ## Topics
 

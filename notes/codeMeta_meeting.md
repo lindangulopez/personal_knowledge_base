@@ -1,7 +1,7 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-09-01
+**Last updated**: 2026-09-02
 
 ---
 
@@ -19,6 +19,8 @@
 - *Earlier calls (context)*: 4 Aug 2026 — informal sync (Linda, Aida, Maryam) on paper contributions, contributor attribution, and migrating the draft off Google Docs. 7 Jul 2026 — (Linda, Daniel) PR to CodeMeta completed, RSECon abstract accepted, paper timeline set (Overleaf draft late July, submission window mid-August), and a plan to open a GitHub issue on separating the Crosswalks work from the Vocabulary. Keywords: CodeMeta, meeting history, paper timeline. Related: [[Reproducible_Science]].
 
 ## Recent CodeMeta project updates
+
+- [\[Running issue\] Is the tools page incomplete?](https://github.com/codemeta/codemeta.github.io/issues/133) (`codemeta/codemeta.github.io` #133, opened by meldra): Standing community-reporting issue for the CodeMeta website's [tools page](https://codemeta.github.io/tools/) (tools, maintainers, version support) — invites comments/sub-issues to flag a missing or out-of-date tool, or a PR tagged against this issue for anyone who wants to fix it directly. This is the crowdsourcing/community-submission mechanism for keeping the tools table current that came up as a post-release-communication topic on the 1 Sept crosswalks call above. Keywords: CodeMeta, tools page, community reporting, crowdsourcing, website maintenance. Related: [[Reproducible_Science]].
 
 - *CodeMeta v4.0 (released March 2026)*: New major version of the [CodeMeta](https://codemeta.github.io/) vocabulary — minimal JSON-LD/schema.org metadata for research software. v4.0 realigns CodeMeta terms with current schema.org vocabulary, adds properties including `alternateName`, `archivedAt`, and `featureList`, and removes deprecated fields. Linda is a named co-author on the v4.0 citation (`w3id.org/codemeta/4.0`) alongside founding authors Matthew B. Jones, Carl Boettiger, and Arfon Smith and the wider PMC/contributor community — see [[Professional_Background]] for her community-leadership role (Discussions activity, the AI/LLM-agent metadata proposal [#460](https://github.com/codemeta/codemeta/discussions/460), the SWHID-support proposal [#461](https://github.com/codemeta/codemeta/discussions/461)). Keywords: CodeMeta v4.0, schema.org, JSON-LD, software metadata, vocabulary release. Related: [[Reproducible_Science]], [[Professional_Background]].
 
