@@ -6,8 +6,8 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Professional_Background]] — Geoawesome on how AI is reshaping the geospatial job market: a five-layer future-ready skills curriculum and a hiring manager's take on spatial judgment vs. AI tool use.
-- [[Reproducible_Science]] — Software Heritage profile of RSE Esha Nasir on treating reproducibility as a gradual practice and software as a legitimate scholarly output.
+- [[Professional_Background]] — Linda's ECCB 2026/ELIXIR-W01 talk on Software Heritage, SWHID, and CodeMeta as infrastructure for citable, verifiable bioinformatics software.
+- [[Reproducible_Science]] — FORRT's free online "AI in Metascience" conference (28–30 Sept 2026) on AI's role in literature discovery, replication, and research evaluation.
 - [[codeMeta_meeting]] — CodeMeta's standing community-reporting issue for keeping the tools page current, plus notes from the 1 Sept 2026 crosswalks call and updates on v4.0, RSECon26, and the *Scientific Data* "CODE beyond FAIR" roadmap.
 
 ## Topics
