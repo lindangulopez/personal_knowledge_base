@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Professional_Background]] — Linda's ECCB 2026/ELIXIR-W01 talk on Software Heritage, SWHID, and CodeMeta as infrastructure for citable, verifiable bioinformatics software.
+- [[Conservation]] — Biodiversa+'s latest newsletter: eight new EU Nature Restoration Regulation policy briefs, the BiodivFuture funding call, and BiodivERsA legacy impact stories.
+- [[Professional_Background]] — Confirmed schedule and a fifth co-author for Linda's RSECon26 "Making Research Software FAIR with CodeMeta" workshop (Sheffield, 9 Sept 2026).
 - [[Reproducible_Science]] — FORRT's free online "AI in Metascience" conference (28–30 Sept 2026) on AI's role in literature discovery, replication, and research evaluation.
-- [[codeMeta_meeting]] — CodeMeta's standing community-reporting issue for keeping the tools page current, plus notes from the 1 Sept 2026 crosswalks call and updates on v4.0, RSECon26, and the *Scientific Data* "CODE beyond FAIR" roadmap.
 
 ## Topics
 
