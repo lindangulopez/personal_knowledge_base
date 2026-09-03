@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Open_Source]] — Django auto-closed Linda's practice PR for leaving its required "AI Assistance Disclosure" checkbox undisclosed.
 - [[Conservation]] — Biodiversa+'s latest newsletter: eight new EU Nature Restoration Regulation policy briefs, the BiodivFuture funding call, and BiodivERsA legacy impact stories.
 - [[Professional_Background]] — Confirmed schedule and a fifth co-author for Linda's RSECon26 "Making Research Software FAIR with CodeMeta" workshop (Sheffield, 9 Sept 2026).
-- [[Reproducible_Science]] — FORRT's free online "AI in Metascience" conference (28–30 Sept 2026) on AI's role in literature discovery, replication, and research evaluation.
 
 ## Topics
 
@@ -31,3 +31,4 @@ Table of contents of all notes pages.
 - [[Publications]] — Status tracker for planned papers, StoryMap chapters, illustration plates, and blog posts from the Côa Valley project.
 - [[Professional_Background]] — Linda's own career history in environmental governance, ecological restoration, GIS/database work, and open science.
 - [[codeMeta_meeting]] — Working notes from CodeMeta community calls and recent CodeMeta project / research-software-metadata news.
+- [[Open_Source]] — Open-source project contribution workflows, governance, and community tooling.
