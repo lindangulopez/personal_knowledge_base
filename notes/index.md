@@ -7,8 +7,8 @@ Table of contents of all notes pages.
 ## Latest Finds
 
 - [[Conservation]] — WILDLABS Community Digest: a new paper on integrating nature-tech data (camera traps, acoustics, eDNA, GPS, satellites), plus community AI-detection and drone-tracking discussions.
+- [[Professional_Background]] — Linda posted on WILDLABS's "Welcome to WILDLABS!" thread, recruiting contributors to her Côa Valley eco-connectivity project.
 - [[Open_Source]] — Django auto-closed Linda's practice PR for leaving its required "AI Assistance Disclosure" checkbox undisclosed.
-- [[Professional_Background]] — A second Zenodo record for Linda's RSECon26 CodeMeta workshop lists the full attached-files breakdown (slides, handout, welcome deck).
 
 ## Topics
 
