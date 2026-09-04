@@ -1,9 +1,11 @@
 # Remote Sensing
 
 **Summary**: Satellite and aerial imagery, sensors, and the data products derived from them.
-**Last updated**: 2026-08-26 (Copernicus/EO reference resources)
+**Last updated**: 2026-09-04 (WILDLABS Community Digest)
 
 ---
+
+- See [[Conservation]] for the WILDLABS Community Digest (4 Sept 2026) — a new open-access paper on integrating camera-trap, acoustic, eDNA, GPS-tag, and satellite data streams for biodiversity monitoring, plus courses on NASA ARSET remote-sensing fundamentals and drone/GIS workflows.
 
 - [Digital Earth Africa docs](https://docs.digitalearthafrica.org/en/latest/): Documentation for Digital Earth Africa, an open, cloud-based platform providing free access to analysis-ready satellite data and EO services across the African continent. Keywords: Digital Earth Africa, open data, EO platform, Africa. Related: [[Professional_Background]].
 - [EO4GEO training material catalogue](https://eo4geo.eu/training-material-catalogue/): An EU-curated catalogue of training materials for Earth observation and geoinformatics, aggregating courses and learning resources across the EO/GI skills sector. Keywords: EO4GEO, training, geoinformatics, EU. Related: [[Professional_Background]].

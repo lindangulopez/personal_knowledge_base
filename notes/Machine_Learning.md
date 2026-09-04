@@ -12,3 +12,4 @@
 - See [[Reproducible_Science]] for Cui & Alexander (2026), a 480-run evaluation finding that LLM-generated data analysis is not reproducible across repeated executions — identical prompts, data, and even temperature-zero settings can yield regression estimates that differ in sign and magnitude — cited as motivation for prompt-disclosure requirements in the WCRI 2026 AI-disclosure reporting standard.
 - See [[Remote_Sensing]] for notes on Earth embedding foundation models, and [[Agriculture]] for AI-based field boundary delineation.
 - See [[Conservation]] for Random Forest suitability/resistance surface modeling in the Côa Valley Eco-Connectivity notebook.
+- See [[Conservation]] for the WILDLABS Community Digest (4 Sept 2026) — community discussion of AI-detection overhype, a draft "Wildlife Detection Exchange" interchange format for AI wildlife detections, and deepfaune video-alerting integration.

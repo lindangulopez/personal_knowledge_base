@@ -6,8 +6,8 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — WILDLABS Community Digest: a new paper on integrating nature-tech data (camera traps, acoustics, eDNA, GPS, satellites), plus community AI-detection and drone-tracking discussions.
 - [[Open_Source]] — Django auto-closed Linda's practice PR for leaving its required "AI Assistance Disclosure" checkbox undisclosed.
-- [[Conservation]] — Biodiversa+'s latest newsletter: eight new EU Nature Restoration Regulation policy briefs, the BiodivFuture funding call, and BiodivERsA legacy impact stories.
 - [[Professional_Background]] — A second Zenodo record for Linda's RSECon26 CodeMeta workshop lists the full attached-files breakdown (slides, handout, welcome deck).
 
 ## Topics
