@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Open_Source]] — Public Code Observatory (Software Heritage/UNESCO/UN ODET) launches its first State of Public Code report; EU's OSOR highlights the new EU Open Source Strategy.
+- [[codeMeta_meeting]] — CodeMeta website tools-page tracker gains a new gap report: `cffr`, an R package for `CITATION.cff` files, isn't listed.
 - [[Conservation]] — WILDLABS Community Digest: a new paper on integrating nature-tech data (camera traps, acoustics, eDNA, GPS, satellites), plus community AI-detection and drone-tracking discussions.
-- [[Professional_Background]] — Linda posted on WILDLABS's "Welcome to WILDLABS!" thread, recruiting contributors to her Côa Valley eco-connectivity project.
-- [[Open_Source]] — Linda's Django practice-tutorial PR, closed once the exercise itself was complete; Django's checklist separately requires an AI-assistance disclosure.
 
 ## Topics
 
