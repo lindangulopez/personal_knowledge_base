@@ -1,10 +1,11 @@
 # Remote Sensing
 
 **Summary**: Satellite and aerial imagery, sensors, and the data products derived from them.
-**Last updated**: 2026-09-04 (WILDLABS Community Digest)
+**Last updated**: 2026-09-07 (RSECon26 geospatial-datasets talk)
 
 ---
 
+- See [[Reproducible_Science]] for the RSECon26 talk on preparing analytical-ready geospatial datasets from Scottish Government data — route-finding to nearest GP surgery as a pilot, generalised into a reusable Point-of-Interest framework.
 - See [[Conservation]] for the WILDLABS Community Digest (4 Sept 2026) — a new open-access paper on integrating camera-trap, acoustic, eDNA, GPS-tag, and satellite data streams for biodiversity monitoring, plus courses on NASA ARSET remote-sensing fundamentals and drone/GIS workflows.
 
 - [Digital Earth Africa docs](https://docs.digitalearthafrica.org/en/latest/): Documentation for Digital Earth Africa, an open, cloud-based platform providing free access to analysis-ready satellite data and EO services across the African continent. Keywords: Digital Earth Africa, open data, EO platform, Africa. Related: [[Professional_Background]].

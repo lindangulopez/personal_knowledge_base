@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Open_Source]] — Public Code Observatory (Software Heritage/UNESCO/UN ODET) launches its first State of Public Code report; EU's OSOR highlights the new EU Open Source Strategy.
-- [[codeMeta_meeting]] — CodeMeta website tools-page tracker gains a new gap report: `cffr`, an R package for `CITATION.cff` files, isn't listed.
-- [[Conservation]] — WILDLABS Community Digest: a new paper on integrating nature-tech data (camera traps, acoustics, eDNA, GPS, satellites), plus community AI-detection and drone-tracking discussions.
+- [[Reproducible_Science]] — RSECon26 (Sheffield, 9-11 Sept 2026): the full conference programme plus individual talks on Kubernetes for RSEs, a virtual research environment for heritage science, and a community-maintained Responsible AI Risk Register for RSE.
+- [[Conservation]] — Rewilding Portugal's September newsletter (a Vale Carapito guided walk, a Douro-Côa boat-tour interview) and an R-sig-ecology digest of Bayesian-modelling and genomic-prediction courses.
+- [[Machine_Learning]] — RSECon26 talks on PyEarthTools (reproducible ML pipelines for environmental science), PEtab SciML (hybrid ODE/neural-network parameter estimation), and multi-user LLM inference services for research.
 
 ## Topics
 

@@ -1,9 +1,11 @@
 # Agentic Coding
 
 **Summary**: Agentic coding tools and practices — using LLM-driven coding agents (e.g. Claude Code) to plan, build, and validate technical workflows.
-**Last updated**: 2026-09-03
+**Last updated**: 2026-09-07
 
 ---
+
+- See [[Reproducible_Science]] for RSECon26's AI/agentic-coding session cluster ("Evolving the RSE role in the age of generative and agentic AI," "Code Translation using Large Language Models," "Training to Protect Research Integrity in the Age of AI-assisted Coding") and for RAIRR, the Institute for Research Software's community-maintained Responsible AI Risk Register for research software engineering, workshopped live as an RSECon26 Birds-of-a-Feather session.
 
 - *Django's contribution checklist, incl. an AI-assistance disclosure field* ([[Open_Source]]): distinct from the Côa project's own workflow above — Django's contribution checklist includes a signed AI-assistance disclosure among its required items. Linda ran the checklist's own tutorial exercise end to end and opened a real PR from her fork; it was closed once the tutorial itself was complete, since it was a practice run rather than a real contribution attempt. See [[Open_Source]] for the full case. Keywords: AI disclosure, Django, open source, PR checklist. Related: [[Open_Source]], [[Reproducible_Science]].
 

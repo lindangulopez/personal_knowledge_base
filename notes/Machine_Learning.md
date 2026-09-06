@@ -1,10 +1,11 @@
 # Machine Learning
 
 **Summary**: Models, techniques, and applications of machine learning.
-**Last updated**: 2026-08-28
+**Last updated**: 2026-09-07
 
 ---
 
+- See [[Reproducible_Science]] for a cluster of RSECon26 talks on ML infrastructure and methods: PyEarthTools (a Python framework for reproducible ML pipelines in environmental science), PEtab SciML (a format spec for hybrid mechanistic-ODE/neural-network parameter estimation), multi-user LLM inference services for research computing, and PharosAI (a federated-learning platform for multimodal cancer-research data), plus the R-sig-ecology digest's Bayesian-modelling (R-INLA) and genomic-prediction courses noted in [[Conservation]].
 - See [[Reproducible_Science]] for Linda's ECCB 2026 talk on SWHID/CodeMeta and AI-assisted-research code provenance — why "AI was used" disclosure is insufficient without identifying which code, version, and how it changed.
 - See [[Reproducible_Science]] for the FORRT AI in Metascience Online Conference (28–30 Sept 2026) — a free online event on AI's role in literature discovery, evidence synthesis, replications/reproductions, and pre-registration workflows.
 - See [[Reproducible_Science]] for the International Science Council's "Preparing national research ecosystems for AI: strategies and progress" report, comparing national strategies for integrating AI into science and research.
