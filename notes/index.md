@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — ZNIEFF-Marines de Guyane: the French marine natural-heritage inventory's methodology (Type I/II zones, determinant-species scoring) and its 2015 Guyane results, 18 zones across ~140,000 km².
 - [[codeMeta_meeting]] — the RSECon26 CodeMeta workshop's own website: full 3-hour session agenda, the explicit metadata-mapping workflow, and the four Horizon Europe projects (FAIR2ADAPT, OSCARS, EVERSE, OSTrails) it builds on.
 - [[Reproducible_Science]] — IRSC26 (Sheffield, 7-8 Sept 2026): full programme, keynotes from Riva Quiroga and Software Heritage co-founder Stefano Zacchiroli, plus a ReSA research-software policy resource hub.
-- [[Conservation]] — Rewilding Portugal's September newsletter (a Vale Carapito guided walk, a Douro-Côa boat-tour interview) and an R-sig-ecology digest of Bayesian-modelling and genomic-prediction courses.
 
 ## Topics
 
