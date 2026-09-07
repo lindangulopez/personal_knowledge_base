@@ -1,7 +1,7 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-09-05
+**Last updated**: 2026-09-07
 
 ---
 
@@ -33,6 +33,8 @@
 ## RSECon26 — CodeMeta workshop
 
 - *"Making Research Software FAIR with CodeMeta" (RSECon26)*: Interactive workshop (Parts I & II) at the Research Software Engineering Conference 2026, Sheffield, UK, 9–11 September 2026, co-located with IRSC26 (7–8 Sept). Co-authored and presented by Esteban Gonzalez, Linda Angulo Lopez, Anas El Hounsri, and Aida Jafarbigloo; slides and mapping handout deposited to Zenodo, DOI [10.5281/zenodo.22210982](https://doi.org/10.5281/zenodo.22210982). Teaches CodeMeta as a JSON-LD/schema.org exchange layer against research-software metadata fragmentation: auto-generating `codemeta.json` (GitHub Actions, autocodemeta, SOMEF), avoiding common metadata pitfalls, mapping other schemas into CodeMeta via structured crosswalks and SSSOM, and using LLMs to assist mapping. The "Hands-on Exercise: Mapping Metadata to CodeMeta" deck reviewed on the 1 Sept call is part of this session. Full professional-context detail and co-author roles at [[Professional_Background]]. Keywords: RSECon26, CodeMeta, FAIR software, SSSOM, crosswalks, Sheffield, workshop. Related: [[Reproducible_Science]], [[Professional_Background]].
+
+- *Addendum, 7 Sept 2026 — workshop website* ([Making Research Software FAIR with CodeMeta](https://oeg-upm.github.io/rsecon26-codemeta/)): The workshop's own site lays out the full 3-hour session structure — Welcome (5 min); FAIR research software & CodeMeta (10 min); the CodeMeta tool ecosystem: GitHub Actions, CFF conversion, AutoCodeMeta, metadata quality assurance (20 min); a discussion comparing workflows for generating CodeMeta (15 min); Hands-on 1 (40 min — generate/improve a `codemeta.json`, detect pitfalls, explore automation and archiving via Software Heritage); a break (20 min); metadata mappings & methodology (15 min — crosswalks, transformations, information loss, LLM-assisted mapping); Hands-on 2 (40 min — map a schema to CodeMeta in groups and justify difficult decisions); wrap-up & discussion (15 min). States the mapping workflow explicitly: select schema → select properties → understand semantics → find CodeMeta candidates → compare definitions → classify mapping → identify transformations → document & justify, with the key rule *"do not map properties only because their names look similar — compare definitions, expected values, types, cardinality and examples."* Names four Horizon Europe projects the workshop builds on: **FAIR2ADAPT** (Grant 101188256 — FAIR Digital Objects and semantic interoperability turning data into actionable climate-adaptation knowledge, with EOSC), **OSCARS** (Grant 101129751 — Open Science uptake across EOSC Science Clusters), **EVERSE** (Grant 101129744 — research-software-excellence community, quality practices, and reusable resources), and **OSTrails** (Grant 101130187 — Open Science Plan-Track-Assess pathways, DMP/Scientific-Knowledge-Graph/FAIR-assessment interoperability). Keywords: workshop agenda, mapping workflow, Horizon Europe, FAIR2ADAPT, OSCARS, EVERSE, OSTrails, EOSC. Related: [[Reproducible_Science]], [[Professional_Background]].
 
 ## Nature / *Scientific Data* — "CODE beyond FAIR"
 
