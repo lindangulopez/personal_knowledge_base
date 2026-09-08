@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]] — Linda's own GitHub Discussion scoping which ideas from "Reimagining Scientific Computing in the Age of AI" to adopt in the Côa connectivity pipeline.
-- [[Reproducible_Science]] — FAIR4RS foundational documents: the FAIR Principles for Research Software v1.0, and the "Defining Research Software" scoping report behind them.
-- [[Agentic_Coding]] — "Reimagining Scientific Computing in the Age of AI": a 2025 workshop report on redesigning research-software practice for the AI era.
+- [[Reproducible_Science]] — FAIRsFAIR's 2020 "FAIRness of software" assessment report (Morane Gruenpeter et al.), the earliest documented root of the FAIR4RS lineage already on this page.
+- [[Agentic_Coding]] — The full primary source behind the "Reimagining Scientific Computing in the Age of AI" framing: Argonne's 2025 workshop report on socio-technical co-design for scientific computing.
+- [[Conservation]] — Linda's own GitHub Discussion scoping which ideas from that report to adopt in the Côa connectivity pipeline.
 
 ## Topics
 
