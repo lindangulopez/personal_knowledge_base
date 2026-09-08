@@ -1,7 +1,7 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-09-07
+**Last updated**: 2026-09-08
 
 ---
 
@@ -19,6 +19,8 @@
 - *Earlier calls (context)*: 4 Aug 2026 — informal sync (Linda, Aida, Maryam) on paper contributions, contributor attribution, and migrating the draft off Google Docs. 7 Jul 2026 — (Linda, Daniel) PR to CodeMeta completed, RSECon abstract accepted, paper timeline set (Overleaf draft late July, submission window mid-August), and a plan to open a GitHub issue on separating the Crosswalks work from the Vocabulary. Keywords: CodeMeta, meeting history, paper timeline. Related: [[Reproducible_Science]].
 
 ## Recent CodeMeta project updates
+
+- [Bolognese version minimum should be 2.0.0](https://github.com/codemeta/codemeta.github.io/issues/140) (`codemeta/codemeta.github.io` #140, opened by meldra, 7 Sept 2026, forwarded to Linda via her Inria address 8 Sept 2026, `raw/Zimbra.pdf`): Bug report flagging that the CodeMeta website lists the [Bolognese](https://github.com/front-matter/bolognese) tool's minimum supported version as 1.0.0 when it should read 2.0.0 — explicitly scoped to the website's tools-page content, not the CodeMeta terms themselves or the CodeMeta Generator (both flagged in the issue template as belonging to other repos). Another concrete instance of the tools-page crowdsourcing mechanism covered by the standing issue #133 below and the #138 cffr report above. Keywords: CodeMeta, tools page, Bolognese, version accuracy, bug report. Related: [[Reproducible_Science]].
 
 - [CFFR is not listed](https://github.com/codemeta/codemeta.github.io/issues/138) (`codemeta/codemeta.github.io` #138, opened by meldra, 5 Sept 2026): Flags that [cffr](https://github.com/ropensci/cffr), an R package for reading, writing, and validating `CITATION.cff` files, is missing from the CodeMeta website's tools page — a concrete instance of the same crowdsourcing/community-reporting mechanism as the running issue #133 below. Keywords: CodeMeta, tools page, cffr, CITATION.cff, R package. Related: [[Reproducible_Science]].
 

@@ -1,9 +1,11 @@
 # Professional Background
 
 **Summary**: Linda's own career history — environmental governance and ecological restoration work in South Africa, database/GIS development roles in France, and current open-science and landscape-connectivity work — kept as reference for anything that draws on her real experience.
-**Last updated**: 2026-09-07 (RSEcon26 Zenodo record author-list correction)
+**Last updated**: 2026-09-08 (Women in GIS Natural Resources community of practice)
 
 ---
+
+- *Women in GIS — "Communities of Practice: Natural Resources" (2026)*: Linda is registered for a [Women in GIS](https://womeningis.org) Natural Resources community-of-practice call over Zoom, 9 Sept 2026, 1:00 PM PST (the reminder names the connection details as a member-only benefit, so kept out of this note, matching the Public Sector entry below). Members can volunteer a 5-minute lightning talk or offer to facilitate a future session by contacting outreach@womeningis.org. Source: `raw/Gmail - Reminder_ Communities of Practice_ Natural Resources (2026), 9 Sep 2026.pdf`. Keywords: Women in GIS, community of practice, natural resources, GIS networking, professional development. Related: [[Conservation]].
 
 - *WILDLABS community recruitment post (4 Sept 2026)*: Linda posted a self-introduction on WILDLABS.net's "Welcome to WILDLABS!" community thread, publicly recruiting contributors to her Rewilding Portugal Côa Valley eco-connectivity project (GitHub) across GIS QA, GeoAI, Python/data, validation, documentation, and illustration tasks — full detail at [[Conservation]]. Keywords: WILDLABS, community recruitment, open collaboration, Côa Valley. Related: [[Conservation]].
 
