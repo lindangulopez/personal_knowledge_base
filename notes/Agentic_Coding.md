@@ -1,9 +1,11 @@
 # Agentic Coding
 
 **Summary**: Agentic coding tools and practices — using LLM-driven coding agents (e.g. Claude Code) to plan, build, and validate technical workflows.
-**Last updated**: 2026-09-07
+**Last updated**: 2026-09-08
 
 ---
+
+- *"Reimagining Scientific Computing in the Age of AI" — scoping it down to a laptop-scale project* ([arXiv:2510.03413](https://arxiv.org/abs/2510.03413), 2025 workshop report, 40+ national-lab/university/industry participants): A report written for large research centres on redesigning software practice — technical and people sides together — now that AI writes a substantial share of scientific code; three recommendations (trustworthy modular software even with AI-written parts, disciplined-but-not-restrictive AI use in teams, continuous training) and four near-term actions (shared AI compute, cross-disciplinary teaching, written responsible-AI guidelines, public-private partnership pilots). Linda used it as the explicit frame for a governance discussion on her own Côa Valley pipeline, asking which ideas transfer to a project built for resource-limited conservation groups rather than a national lab — see [[Conservation]] for the nine concrete proposals that came out of it. Keywords: AI in scientific computing, research software practice, responsible AI guidelines, workshop report. Related: [[Conservation]], [[Reproducible_Science]].
 
 - See [[Reproducible_Science]] for RSECon26's AI/agentic-coding session cluster ("Evolving the RSE role in the age of generative and agentic AI," "Code Translation using Large Language Models," "Training to Protect Research Integrity in the Age of AI-assisted Coding") and for RAIRR, the Institute for Research Software's community-maintained Responsible AI Risk Register for research software engineering, workshopped live as an RSECon26 Birds-of-a-Feather session.
 

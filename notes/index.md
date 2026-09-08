@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]] — Restoration Ecology Early View alert: a review of biochar and nanobiochar for dryland restoration and biological soil crust recovery.
-- [[Reproducible_Science]] — The Amsterdam Declaration on Funding Research Software Sustainability (ADORE.software): the Declaration itself, Dutch signatories' progress update, and IRSC26 BoF/breakout session materials.
-- [[Professional_Background]] — Linda's registration for Women in GIS's "Communities of Practice: Natural Resources" (2026) monthly Zoom call.
+- [[Conservation]] — Linda's own GitHub Discussion scoping which ideas from "Reimagining Scientific Computing in the Age of AI" to adopt in the Côa connectivity pipeline.
+- [[Reproducible_Science]] — FAIR4RS foundational documents: the FAIR Principles for Research Software v1.0, and the "Defining Research Software" scoping report behind them.
+- [[Agentic_Coding]] — "Reimagining Scientific Computing in the Age of AI": a 2025 workshop report on redesigning research-software practice for the AI era.
 
 ## Topics
 
