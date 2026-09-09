@@ -1,9 +1,11 @@
 # Data
 
 **Summary**: Datasets and data sources of general interest.
-**Last updated**: 2026-08-27 (added TRANSLOC conservation-translocation database)
+**Last updated**: 2026-09-09 (added metadat R package)
 
 ---
+
+- [metadat: Meta-Analysis Datasets](https://cran.r-project.org/web/packages/metadat/index.html): A CRAN R package (v1.6-0, GPL-2/3, author Wolfgang Viechtbauer et al.) collecting meta-analysis datasets for teaching, illustrating/testing meta-analytic methods, and validating published analyses. Depends on the `metafor` package ecosystem (also used by `metaforest`, `orchaRd`, `RoBMA`, and other meta-analysis/effect-size tools). Keywords: meta-analysis, R package, CRAN, metafor, effect sizes, teaching datasets. Related: [[Reproducible_Science]].
 
 - See [[Professional_Background]] for the PostgreSQL/GIS database-administration roles (Muséum national d'Histoire naturelle, INRAE, GRDF) behind Linda's data-engineering background.
 
