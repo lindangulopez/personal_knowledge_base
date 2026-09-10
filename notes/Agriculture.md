@@ -5,6 +5,8 @@
 
 ---
 
+- See [[Conservation]] for the World Bank/SANBI/DFFE 20-year assessment of South Africa's Biodiversity Stewardship Program, which documents regenerative-agriculture practices and rangeland-productivity gains as socio-economic benefits of the programme.
+
 - See [[Conservation]] for the Camargue ecotourism comparison's manade pastoral economy — semi-feral horses/cattle managed by gardians as working stock (fighting-bull breeding, wool/meat, tourism), contrasted against the Côa Valley's purely conservation-grazing Sorraia horses and Tauros cattle.
 - See [[Political_Ecology]] for the IASC newsletter's note on a book presentation covering pastoral/agropastoral grazing-land governance in Chad (cultivation expansion, climate irregularity, and conflict reshaping transhumance rules) — 2026 is also the UN's International Year of Rangelands and Pastoralists.
 - See [[Conservation]] for the dehesa/montado open-grazing land-management pattern and the Sorraia-horse/Tauros-cattle grazing regimes documented across the Côa Valley field surveys — rewilding as a form of land management.
