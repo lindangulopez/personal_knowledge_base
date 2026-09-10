@@ -6,8 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Agentic_Coding]] — RSECon26's AI Carpentry talk on training the RSE community to protect research integrity as LLM-assisted coding spreads.
-- [[Open_Source]] — RSECon26 Day 1 training talks: Bioconductor's community-led bioinformatics workshops across Africa, NOC's researcher-upskilling programme, and the Met Office's volunteer Git/GitHub documentation team.
+- [[Reproducible_Science]] — BioFAIR's UK-wide life-science infrastructure programme and Scriber, Sheffield's on-premises transcription service for sensitive research data.
+- [[Data]] — Zarr-Cesium: browser-native visualisation of terabyte-scale scientific data with no backend infrastructure.
+- [[Open_Source]] — April Johnson's RSECon26 keynote: why community-building is infrastructure, not a nice-to-have, in open scientific computing.
 - [[Reproducible_Science]] — DashVERSE, EVERSE's customizable dashboard for monitoring and visualising research-software quality assessments.
 - [[Climate_Change]] — Kirsty Pringle's RSECon26 keynote on sustainable research computing, plus the Green DiSC certification and SparkHub's DRI-emissions course.
 

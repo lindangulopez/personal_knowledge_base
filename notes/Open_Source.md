@@ -1,9 +1,11 @@
 # Open Source
 
 **Summary**: Open-source project contribution workflows, governance, and community tooling.
-**Last updated**: 2026-09-10 (RSECon26 Day 1 training-and-community talks — Bioconductor Africa, NOC upskilling, Met Office's part-time Scrum documentation team)
+**Last updated**: 2026-09-10 (RSECon26 Day 3 opening keynote on social infrastructure in open scientific computing)
 
 ---
+
+- *Keynote — April Johnson: "Social Infrastructure: The Human Work Behind Open Scientific Computing"* (RSECon26 keynote, Day 3, 11 Sept 2026, 09:15-10:00, Lecture Theatre 1, The Wave, session #226; `raw/File (1).md`; April Johnson, Community and People Lead at [2i2c](https://2i2c.org/) — also serves on the Jupyter Community Building Committee and the PyOpenSci Executive Council): 2i2c builds open, interactive computing infrastructure (JupyterHub, Jupyter Book) for research/education communities on the premise that science and education impact is mostly social, not technical — so the work centres on building network effects *between* member communities rather than solving each one's needs in isolation. The keynote's central claim: connection-building — the "soft skills" work of understanding, trust, and moving ideas into action — is not secondary to technical infrastructure, it *is* infrastructure. Draws on 2i2c's community-driven model and stories from the Jupyter/open-scientific-Python communities to walk through five concrete practices for turning big community visions into reality, arguing "soft skills" deserve a seat at the table in technical-infrastructure work rather than being treated as a nice-to-have. Keywords: social infrastructure, 2i2c, JupyterHub, community building, open scientific computing. Related: [[Reproducible_Science]].
 
 - *Training to Protect Research Integrity in the Age of AI-assisted Coding* — see [[Agentic_Coding]] for the full entry: the AI Carpentry project's Community-of-Practice approach to LLM-aware research-computing training, and the tension between teaching LLM use and staying aligned with The Carpentries' core values.
 

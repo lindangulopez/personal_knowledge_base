@@ -1,9 +1,11 @@
 # Data
 
 **Summary**: Datasets and data sources of general interest.
-**Last updated**: 2026-09-09 (added metadat R package)
+**Last updated**: 2026-09-10 (RSECon26 talk on browser-native Zarr visualisation at terabyte scale)
 
 ---
+
+- *Zarr-Cesium: Browser-Native Visualisation of Terabyte-Scale Multidimensional Scientific Data Without Backend Infrastructure* (RSECon26 talk, Day 3, 11 Sept 2026, 11:45-12:15, Lecture Theatre 1, The Wave, session #165; `raw/File (4).md`, [Zenodo record 22217936](https://zenodo.org/records/22217936), `raw/Zarr-Cesium_ Browser-Native Visualisation of Terabyte-Scale Multidimensional Scientific Data Without Backend Infrastructure.md`, `Zarr Cesium - RSECon26.pdf`; Tobias Ferreira, National Oceanography Centre): Targets the gap between cloud-native Zarr storage/compute (mature) and Zarr visualisation (still stuck on server-side tile generation, raster preprocessing pipelines, and persistent infrastructure that duplicates data and separates visual products from the underlying dataset). **Zarr-Cesium** is an open-source TypeScript library streaming chunked array data straight from object storage and rendering scalar fields, volumetric slices, and animated vector fields entirely client-side via CesiumJS/WebGL2 — no backend services, no tile-generation pipeline. Engineering focus: cloud-native data access, multiscale pyramid selection, CF-compliant metadata interpretation, request-cancellation strategies, GPU rendering pipelines, and performance tuning at terabyte scale. Already running operationally inside NOC's AtlantiS visualisation tool and released open-source for wider environmental/geospatial adoption — a concrete case of reducing infrastructure barriers to scientific dissemination while keeping visualisation reproducible and interactive. Keywords: Zarr, Cesium, WebGL, browser-native visualisation, terabyte-scale data, National Oceanography Centre. Related: [[Remote_Sensing]], [[Reproducible_Science]].
 
 - [metadat: Meta-Analysis Datasets](https://cran.r-project.org/web/packages/metadat/index.html): A CRAN R package (v1.6-0, GPL-2/3, author Wolfgang Viechtbauer et al.) collecting meta-analysis datasets for teaching, illustrating/testing meta-analytic methods, and validating published analyses. Depends on the `metafor` package ecosystem (also used by `metaforest`, `orchaRd`, `RoBMA`, and other meta-analysis/effect-size tools). Keywords: meta-analysis, R package, CRAN, metafor, effect sizes, teaching datasets. Related: [[Reproducible_Science]].
 
