@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Data]] — The `metadat` R package: a CRAN collection of meta-analysis datasets for teaching and validating meta-analytic methods.
-- [[Reproducible_Science]] — FAIRsFAIR's 2020 "FAIRness of software" assessment report (Morane Gruenpeter et al.), the earliest documented root of the FAIR4RS lineage already on this page.
-- [[Agentic_Coding]] — The full primary source behind the "Reimagining Scientific Computing in the Age of AI" framing: Argonne's 2025 workshop report on socio-technical co-design for scientific computing.
+- [[Agentic_Coding]] — RSECon26's "Evolving the RSE role in the age of generative and agentic AI": a community vision for why the RSE role survives GenAI.
+- [[Reproducible_Science]] — RSECon26 Day 2 talks: Guix/ravanan and Snakemake reproducible workflows, CodeEntropy's graph-based architecture, and FAIRifying the research journey with OSTrails.
+- [[Climate_Change]] — Kirsty Pringle's RSECon26 keynote on sustainable research computing, plus the Green DiSC certification and SparkHub's DRI-emissions course.
 
 ## Topics
 

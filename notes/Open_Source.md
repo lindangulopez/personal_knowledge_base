@@ -1,9 +1,11 @@
 # Open Source
 
 **Summary**: Open-source project contribution workflows, governance, and community tooling.
-**Last updated**: 2026-09-05
+**Last updated**: 2026-09-10 (RSECon26 talk on CHAOSS/Augur community-health metrics for JOSS software)
 
 ---
+
+- *Understanding the community health of research software* (RSECon26 talk, Day 2, 10 Sept 2026, 15:30-16:00, Lecture Theatre 1, The Wave, session #155; `raw/File.md`/`raw/File (8).md`, two Zenodo slide deposits — [22637815](https://zenodo.org/records/22637815) (7 Sept) and [22685640](https://zenodo.org/records/22685640) (10 Sept, same-day update), `raw/Understanding the community health of research software.md` ×2, `JOSS metrics.pdf` ×2; Daniel S. Katz, Sean P. Goggins — University of Illinois Urbana-Champaign, University of Missouri): Uses the **CHAOSS** metrics (chaoss.community) and the **Augur** tool to analyse community health across ~3,200 software packages peer-reviewed and published by the Journal of Open Source Software (JOSS) — a class of research software specifically intended to be shared community software whose developers seek scholarly credit. Compares these metrics against non-research software to surface the factors distinctive to published research software's community dynamics, giving developers, users, and funders a comparative basis for assessing open-source project health rather than judging any one project in isolation. Keywords: CHAOSS, Augur, JOSS, community health metrics, open-source research software. Related: [[Reproducible_Science]], [[Data]].
 
 - [Open Source Observatory (OSOR)](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor): The European Commission's collection/knowledge hub for public sector free and open source software — news, events, a Knowledge Centre, OSPO/open-source-governance guidance, an interactive country resource map, and a newsletter. Currently highlighting the new **EU Open Source Strategy**, part of the European Tech Sovereignty Package, which places open source at the centre of EU technological sovereignty and promotes European open alternatives to non-EU proprietary software. Keywords: OSOR, EU Open Source Strategy, OSPO, public sector FOSS, European Commission. Related: [[Reproducible_Science]], [[OSPO-RADAR]] (private).
 

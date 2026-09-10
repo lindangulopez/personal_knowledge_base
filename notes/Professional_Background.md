@@ -1,9 +1,11 @@
 # Professional Background
 
 **Summary**: Linda's own career history — environmental governance and ecological restoration work in South Africa, database/GIS development roles in France, and current open-science and landscape-connectivity work — kept as reference for anything that draws on her real experience.
-**Last updated**: 2026-09-08 (Women in GIS Natural Resources community of practice)
+**Last updated**: 2026-09-10 (RSECon26 Emerging Voices talk attended on Day 2)
 
 ---
+
+- *Emerging Voices — Rosie Wood: "Reflecting on things that didn't go to plan"* (RSECon26 Emerging Voices talk, Day 2, 10 Sept 2026, 10:00-10:15, session #228; `raw/File (2).md`; Rosie Wood, Research Engineering Group/Research Computing, Alan Turing Institute): A talk Linda attended at RSECon26, challenging the reflex to conflate "didn't go to plan" with "went wrong" — Wood talks through a period of her own life that didn't go to plan and reflects on whether it really was a failure as a result, drawing lessons that apply beyond individual careers to how RSEs build and sustain community. Wood frames her own vision for RSE around people and how they work together rather than pure technical practice. Kept here as part of Linda's own RSECon26 Day 2 attendance record, alongside the CodeMeta workshop and other conference entries already logged at [[codeMeta_meeting]] and [[Reproducible_Science]]. Keywords: RSECon26, Emerging Voices, RSE community, career reflection, Alan Turing Institute. Related: [[Reproducible_Science]].
 
 - *Women in GIS — "Communities of Practice: Natural Resources" (2026)*: Linda is registered for a [Women in GIS](https://womeningis.org) Natural Resources community-of-practice call over Zoom, 9 Sept 2026, 1:00 PM PST (the reminder names the connection details as a member-only benefit, so kept out of this note, matching the Public Sector entry below). Members can volunteer a 5-minute lightning talk or offer to facilitate a future session by contacting outreach@womeningis.org. Source: `raw/Gmail - Reminder_ Communities of Practice_ Natural Resources (2026), 9 Sep 2026.pdf`. Keywords: Women in GIS, community of practice, natural resources, GIS networking, professional development. Related: [[Conservation]].
 
