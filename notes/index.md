@@ -6,8 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Agentic_Coding]] — RSECon26's "Evolving the RSE role in the age of generative and agentic AI": a community vision for why the RSE role survives GenAI.
-- [[Reproducible_Science]] — RSECon26 Day 2 talks: Guix/ravanan and Snakemake reproducible workflows, CodeEntropy's graph-based architecture, and FAIRifying the research journey with OSTrails.
+- [[Agentic_Coding]] — RSECon26's AI Carpentry talk on training the RSE community to protect research integrity as LLM-assisted coding spreads.
+- [[Open_Source]] — RSECon26 Day 1 training talks: Bioconductor's community-led bioinformatics workshops across Africa, NOC's researcher-upskilling programme, and the Met Office's volunteer Git/GitHub documentation team.
+- [[Reproducible_Science]] — DashVERSE, EVERSE's customizable dashboard for monitoring and visualising research-software quality assessments.
 - [[Climate_Change]] — Kirsty Pringle's RSECon26 keynote on sustainable research computing, plus the Green DiSC certification and SparkHub's DRI-emissions course.
 
 ## Topics
