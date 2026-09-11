@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Open_Source]] — world-gov-domain-names GitHub repo: curated government domain names for 197 jurisdictions, the data pipeline behind the State of Public Code report.
-- [[Machine_Learning]] — SCAI's weekly AI newsletter: Sylvain Le Corff named Deputy Director, plus the Claude Campus Ambassadors Program and an AI4Science cosmology seminar.
-- [[Conservation]] — R-sig-ecology digest: two machine-learning-for-ecology courses (Instats' computational-biology seminar, Transmitting Science's tidymodels-based R course).
+- [[Professional_Background]] — Linda's confirmed AI4OMICS talk (2 Oct 2026, Paris): "Préserver le code de la biodiversité," extending her ECCB 2026 Software Heritage/CodeCommons talk to a biodiversity/omics audience.
+- [[Safe_and_Just]] — Global Artivism Month: an invitation for Linda to join a Global Majority-led cultural-activism movement (1 Nov-10 Dec 2026).
+- [[Reproducible_Science]] — GFRN AI Working Group task reminder and an AREN call for AI-in-Africa research collaborators.
 
 ## Topics
 
