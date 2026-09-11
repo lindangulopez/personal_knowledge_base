@@ -1,9 +1,11 @@
 # Open Source
 
 **Summary**: Open-source project contribution workflows, governance, and community tooling.
-**Last updated**: 2026-09-10 (RSECon26 Day 3 opening keynote on social infrastructure in open scientific computing)
+**Last updated**: 2026-09-11 (world-gov-domain-names repo, the data pipeline behind the State of Public Code report)
 
 ---
+
+- [world-gov-domain-names](https://github.com/SoftwareHeritage/world-gov-domain-names) (canonical repo under the SoftwareHeritage GitHub org; captured via Linda's own fork `lindangulopez/world-gov-domain-names`; Babashka/Clojure pipeline, maintainer Bastien Guerry `bastien.guerry@inria.fr`, captured 11 Sept 2026): A list of domain names to consider when exploring the contribution of governments and central administrations to publicly available source code. Collects and curates official domain names for 197 jurisdictions (193 UN member states, 2 UN observer states — Holy See, Palestine — plus Taiwan and Kosovo kept for context), sorted into `central` (ministries, national agencies), `central-1` (first administrative tier: states, Länder, regions), and out-of-scope `local` (municipalities, counties). Per-country curation (`curated.csv`/`excluded.csv`, hand-edited; everything else generated) draws on crt.sh TLS-certificate harvests, HTTPS/MX probes, Wikidata, IANA/UN-DESA/CIA Factbook/OECD cross-checks, and official public-body directories, producing consolidated CSVs plus `forge-candidates.csv`/`known-forges.csv`/`forge-unknown-swh.csv` — leads for the [swh-sopc-data-sources](https://gitlab.softwareheritage.org/swh/products/insights/swh-sopc-data-sources) catalogue, checked against what the **Software Heritage archive** doesn't yet know. This is the underlying domain-classification pipeline feeding [stateofpubliccode.org](https://stateofpubliccode.org/) — the same *State of Public Code* report and Public Code Observatory (Software Heritage/UNESCO/UN ODET) already logged below. Keywords: government open source, public sector domains, Software Heritage, State of Public Code, forge discovery, Babashka. Related: [[Reproducible_Science]], [[Data]], [[Professional_Background]].
 
 - See [[Reproducible_Science]] for the SIMU-DATA 2026 workshop's talk on integrating the open-source AiiDA workflow engine into CALMIP's Dataverse-based Callisto HPC data portal for reproducible, replayable processing chains.
 

@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Open_Source]] — world-gov-domain-names GitHub repo: curated government domain names for 197 jurisdictions, the data pipeline behind the State of Public Code report.
 - [[Machine_Learning]] — SCAI's weekly AI newsletter: Sylvain Le Corff named Deputy Director, plus the Claude Campus Ambassadors Program and an AI4Science cosmology seminar.
 - [[Conservation]] — R-sig-ecology digest: two machine-learning-for-ecology courses (Instats' computational-biology seminar, Transmitting Science's tidymodels-based R course).
-- [[Reproducible_Science]] — RSECon26 Day 3 wrap-up email: conference logistics plus two newly-surfaced sponsor sessions (Alan Turing Institute's "Hut 23," UK AIRR intro).
 
 ## Topics
 
