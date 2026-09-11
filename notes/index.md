@@ -6,11 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Machine_Learning]] — SCAI's weekly AI newsletter: Sylvain Le Corff named Deputy Director, plus the Claude Campus Ambassadors Program and an AI4Science cosmology seminar.
+- [[Conservation]] — R-sig-ecology digest: two machine-learning-for-ecology courses (Instats' computational-biology seminar, Transmitting Science's tidymodels-based R course).
 - [[Reproducible_Science]] — RSECon26 Day 3 wrap-up email: conference logistics plus two newly-surfaced sponsor sessions (Alan Turing Institute's "Hut 23," UK AIRR intro).
-- [[Conservation]] — World Bank/SANBI/DFFE's 20-year assessment of South Africa's Biodiversity Stewardship Program: 2.76M ha secured, lessons learned, and 10 forward-looking recommendations.
-- [[Data]] — Zarr-Cesium: browser-native visualisation of terabyte-scale scientific data with no backend infrastructure.
-- [[Data]] — Zarr-Cesium: browser-native visualisation of terabyte-scale scientific data with no backend infrastructure.
-- [[Open_Source]] — April Johnson's RSECon26 keynote: why community-building is infrastructure, not a nice-to-have, in open scientific computing.
 
 ## Topics
 
