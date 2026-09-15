@@ -6,8 +6,8 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — Restoration Ecology Early View Alert (15 Sep 2026): Cerrado topsoil-removal/direct-seeding restoration and biocrust-microbe seed biopriming for saline coastal wetlands.
 - [[Professional_Background]] — Linda's confirmed AI4OMICS talk (2 Oct 2026, Paris): "Préserver le code de la biodiversité," extending her ECCB 2026 Software Heritage/CodeCommons talk to a biodiversity/omics audience.
-- [[Safe_and_Just]] — Global Artivism Month: an invitation for Linda to join a Global Majority-led cultural-activism movement (1 Nov-10 Dec 2026).
 - [[Reproducible_Science]] — GFRN AI Working Group task reminder and an AREN call for AI-in-Africa research collaborators.
 
 ## Topics
