@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Reproducible_Science]] — RDA P27 pre-event logistics (Kia Oval, London, 6-9 Oct 2026) plus a PCI Ecology recommendation on European mink home-range estimation.
+- [[Conservation]] — SER2027 (12th World Conference on Ecological Restoration, Lisbon, Aug-Sep 2027) opens its Call for Proposals for symposia and training courses.
 - [[Professional_Background]] — Linda's AI4OMICS talk deck is built: "Preserving the Code of Biodiversity," covering SWHID/CodeMeta, CodeCommons (StarCoder2, GENCI-scale targets), and Europe's software-sovereignty gap.
-- [[Reproducible_Science]] — French Open Science Strategy 2026-2033's full SO7 objective: a national software catalogue (A1), sovereign forge (A2), and OSPO network (A3), alongside the already-logged SWH support action (A4).
-- [[Conservation]] — Restoration Ecology Early View Alert (15 Sep 2026): Cerrado topsoil-removal/direct-seeding restoration and biocrust-microbe seed biopriming for saline coastal wetlands.
 
 ## Topics
 
