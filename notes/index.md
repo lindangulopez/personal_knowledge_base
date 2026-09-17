@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]] — Launch of the French Open Science Strategy 2026-2033: Software Heritage gets a dedicated action line (SO7.A4), SWHID recommended as the national software-identifier standard alongside DOI.
+- [[Professional_Background]] — Linda's AI4OMICS talk deck is built: "Preserving the Code of Biodiversity," covering SWHID/CodeMeta, CodeCommons (StarCoder2, GENCI-scale targets), and Europe's software-sovereignty gap.
+- [[Reproducible_Science]] — French Open Science Strategy 2026-2033's full SO7 objective: a national software catalogue (A1), sovereign forge (A2), and OSPO network (A3), alongside the already-logged SWH support action (A4).
 - [[Conservation]] — Restoration Ecology Early View Alert (15 Sep 2026): Cerrado topsoil-removal/direct-seeding restoration and biocrust-microbe seed biopriming for saline coastal wetlands.
-- [[Professional_Background]] — Linda's confirmed AI4OMICS talk (2 Oct 2026, Paris): "Préserver le code de la biodiversité," extending her ECCB 2026 Software Heritage/CodeCommons talk to a biodiversity/omics audience.
 
 ## Topics
 
