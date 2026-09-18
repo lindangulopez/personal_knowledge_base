@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Machine_Learning]] — SCAI "Events, Calls & AI News #week38": 2024-2025 activity report, a GraphRAG workshop, and the Abu Dhabi School on Computational Materials Discovery.
+- [[Safe_and_Just]] — Global Artivism's Europe Virtual Convening (21-23 Sept 2026) opens registration, with sessions on epistemic justice, civic space, and artivism's role ahead of Ethiopia 2027.
 - [[Reproducible_Science]] — RDA P27 pre-event logistics (Kia Oval, London, 6-9 Oct 2026) plus a PCI Ecology recommendation on European mink home-range estimation.
-- [[Conservation]] — SER2027 (12th World Conference on Ecological Restoration, Lisbon, Aug-Sep 2027) opens its Call for Proposals for symposia and training courses.
-- [[Professional_Background]] — Linda's AI4OMICS talk deck is built: "Preserving the Code of Biodiversity," covering SWHID/CodeMeta, CodeCommons (StarCoder2, GENCI-scale targets), and Europe's software-sovereignty gap.
 
 ## Topics
 
