@@ -1,7 +1,7 @@
 # Python
 
 **Summary**: Python packages, libraries, and code notes.
-**Last updated**: 2026-08-26 (geospatial tooling + teaching notebooks)
+**Last updated**: 2026-09-19 (Text-as-Data with Python seminar backlink)
 
 ---
 
@@ -12,3 +12,4 @@
 - See [[Conservation]] for the Côa Valley Eco-Connectivity notebook's pure-Python (scipy.sparse) circuit-theory pipeline, built to avoid a Julia/Circuitscape runtime dependency.
 - See [[Reproducible_Science]] for the reproducibility framing behind that same pipeline choice.
 - See [[Agriculture]] for the Agribound package for field boundary delineation.
+- See [[Machine_Learning]] for the Text-as-Data with Python seminar (Jihye Park, Instats, Sept 2026), applying Python text-cleaning/record-linkage/topic-modelling methods to ecological and environmental documents.

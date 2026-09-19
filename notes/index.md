@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Machine_Learning]] — SCAI "Events, Calls & AI News #week38": 2024-2025 activity report, a GraphRAG workshop, and the Abu Dhabi School on Computational Materials Discovery.
-- [[Safe_and_Just]] — Global Artivism's Europe Virtual Convening (21-23 Sept 2026) opens registration, with sessions on epistemic justice, civic space, and artivism's role ahead of Ethiopia 2027.
-- [[Reproducible_Science]] — RDA P27 pre-event logistics (Kia Oval, London, 6-9 Oct 2026) plus a PCI Ecology recommendation on European mink home-range estimation.
+- [[Agriculture]] — Greenpeace Africa's UN General Assembly piece on African women farmers demanding land, seed, and climate-investment rights, tied to 2026's International Year of the Woman Farmer.
+- [[Conservation]] — A Restoration Ecology paper on mowing to control invasive Lupinus polyphyllus, plus Bayesian species-distribution/phylogenetics courses from the R-sig-ecology digest.
+- [[codeMeta_meeting]] — Linda's own CNRS SIST training, "Citer et préserver des codes et logiciels avec SWHID et CodeMeta" (15 Oct 2026, remote).
 
 ## Topics
 
