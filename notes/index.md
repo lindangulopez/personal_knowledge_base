@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Open_Source]] — Switzerland's sovereign open-source workplace programme: openDesk PoC study results plus the Federal Chancellery's official launch of a 3,000-user pilot (end 2027, ~9M CHF).
 - [[Conservation]] — Côa connectivity pipeline team sync call (21 Sept, 15:30 CEST) scheduled via GitHub Discussion, org-wide invite.
 - [[Agriculture]] — Greenpeace Africa's UN General Assembly piece on African women farmers demanding land, seed, and climate-investment rights, tied to 2026's International Year of the Woman Farmer.
-- [[codeMeta_meeting]] — Linda's own CNRS SIST training, "Citer et préserver des codes et logiciels avec SWHID et CodeMeta" (15 Oct 2026, remote).
 
 ## Topics
 
