@@ -6,8 +6,8 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — Côa connectivity pipeline team sync call (21 Sept, 15:30 CEST) scheduled via GitHub Discussion, org-wide invite.
 - [[Agriculture]] — Greenpeace Africa's UN General Assembly piece on African women farmers demanding land, seed, and climate-investment rights, tied to 2026's International Year of the Woman Farmer.
-- [[Conservation]] — A Restoration Ecology paper on mowing to control invasive Lupinus polyphyllus, plus Bayesian species-distribution/phylogenetics courses from the R-sig-ecology digest.
 - [[codeMeta_meeting]] — Linda's own CNRS SIST training, "Citer et préserver des codes et logiciels avec SWHID et CodeMeta" (15 Oct 2026, remote).
 
 ## Topics
