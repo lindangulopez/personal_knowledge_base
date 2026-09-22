@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Open_Source]] — Switzerland's sovereign open-source workplace programme: openDesk PoC study results plus the Federal Chancellery's official launch of a 3,000-user pilot (end 2027, ~9M CHF).
+- [[Reproducible_Science]] — Roberto Di Cosmo's "Good enough is not good enough" essay on AI-crawler waste as an externality, plus the 4th ESFRI Stakeholder Forum Meetup's data-sovereignty panel featuring him.
+- [[Professional_Background]] — Linda's LinkedIn announcement of her SIST SWHID/CodeMeta webinar and AREN trainer credit, plus her Djangonaut Space 2026 Session 7 acceptance (Accessibility/Django).
 - [[Conservation]] — Côa connectivity pipeline team sync call (21 Sept, 15:30 CEST) scheduled via GitHub Discussion, org-wide invite.
-- [[Agriculture]] — Greenpeace Africa's UN General Assembly piece on African women farmers demanding land, seed, and climate-investment rights, tied to 2026's International Year of the Woman Farmer.
 
 ## Topics
 
