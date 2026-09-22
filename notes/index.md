@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — Rewilding Portugal newsletter: the case for prioritising wild prey recovery over livestock-conflict management in the Iberian wolf recovery plan.
+- [[Safe_and_Just]] — Global Artivism Europe Virtual Convening's Day 2 live sessions on resourcing artivism, shrinking civic space, and epistemic justice.
 - [[Reproducible_Science]] — FORRT AI in Metascience's Day 2 ("Replications and reproductions") and Day 3 ("Workshops and analyst variability") session agendas, plus Roberto Di Cosmo's "Good enough is not good enough" essay.
-- [[Conservation]] — Restoration Ecology's Early View paper on the EU Nature Restoration Law's instrumental-vs-relational values framing.
-- [[Professional_Background]] — Linda's LinkedIn announcement of her SIST SWHID/CodeMeta webinar and AREN trainer credit, plus her Djangonaut Space 2026 Session 7 acceptance (Accessibility/Django).
 
 ## Topics
 

@@ -1,11 +1,13 @@
 # Safe and Just
 
 **Summary**: The "safe and just" framing (planetary boundaries + social foundations) applied to conservation and rewilding decisions — where ecological limits and equity of access/benefit are assessed together rather than separately.
-**Last updated**: 2026-09-18 (Global Artivism Europe Virtual Convening registration)
+**Last updated**: 2026-09-22 (Europe Convening — Day 2 live-session reminder)
 
 ---
 
 - See [[Agriculture]] for Greenpeace Africa's piece on African women farmers demanding rights-based food and climate policy ahead of the UN General Assembly — the equity-of-access side of the "safe and just" framing applied to food systems rather than conservation specifically.
+
+- *Global Artivism Europe Virtual Convening — Day 2 live-session reminder* (`raw/Gmail - Join Us Now for Day 2 of the Europe Convening!.pdf`, Alinafe Malonje, Global Artivism Team, 22 Sept 2026, 18:25): A same-day call-to-join for Day 2 of the Europe Convening already logged below — opened with a "Resource Artivism" conversation (inputs from Sara Machado, Creative Europe, and Nina Martin, FundAction), then moved into parallel sessions on "The Rising Right: Shrinking Spaces, Eroding Freedoms," "Migration, Art and Solidarity," and "Epistemic Justice: Knowledge and Power in Artivism," matching the published Day 2 programme. Confirms the convening ran live as scheduled; no new programme detail beyond what's already captured. Keywords: Global Artivism, Europe Convening, Resource Artivism, epistemic justice. Related: [[Political_Ecology]], [[Decolonial_Ecology]].
 
 - *Global Artivism Europe Virtual Convening* (`raw/Gmail - Register for the Global Artivism Europe Virtual Convening, 21 - 23 September.pdf`, Kitti Baracsi, Regional Fellow Europe, 18 Sept 2026): A registration call for the first of Global Artivism's regional virtual convenings, confirming Linda (or others who responded to the movement's earlier call for participation, referenced in the email) helped shape the programme. Three days, 21-23 Sept 2026, all CEST: Day 1 (16:00-20:00) covers Global Artivism's history/ways of working and what "artivism" means to participants; Day 2 (17:00-20:00) covers resourcing artivism and Europe's role in a Global-Majority-led movement, with parallel sessions on shrinking civic spaces, migration, art & solidarity, and epistemic justice; Day 3 (14:00-18:00) covers artivism's role in public policy ahead of the movement's next milestone in Ethiopia in 2027, plus care/wellbeing and sustaining the movement long-term. Extends the Global Artivism Month invitation below from an open call into an actual near-term (this week's) event. Keywords: Global Artivism, Europe Convening, epistemic justice, civic space, artivism, Ethiopia 2027. Related: [[Political_Ecology]].
 
