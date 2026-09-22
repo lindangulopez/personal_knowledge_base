@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]] — Roberto Di Cosmo's "Good enough is not good enough" essay on AI-crawler waste as an externality, plus the 4th ESFRI Stakeholder Forum Meetup's data-sovereignty panel featuring him.
+- [[Reproducible_Science]] — FORRT AI in Metascience's Day 2 ("Replications and reproductions") and Day 3 ("Workshops and analyst variability") session agendas, plus Roberto Di Cosmo's "Good enough is not good enough" essay.
+- [[Conservation]] — Restoration Ecology's Early View paper on the EU Nature Restoration Law's instrumental-vs-relational values framing.
 - [[Professional_Background]] — Linda's LinkedIn announcement of her SIST SWHID/CodeMeta webinar and AREN trainer credit, plus her Djangonaut Space 2026 Session 7 acceptance (Accessibility/Django).
-- [[Conservation]] — Côa connectivity pipeline team sync call (21 Sept, 15:30 CEST) scheduled via GitHub Discussion, org-wide invite.
 
 ## Topics
 
