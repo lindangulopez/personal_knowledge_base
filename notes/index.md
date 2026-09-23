@@ -7,7 +7,7 @@ Table of contents of all notes pages.
 ## Latest Finds
 
 - [[Reproducible_Science]] — Software Heritage's Source Code Exhibition, launched at UNESCO for SWH's 10th anniversary: source code as cultural artefact.
-- [[Conservation]] — FRB-Cesab's Cesabinars webinar series; next up, the Spatman group on spatial patterns in human pressure on biodiversity (1 Oct).
+- [[Conservation]] — WILDLABS Variety Hour, 30 Sept: movement ecology, vicuña tracking, and wireless acoustic playback hardware talks.
 - [[Safe_and_Just]] — Global Artivism Europe Convening's Day 3 close, on sustaining the movement and artivism's role in public policy ahead of Ethiopia 2027.
 
 ## Topics
