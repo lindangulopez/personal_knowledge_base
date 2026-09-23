@@ -1,11 +1,13 @@
 # Safe and Just
 
 **Summary**: The "safe and just" framing (planetary boundaries + social foundations) applied to conservation and rewilding decisions — where ecological limits and equity of access/benefit are assessed together rather than separately.
-**Last updated**: 2026-09-22 (Europe Convening — Day 2 live-session reminder)
+**Last updated**: 2026-09-23 (Europe Convening — Day 3, final-day live-session reminder)
 
 ---
 
 - See [[Agriculture]] for Greenpeace Africa's piece on African women farmers demanding rights-based food and climate policy ahead of the UN General Assembly — the equity-of-access side of the "safe and just" framing applied to food systems rather than conservation specifically.
+
+- *Global Artivism Europe Virtual Convening — Day 3 (final day) live-session reminder* (`raw/Gmail - Join Us Now for the Final Day of the Europe Convening.pdf`, Global Artivism Team, 23 Sept 2026, 14:09, starting immediately at 14:00 CEST): The closing day's call-to-join, matching the published Day 3 programme — "What do artivists want and need from Global Artivism: How to Sustain the Movement," "Bonding through art: Connecting, Care and Wellbeing," and "What is the role of Artivism in Public Policy: Ahead of Ethiopia 2027." Framed as a closing opportunity to "bond and map a way forward together," completing the three-day convening alongside the Day 1/2 entries below. Keywords: Global Artivism, Europe Convening, artivism sustainability, care and wellbeing, Ethiopia 2027. Related: [[Political_Ecology]].
 
 - *Global Artivism Europe Virtual Convening — Day 2 live-session reminder* (`raw/Gmail - Join Us Now for Day 2 of the Europe Convening!.pdf`, Alinafe Malonje, Global Artivism Team, 22 Sept 2026, 18:25): A same-day call-to-join for Day 2 of the Europe Convening already logged below — opened with a "Resource Artivism" conversation (inputs from Sara Machado, Creative Europe, and Nina Martin, FundAction), then moved into parallel sessions on "The Rising Right: Shrinking Spaces, Eroding Freedoms," "Migration, Art and Solidarity," and "Epistemic Justice: Knowledge and Power in Artivism," matching the published Day 2 programme. Confirms the convening ran live as scheduled; no new programme detail beyond what's already captured. Keywords: Global Artivism, Europe Convening, Resource Artivism, epistemic justice. Related: [[Political_Ecology]], [[Decolonial_Ecology]].
 

@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]] — EUROPARC webinar (8 Oct) on managing active-tourism growth in protected areas via the European Charter for Sustainable Tourism.
+- [[Conservation]] — FRB-Cesab's Cesabinars webinar series; next up, the Spatman group on spatial patterns in human pressure on biodiversity (1 Oct).
+- [[Safe_and_Just]] — Global Artivism Europe Convening's Day 3 close, on sustaining the movement and artivism's role in public policy ahead of Ethiopia 2027.
 - [[Open_Source]] — QField 4.3 "Danube": a "summer of stability" release for the QGIS-based open-source field-mapping app.
-- [[Professional_Background]] — Linda's conditional offer of participation in the EU Agri-Hackathon (confirmation due today, 23 Sept).
 
 ## Topics
 
