@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]] — Rewilding Portugal newsletter: the case for prioritising wild prey recovery over livestock-conflict management in the Iberian wolf recovery plan.
-- [[Safe_and_Just]] — Global Artivism Europe Virtual Convening's Day 2 live sessions on resourcing artivism, shrinking civic space, and epistemic justice.
-- [[Reproducible_Science]] — FORRT AI in Metascience's Day 2 ("Replications and reproductions") and Day 3 ("Workshops and analyst variability") session agendas, plus Roberto Di Cosmo's "Good enough is not good enough" essay.
+- [[Conservation]] — EUROPARC webinar (8 Oct) on managing active-tourism growth in protected areas via the European Charter for Sustainable Tourism.
+- [[Open_Source]] — QField 4.3 "Danube": a "summer of stability" release for the QGIS-based open-source field-mapping app.
+- [[Professional_Background]] — Linda's conditional offer of participation in the EU Agri-Hackathon (confirmation due today, 23 Sept).
 
 ## Topics
 

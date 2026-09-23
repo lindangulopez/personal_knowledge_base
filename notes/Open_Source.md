@@ -1,9 +1,11 @@
 # Open Source
 
 **Summary**: Open-source project contribution workflows, governance, and community tooling.
-**Last updated**: 2026-09-22 (backlinks: Djangonaut Space acceptance; Di Cosmo's "Good enough" blog series)
+**Last updated**: 2026-09-23 (QField 4.3 "Danube" release newsletter)
 
 ---
+
+- *QField 4.3 "Danube" — release newsletter* (`raw/Gmail - QField's Latest Exciting News 🎉📱.pdf`, QField/OPENGIS.ch, 23 Sept 2026): Release announcement for QField 4.3, the QGIS-based open-source mobile field-mapping app, first outing for a new yearly "summer of stability" tradition — a sprint dedicated to refining existing features rather than chasing new ones. Headline changes: a completed bookmark manager (dedicated list view, GeoPackage export, bulk delete, a "navigate to bookmark" search action); camera reliability fixes (correct photo rotation, manual rotate/flip, auto-focus/white-balance no longer freezing on hardware/OS misbehaviour, image stamping able to pull attached-feature/layer details); QFieldCloud projects flaggable as templates so new field projects can be spun up directly in-app; and a reworked cloud-sync panel (plain-language "upload"/"discard" terminology, a "danger zone" for discarding local changes, pre-sync change summaries). Measured results: reported crashes down more than 20%, plus 27% more automated test coverage across previously untested C++/QML code. Also covers: QField as the official conference app for FOSS4G Hiroshima 2026; the QGIS User Conference 2026 (5-6 Oct, Laax, Switzerland — OPENGIS.ch's home base) with a dedicated QField excursion; and a QFieldCloud pricing rework (Community free tier unchanged; Flat from €18/user/month; Flex, billed monthly only, from €28/user/month for seasonal teams; Enterprise custom; academia/non-profit discounts available). Keywords: QField, QGIS, open-source field mapping, QFieldCloud, mobile GIS, FOSS4G. Related: [[Cartography]], [[Conservation]].
 
 - See [[Professional_Background]] for Linda's acceptance into Djangonaut Space's 2026 Session 7 (Accessibility/Django, 8-week mentoring, 12 Oct–6 Dec 2026) — a follow-on from her practice PR to django/django below.
 

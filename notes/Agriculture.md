@@ -1,9 +1,11 @@
 # Agriculture
 
 **Summary**: Farming systems, crops, and the tools and data used to study and manage them.
-**Last updated**: 2026-09-19 (Greenpeace Africa — women farmers and the UN General Assembly)
+**Last updated**: 2026-09-23 (backlink: EU Agri-Hackathon conditional offer)
 
 ---
+
+- See [[Professional_Background]] for Linda's conditional selection for the first EU Agri-Hackathon (16-18 Oct 2026, Brussels award ceremony 8-9 Dec if her team wins) — confirmation due today, 23 Sept 2026, 23:59 CEST.
 
 - *From our soil to the UN General Assembly: Africa's women farmers demand change* (Greenpeace Africa, written by Elizabeth Atieno, Food Campaigner; shared via LinkedIn, `raw/Gmail - From our soil to the UN General Assembly_ Africa's women farmers demand change.pdf`, 19 Sept 2026): African women farmers are growing food under mounting climate pressure — unpredictable rainfall, intensifying droughts and floods, degrading agricultural land, rising input costs, and expanding corporate influence over seeds and food systems — and are responding by restoring soils, conserving crop diversity, managing water, and preserving agricultural knowledge that strengthens climate resilience. The UN designated 2026 the International Year of the Woman Farmer, meant to move discussion beyond recognition toward the policies, resources, and land/seed/finance/climate-investment rights women farmers have consistently demanded, given their continued underrepresentation in decisions that shape their productivity, income, and ability to recover from failed harvests. Greenpeace Africa Executive Director Dr. Oulie Keita is carrying this message to the UN General Assembly, arguing that women farmers' lived experience should inform government approaches to food security, climate adaptation, and agricultural development. Keywords: women farmers, Africa, UN General Assembly, International Year of the Woman Farmer, food sovereignty, climate resilience, seed rights. Related: [[Political_Ecology]], [[Safe_and_Just]], [[Climate_Change]].
 
