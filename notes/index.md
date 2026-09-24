@@ -8,7 +8,7 @@ Table of contents of all notes pages.
 
 - [[Safe_and_Just]] — Linda's own LinkedIn post on GCA's Climate Week NYC newsletter: independent science, restoration as security, and "no more parachute science."
 - [[Political_Ecology]] — CIEL policy brief on sea level rise, the ICJ's 2025 climate advisory opinion, and states' human-rights obligations to prevent and repair climate harm.
-- [[Conservation]] — WILDLABS Variety Hour, 30 Sept: movement ecology, vicuña tracking, and wireless acoustic playback hardware talks.
+- [[Conservation]] — Restoration Ecology Early View: Brazilian grassland seed harvesting, riparian fen assisted migration, Kalimantan peatland livelihoods; plus a GEO BON Nagoya Protocol/ABS webinar (5 Oct).
 
 ## Topics
 
