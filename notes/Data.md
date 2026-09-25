@@ -1,9 +1,11 @@
 # Data
 
 **Summary**: Datasets and data sources of general interest.
-**Last updated**: 2026-09-10 (RSECon26 talk on browser-native Zarr visualisation at terabyte scale)
+**Last updated**: 2026-09-25 (ADEME/ANR/Anses colloque on environmental-health research data, 25 Nov 2026)
 
 ---
+
+- *Colloque « Données de la recherche en santé-environnement : des données au service des politiques publiques »* (`raw/Gmail - [sist] Colloque de recherche en santé-environnement _ des données au service des politiques publiques - 25 novembre 2026.pdf`, forwarded to the CNRS SIST list by Juliette Fabre, 25 Sept 2026): a one-day conference organised by ADEME, ANR and Anses on Wednesday 25 November 2026 at the Maison de la RATP (espace du Centenaire, 189 rue de Bercy, Paris 12), also open by video. Its starting point: research data are still under-used, both for new research and to inform public decisions, especially in environmental health, even though open-science policy encourages wider access. Research funded by the three agencies is presented around three themes: (i) the diversity of data produced and how it changes over time, (ii) citizen-science data, (iii) data as an aid to decision-making. The day closes with a round table on data platforms such as Green Data for Health, covering interoperability between systems and European perspectives. Keywords: santé-environnement, research data reuse, open science, citizen science, Green Data for Health, public policy. Related: [[Reproducible_Science]].
 
 - See [[Reproducible_Science]] for the SIMU-DATA 2026 workshop on simulation-data cataloguing/FAIR practices (MDverse, Galactica, SimDM/SimDAL) across molecular dynamics, CFD, astrophysics, and climate modelling.
 

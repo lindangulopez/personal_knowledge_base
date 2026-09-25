@@ -1,9 +1,11 @@
 # Machine Learning
 
 **Summary**: Models, techniques, and applications of machine learning.
-**Last updated**: 2026-09-19 (Text-as-Data with Python seminar, R-sig-ecology digest)
+**Last updated**: 2026-09-25 (SCAI #week39: AI-usage guidelines teaching kit)
 
 ---
+
+- *SCAI "Events, Calls & AI News #week39"* (`raw/Gmail - Events, calls & AI news #week39.pdf`, Sorbonne Cluster for Artificial Intelligence, 25 Sept 2026): SCAI-Education has a new turnkey teaching kit, tested with a first pilot group, that helps instructors co-build AI-usage guidelines for a course together with their students (resources to follow). The "Innovation Days 4 AI" initiative continues, and the 2026-2027 SCAI grant for AI internships and the GDR I-GAIA 2026 call for contributions are open. Events: datacraft's GraphRAG in Practice (28 Sept), a webinar on choosing an AI system (1 Oct), the CARE research chair workshop on health issues in insurance (1 Oct), Paris IdeAS 2026-2027 (2 Oct), and "AI and the art of fiction" with Jorge Volpi (22 Oct). Jobs: a CIFRE PhD on neuro-symbolic proof systems and defeasible logics, a SCAI/BnF postdoc in AI and NLP, and two contractual lecturer-researcher posts (AI and robotics, AI for industry). Also the DIM AI4IDF call for scientific events and AI initiatives 2027. Keywords: SCAI, Sorbonne, AI in teaching, AI-usage guidelines, GraphRAG, internship funding. Related: [[Reproducible_Science]].
 
 - *R-sig-ecology Digest, Vol 222, Issue 11 — Text-as-Data with Python* (`raw/Gmail - R-sig-ecology Digest, Vol 222, Issue 11.pdf`, r-sig-ecology mailing list, 19 Sept 2026; reminder posted by Michael Zyphur, Instats): A 2-day livestreamed seminar, "Text-as-Data with Python" (21 and 23 Sept 2026), taught by Jihye Park (University of Geneva), aimed at ecological/environmental researchers who want to bring textual sources — reports, field records, policy documents — into their analysis alongside other environmental data. Covers Python methods for text cleaning, record linkage, and topic modelling (LDA, Structural Topic Models, BERT-based classifiers), with an emphasis on assessing models against a baseline and saving reproducible text measures for later reuse. Two companion Bayesian ecological-modelling courses from the same digest (species distribution modelling, spatial phylogenetics) are logged on [[Conservation]]. Keywords: text-as-data, Python, topic modelling, LDA, BERT, record linkage, ecological text methods. Related: [[Conservation]], [[Python]], [[Reproducible_Science]].
 
