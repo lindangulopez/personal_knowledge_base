@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — A *Restoration Ecology* review on restoring several linked habitats at once: bigger biodiversity gains, but monitoring needs common metrics and longer timelines.
 - [[Reproducible_Science]] — *The Source Code of Science* reaches v1.6: two new appendices on citing a living course note and on how the book derives its own SWHID at build time.
 - [[codeMeta_meeting]] — CodeMeta PR #145 goes live: the tools page swaps its ⚠️ "not latest version" warning for a positive ⭐ affirmation.
-- [[Safe_and_Just]] — Dispatches from the Global Artivism Network: streaming-partner call, the Charter for Compassion youth gathering, and the *Confronting Climate (Im)Mobilities* anthology.
 
 ## Topics
 
