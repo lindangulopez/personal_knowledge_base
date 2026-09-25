@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]] — SER's *Restoration Now* September 2026 newsletter: Mediterranean Basin ahead of SER2027, a Long Point wetland Restoration Story, and five upcoming restoration webinars.
-- [[Safe_and_Just]] — Linda's own LinkedIn post on GCA's Climate Week NYC newsletter: independent science, restoration as security, and "no more parachute science."
-- [[Political_Ecology]] — CIEL policy brief on sea level rise, the ICJ's 2025 climate advisory opinion, and states' human-rights obligations to prevent and repair climate harm.
+- [[Reproducible_Science]] — *The Source Code of Science* reaches v1.6: two new appendices on citing a living course note and on how the book derives its own SWHID at build time.
+- [[codeMeta_meeting]] — CodeMeta PR #145 goes live: the tools page swaps its ⚠️ "not latest version" warning for a positive ⭐ affirmation.
+- [[Safe_and_Just]] — Dispatches from the Global Artivism Network: streaming-partner call, the Charter for Compassion youth gathering, and the *Confronting Climate (Im)Mobilities* anthology.
 
 ## Topics
 

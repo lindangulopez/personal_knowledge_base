@@ -1,7 +1,7 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-09-22 (SIST webinar publicly announced on LinkedIn)
+**Last updated**: 2026-09-25 (PR #145 — ⭐ instead of ⚠️ on the tools page, live)
 
 ---
 
@@ -24,6 +24,8 @@
 - *Earlier calls (context)*: 4 Aug 2026 — informal sync (Linda, Aida, Maryam) on paper contributions, contributor attribution, and migrating the draft off Google Docs. 7 Jul 2026 — (Linda, Daniel) PR to CodeMeta completed, RSECon abstract accepted, paper timeline set (Overleaf draft late July, submission window mid-August), and a plan to open a GitHub issue on separating the Crosswalks work from the Vocabulary. Keywords: CodeMeta, meeting history, paper timeline. Related: [[Reproducible_Science]].
 
 ## Recent CodeMeta project updates
+
+- [Swap to version affirmation with ⭐ instead of warning](https://github.com/codemeta/codemeta.github.io/pull/145) (`codemeta/codemeta.github.io` PR #145, by meldra, opened 25 Sept 2026, `raw/private/*codemeta/Swap to version affirmation with ⭐ instead of warning by meldra · Pull Request #145.md`): The live pull request implementing the ⭐-for-latest-version scheme discussed on the CodeMeta crosswalks call and previewed on `codemeta.opinions.monster` — resolves [issue #122](https://github.com/codemeta/codemeta.github.io/issues/122). Two files change: `content/tools.md` drops the old two-line note ("A star (⭐) indicates a tool known to support the latest version... Tools marked with a warning symbol (⚠️) are not known to support the latest version") in favour of a single positive-framing sentence — "A star (⭐) indicates a tool known to support the latest version of CodeMeta" — removing the warning language entirely rather than just adding the star; `layouts/shortcodes/tools.md` flips the underlying Hugo template logic from `{{ if in .versions $latest | not }} ⚠️ {{ end }}` to `{{ if in .versions $latest }} ⭐ {{ end }}`, and additionally reverses the displayed version list so the newest version sorts first (`.versions | sort | collections.Reverse`). Keywords: CodeMeta, tools page, star vs warning, issue #122, Hugo shortcode, meldra. Related: [[Reproducible_Science]].
 
 - [Bolognese version minimum should be 2.0.0](https://github.com/codemeta/codemeta.github.io/issues/140) (`codemeta/codemeta.github.io` #140, opened by meldra, 7 Sept 2026, forwarded to Linda via her Inria address 8 Sept 2026, `raw/Zimbra.pdf`): Bug report flagging that the CodeMeta website lists the [Bolognese](https://github.com/front-matter/bolognese) tool's minimum supported version as 1.0.0 when it should read 2.0.0 — explicitly scoped to the website's tools-page content, not the CodeMeta terms themselves or the CodeMeta Generator (both flagged in the issue template as belonging to other repos). Another concrete instance of the tools-page crowdsourcing mechanism covered by the standing issue #133 below and the #138 cffr report above. Keywords: CodeMeta, tools page, Bolognese, version accuracy, bug report. Related: [[Reproducible_Science]].
 
