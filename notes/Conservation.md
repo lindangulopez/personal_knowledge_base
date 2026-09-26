@@ -1,9 +1,11 @@
 # Conservation
 
 **Summary**: Ecological connectivity, habitat protection, and conservation planning.
-**Last updated**: 2026-09-25 (Restoration Ecology review on multi-habitat restoration)
+**Last updated**: 2026-09-26 (Global Artivism Month Côa Valley gallery now live — see Cartography)
 
 ---
+
+- See [[Cartography]] for *"Movement, Water, Connection,"* the now-live public Côa Valley Global Artivism Month gallery (field illustration paired with connectivity maps from this project's own pipeline, plus its own "safe and just" essay) and its "Join the Côa call" for participants — the public follow-through on the private planning draft logged below, also posted as [GitHub Discussion #27](https://github.com/coa-connectivity-lab/eco-connectivity-workflow/discussions/27). See also [[Publications]] for the pipeline's own methods paper, now posted as a Zenodo preprint.
 
 - [Global patterns in multi-realm and multi-habitat ecological restoration: implications for research, practice, and monitoring](https://doi.org/10.1111/rec.70554) (`processed/2026-09-25_Gmail - Early View Alert_ Restoration Ecology.pdf`, Restoration Ecology Early View alert, 25 Sept 2026): An open-access review by Wills, Vozzo, Sievers, Willis and Gilby (e70554, online 24 Sept 2026) of restoration projects that cover several realms or habitats at once, for example land and sea, or linked coastal habitats. Its key message for practice: restoring several linked systems together can bring greater biodiversity gains than restoring each one alone, but inconsistent monitoring frameworks and response metrics make these projects hard to evaluate and scale up. The authors call on funders to reward standardised cross-system assessment protocols, longer monitoring periods and coordinated multi-system designs, rather than treating habitat linkages as secondary. They also give guidelines for defining project scope and measurable ecological targets. This connects directly to connectivity work, where the links between habitats are the object of study. See also [[Data]] (monitoring standards) and [[Remote_Sensing]]. Keywords: multi-habitat restoration, habitat linkages, restoration monitoring, standardised metrics, connectivity, review.
 

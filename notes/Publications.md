@@ -1,7 +1,7 @@
 # Publications
 
 **Summary**: Status tracker for planned outputs from the Rewilding Portugal / Côa Valley project — papers, StoryMap chapters, illustration plates, and blog posts — as a working list toward Linda's goal of eventually writing articles, publishing natural-history illustrations, and writing blog posts.
-**Last updated**: 2026-08-27 (paper-abstracts draft updated to 16 candidate papers)
+**Last updated**: 2026-09-26 (paper #1 posted as a Zenodo preprint)
 
 ---
 
@@ -11,7 +11,7 @@ From `portfolio/paper-abstracts-draft.md` (updated 27 Aug 2026) — 16 candidate
 
 | # | Working title | Suggested venue | Status | Topic page |
 |---|---|---|---|---|
-| 1 | A reproducible, pure-Python connectivity pipeline for a data-sparse rewilding landscape | *Methods in Ecology and Evolution* / *Conservation Science and Practice* | Draft abstract | [[Python]], [[Reproducible_Science]] |
+| 1 | A reproducible, pure-Python connectivity pipeline for a data-sparse rewilding landscape | *Methods in Ecology and Evolution* / *Conservation Science and Practice* | **Preprint posted (v0.1)** — see update below | [[Python]], [[Reproducible_Science]] |
 | 2 | Legal geographies of ecological water rights: South Africa's Reserve vs. the Portugal/EU absence | *Environmental Politics* / *Journal of Environmental Law* | Draft abstract | [[Political_Ecology]] |
 | 3 | When conservation follows dispossession, not the reverse: Portugal vs. South Africa | *Conservation and Society* / *Human Dimensions of Wildlife* | Draft abstract | [[Political_Ecology]] |
 | 4 | From hunting-zone cadastre to safari economics: land-tenure feasibility | *Land Use Policy* / *Biological Conservation* | Draft abstract | [[Political_Ecology]], [[Data]] |
@@ -27,6 +27,8 @@ From `portfolio/paper-abstracts-draft.md` (updated 27 Aug 2026) — 16 candidate
 | 14 | A criteria-based residential livability score and real-network visitor-access analysis | *Applied Geography* / *Data in Brief*, companion to nos. 1 and 7 | Draft abstract (data descriptor) | [[Data]], [[Urban_Planning]] |
 | 15 | Connectivity-informed translocation siting: auditing Iberian translocations against the pipeline's own current-flow model | *Conservation Science and Practice* / *Animal Conservation* / *Biological Conservation*, companion to no. 1 | Draft abstract | [[Conservation]], [[Data]] |
 | 16 | Rural depopulation as both opportunity and constraint for conservation translocations: Portugal-Spain-France | *People and Nature* / *Human Dimensions of Wildlife* / *Journal for Nature Conservation*, companion to nos. 3 and 14 | Draft abstract | [[Conservation]], [[Urban_Planning]] |
+
+**Update, 26 Sept 2026 — paper #1 posted as a preprint.** *"Movement, Water, Connection: a reproducible Python connectivity workflow and field illustration for the Greater Côa Valley rewilding landscape, Portugal"* is now live on Zenodo as a v0.1 preprint (Linda Angulo Lopez, affiliation Rewilding Portugal; [DOI 10.5281/zenodo.22979020](https://doi.org/10.5281/zenodo.22979020), journal-article type, 1.1 MB `article.pdf`). Abstract highlights beyond what's already tracked elsewhere on this vault: ten focal species grouped by movement medium (land/water/air) per the Prima et al. 2024 multi-species framework; Random Forest suitability models on GBIF records converted to resistance surfaces on a 100 m grid over a 10,230 km² catchment-extended study area, solved with a `scipy.sparse` moving-window current-flow solver; three penalties layered on top of the base model — a recency-weighted MODIS fire penalty (2015-July 2025, 10.07% of grid cells burned at least once), a distance-decayed barrier penalty from 22 field-recorded barriers tiered by observed permeability, and a flat penalty over two UNESCO heritage areas; a direction-of-effect sanity check (land resistance 94.0 at fully-blocking barriers vs. 88.6 at easily-crossable ones; water 100.0 vs. 22.7); and an explicit validation caveat ("training accuracies 0.78 to 0.99 are not validation, and we say so"). The strongest combined corridor follows the lower Côa north to the Douro. The abstract's closing line frames the preprint and the [[Cartography|"Movement, Water, Connection" field-illustration gallery]] as two halves of one test: whether a connectivity model can be read, and challenged, by the people who live in the valley. Minor production notes: the DOI briefly 404'd before propagating; a same-day GitHub Actions run adding the preprint link to the `eco-connectivity-workflow` README failed (exit code 1, only unrelated Node.js/runner-image deprecation warnings shown — not yet re-run). Keywords: Zenodo preprint, connectivity model, resistance surfaces, Omniscape, fire penalty, GBIF, Random Forest. Related: [[Conservation]], [[Cartography]], [[Reproducible_Science]].
 
 ## StoryMap chapters (public, general-audience track)
 

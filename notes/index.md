@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Open_Source]] — The EU Open Source Policy Summit (29 Jan 2027, Brussels, invitation-only) on putting the European Commission's Open Source Strategy into practice.
-- [[Data]] — ADEME, ANR and Anses hold a one-day colloque (25 Nov 2026, Paris and online) on putting environmental-health research data to work for public policy.
-- [[Machine_Learning]] — SCAI's new teaching kit helps instructors co-build AI-usage guidelines with their students.
+- [[Cartography]] — "Movement, Water, Connection," the Côa Valley's Global Artivism Month gallery, is now live: field illustration paired with connectivity maps, plus an open call for contributors.
+- [[Publications]] — The Côa connectivity pipeline's methods paper is now posted as a Zenodo preprint (v0.1), DOI 10.5281/zenodo.22979020.
+- [[Safe_and_Just]] — "The Starter," Global Artivism Month's first recipe book, sets out how anyone — artist, collective, or organisation — can take part.
 
 ## Topics
 
