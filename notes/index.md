@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Open_Source]] — The EU Open Source Policy Summit (29 Jan 2027, Brussels, invitation-only) on putting the European Commission's Open Source Strategy into practice.
 - [[Data]] — ADEME, ANR and Anses hold a one-day colloque (25 Nov 2026, Paris and online) on putting environmental-health research data to work for public policy.
 - [[Machine_Learning]] — SCAI's new teaching kit helps instructors co-build AI-usage guidelines with their students.
-- [[Conservation]] — A *Restoration Ecology* review on restoring several linked habitats at once: bigger biodiversity gains, but monitoring needs common metrics and longer timelines.
 
 ## Topics
 
