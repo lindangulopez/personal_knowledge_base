@@ -7,8 +7,8 @@ Table of contents of all notes pages.
 ## Latest Finds
 
 - [[Cartography]] — "Movement, Water, Connection," the Côa Valley's Global Artivism Month gallery, is now live: field illustration paired with connectivity maps, plus an open call for contributors.
-- [[Publications]] — The Côa connectivity pipeline's methods paper is now posted as a Zenodo preprint (v0.1), DOI 10.5281/zenodo.22979020.
-- [[Safe_and_Just]] — "The Starter," Global Artivism Month's first recipe book, sets out how anyone — artist, collective, or organisation — can take part.
+- [[Publications]] — A second Côa preprint: "Rabbits, wildcats, pond turtles and a river that stayed," a rewilding synthesis with seven testable hypotheses and an Iron Age fine-line illustration method, DOI 10.5281/zenodo.22997241.
+- [[Agentic_Coding]] — Spatial Thoughts' alumni session (28 Sept) shows how AI sped up migrating its website to Hugo, including a public archive of all class notes.
 
 ## Topics
 
