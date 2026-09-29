@@ -1,9 +1,13 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-09-25 (PR #145 — ⭐ instead of ⚠️ on the tools page, live)
+**Last updated**: 2026-09-29 (v4.0 tagged on GitHub)
 
 ---
+
+## CodeMeta v4.0 tagged — 29 Sept 2026
+
+- [CodeMeta v4.0 release](https://github.com/codemeta/codemeta/releases/tag/4.0) (`codemeta/codemeta`, tagged by Morane Gruenpeter, 29 Sept 2026): the vocabulary's new major version is now live on GitHub — ahead of the internal Q4 target of W41. A small follow-up fix (PR #502, tightening the `position`/`ContactPoint` definitions) landed just after the tag and is being folded in. Full context (private, contract-scoped) on [[codeMeta]]. Keywords: CodeMeta v4.0, release tag, GitHub. Related: [[Reproducible_Science]].
 
 ## Linda's own training — SWHID & CodeMeta (15 Oct 2026)
 

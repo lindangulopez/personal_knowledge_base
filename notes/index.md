@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Cartography]] — "Movement, Water, Connection," the Côa Valley's Global Artivism Month gallery, is now live: field illustration paired with connectivity maps, plus an open call for contributors.
-- [[Publications]] — A second Côa preprint: "Rabbits, wildcats, pond turtles and a river that stayed," a rewilding synthesis with seven testable hypotheses and an Iron Age fine-line illustration method, DOI 10.5281/zenodo.22997241.
-- [[Agentic_Coding]] — Spatial Thoughts' alumni session (28 Sept) shows how AI sped up migrating its website to Hugo, including a public archive of all class notes.
+- [[codeMeta_meeting]] — CodeMeta v4.0 is tagged on GitHub, closing out the namespace-migration and ContactPoint work tracked across recent entries.
+- [[Reproducible_Science]] — FORRT's "agentic reproductions and robustness checks" hands-on workshop materials: give a coding agent a paper to reproduce, then stress-test 6-10 alternative analysis choices against the headline claim.
+- [[Open_Source]] — The AI Preferences (aipref) IETF working-group effort, plus ecosyste.ms's new Science discovery/classification platform for open-source scientific software.
 
 ## Topics
 
