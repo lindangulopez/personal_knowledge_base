@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Conservation]] — Caravela, a GPS-tracked cinereous vulture tagged in the Côa region who flew to Senegal and now breeds in Spain's Sierra de Gata, plus new research on "seascape restoration."
 - [[codeMeta_meeting]] — CodeMeta v4.0 is tagged on GitHub, closing out the namespace-migration and ContactPoint work tracked across recent entries.
 - [[Reproducible_Science]] — FORRT's "agentic reproductions and robustness checks" hands-on workshop materials: give a coding agent a paper to reproduce, then stress-test 6-10 alternative analysis choices against the headline claim.
-- [[Open_Source]] — The AI Preferences (aipref) IETF working-group effort, plus ecosyste.ms's new Science discovery/classification platform for open-source scientific software.
 
 ## Topics
 
