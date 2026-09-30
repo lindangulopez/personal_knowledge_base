@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Open_Source]] — Université Grenoble Alpes' academic OSPO (the first in France) federates researchers, librarians, and tech-transfer staff to treat research software as a citable, preservable scientific output, leaning on Software Heritage for traceability.
 - [[Reproducible_Science]] — Gomez-Diaz and Recio extend their CDUR evaluation protocols (Citation, Dissemination, Use, Research) to research artifacts, and show that ACM artifact badges never evaluate citation or research impact.
 - [[Conservation]] — Caravela, a GPS-tracked cinereous vulture tagged in the Côa region who flew to Senegal and now breeds in Spain's Sierra de Gata, plus new research on "seascape restoration."
-- [[codeMeta_meeting]] — CodeMeta v4.0 is tagged on GitHub, closing out the namespace-migration and ContactPoint work tracked across recent entries.
 
 ## Topics
 
