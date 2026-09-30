@@ -6,8 +6,8 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Open_Source]] — Université Grenoble Alpes' academic OSPO (the first in France) federates researchers, librarians, and tech-transfer staff to treat research software as a citable, preservable scientific output, leaning on Software Heritage for traceability.
-- [[Reproducible_Science]] — Gomez-Diaz and Recio extend their CDUR evaluation protocols (Citation, Dissemination, Use, Research) to research artifacts, and show that ACM artifact badges never evaluate citation or research impact.
+- [[Python]] — CPython's official Big-O reference for built-in types: list append/index are O(1) but front insert/delete are O(n), dict/set are O(1) average-case, range slicing is O(1) regardless of length.
+- [[Reproducible_Science]] — Couperin, the French consortium negotiating open access to scientific documentation, at LIBER 2026 and the Berlin Open Access Conference, plus PANIST now archiving 252,000+ IOP articles.
 - [[Conservation]] — Caravela, a GPS-tracked cinereous vulture tagged in the Côa region who flew to Senegal and now breeds in Spain's Sierra de Gata, plus new research on "seascape restoration."
 
 ## Topics
