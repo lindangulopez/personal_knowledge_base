@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Python]] — CPython's official Big-O reference for built-in types: list append/index are O(1) but front insert/delete are O(n), dict/set are O(1) average-case, range slicing is O(1) regardless of length.
-- [[Reproducible_Science]] — Couperin, the French consortium negotiating open access to scientific documentation, at LIBER 2026 and the Berlin Open Access Conference, plus PANIST now archiving 252,000+ IOP articles.
-- [[Conservation]] — Caravela, a GPS-tracked cinereous vulture tagged in the Côa region who flew to Senegal and now breeds in Spain's Sierra de Gata, plus new research on "seascape restoration."
+- [[Conservation]] — GEO BON's Living Data 2027 call for sessions, Ecology and Society's new issue, and the Amis de la forêt de Fontainebleau's post-fire restoration reflections after this summer's 2,000-hectare burn.
+- [[Climate_Change]] — The African Development Bank's Q3 climate finance newsletter: record MDB climate finance ($163bn) and Great Green Wall land-restoration financing at UNCCD COP17.
+- [[Data]] — The EVORA/ICTV programmatic API for virus taxonomy, with a versioned ontology and an SSSOM crosswalk to NCBI Taxonomy.
 
 ## Topics
 

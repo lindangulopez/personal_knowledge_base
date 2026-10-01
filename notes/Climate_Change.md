@@ -1,9 +1,11 @@
 # Climate Change
 
 **Summary**: Climate trends, impacts, and the data and events used to study them.
-**Last updated**: 2026-09-10 (RSECon26 sustainable-computing keynote plus Green DiSC certification and the SparkHub DRI-emissions course)
+**Last updated**: 2026-10-01 (African Development Bank Climate Finance Newsletter #60)
 
 ---
+
+- *African Development Bank Climate Finance Newsletter #60 — July-September 2026* (`raw/private/conservation/Gmail - African Development Bank Climate Finance Newsletter #60 - July-September 2026.pdf`, Climate Change and Green Growth Department, 30 Sept 2026): Quarterly roundup from Director Anthony Nyong. Highlights: the Bank's push for land-restoration/drought-resilience financing at **UNCCD COP17** (Ulaanbaatar) under the Great Green Wall Initiative, including a high-level dialogue on accelerating investment and calls for Zambezi River Basin restoration financing across its eight basin countries; the **CCDA-XIV** conference (Addis Ababa, "From Pledges to Implementation: The Belém-Antalya-Addis Roadmap") ahead of COP31; MDB climate finance in low/middle-income countries up 21% year-on-year to a record $103bn (all countries: $163bn, +19%); a $13.46M GEF-backed expansion of the Green Mobility Financing Facility for Africa; and additional funding for Côte d'Ivoire's Niger Basin climate-adaptation programme (PIDACC-BN). Looks ahead to CBD COP17 (Yerevan) and COP31 (Antalya). Described per the substantial-document rule. Keywords: African Development Bank, climate finance, UNCCD COP17, Great Green Wall, Zambezi River Basin, multilateral development banks. Related: [[Conservation]].
 
 - See [[Reproducible_Science]] for the SIMU-DATA 2026 workshop's talk on massive-data-management challenges for the next IPCC report's climate modelling (Guillaume Levavasseur, IPSL/Sorbonne).
 

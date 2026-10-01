@@ -1,9 +1,13 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-09-29 (v4.0 tagged on GitHub)
+**Last updated**: 2026-10-01 (PR #145's commits pushed)
 
 ---
+
+## PR #145 commits pushed — 1 Oct 2026
+
+- *[codemeta/codemeta.github.io] PR #145, 2 commits pushed by meldra (Melissa Draper), 1 Oct 2026 00:43* (`raw/private/codemeta/Gmail - Re_ [codemeta_codemeta.github.io] Swap to version affirmation with ⭐ instead of warning (PR #145).pdf`): `c441ac9` "Adjust tool version display for consistency with terms table" and `752b698` "Swap to version affirmation with ⭐ instead of warning" — the actual implementation landing for the PR #145 already tracked below (tools page shows a ⭐ for supporting the latest schema version instead of a ⚠️ warning for lacking it). Keywords: PR #145, meldra, tools page, version affirmation.
 
 ## CodeMeta v4.0 tagged — 29 Sept 2026
 
