@@ -1,9 +1,13 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-10-01 (PR #145's commits pushed)
+**Last updated**: 2026-10-01 (Morane Gruenpeter's EOSC OA2 CodeMeta presentation on Zenodo); 2026-10-01 (PR #145's commits pushed)
 
 ---
+
+## Morane Gruenpeter's EOSC OA2 presentation on Zenodo — 25 Nov 2025
+
+- [CodeMeta: Metadata, Ontologies & Interoperability for Research Software](https://zenodo.org/records/17713873) (Zenodo, Morane Gruenpeter, presented 25 Nov 2025 to the EOSC Opportunity Area 2 on Metadata, Ontologies and Interoperability): introduces CodeMeta as a community-driven solution for research-software interoperability across the European Open Science Cloud, summarising the fragmented software-metadata landscape and the key recommendations from FAIR4RS, the SIRS report, and the RSMD guidelines. Focuses on how CodeMeta is used on Software Heritage as a universal source-code archive and metadata broker, how it integrates into SWH's deposit workflows, and how SWHIDs support cross-infrastructure interoperability. Calls for coordinated EOSC-wide adoption of shared metadata standards and practices. Keywords: CodeMeta, EOSC, Opportunity Area 2, FAIR4RS, SIRS, SWHID, Morane Gruenpeter. Related: [[Reproducible_Science]], [[Data]].
 
 ## PR #145 commits pushed — 1 Oct 2026
 

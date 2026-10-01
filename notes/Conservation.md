@@ -1,9 +1,11 @@
 # Conservation
 
 **Summary**: Ecological connectivity, habitat protection, and conservation planning.
-**Last updated**: 2026-10-01 (GEO BON Living Data 2027 call for sessions; Ecology and Society Vol. 31 Issue 3; Planetary Health Alliance education newsletter; AFF-Infos Fontainebleau post-fire reflections)
+**Last updated**: 2026-10-01 (later: SER2027 proposal-deadline reminder, venue and EU Nature Restoration Regulation timing); 2026-10-01 (GEO BON Living Data 2027 call for sessions; Ecology and Society Vol. 31 Issue 3; Planetary Health Alliance education newsletter; AFF-Infos Fontainebleau post-fire reflections)
 
 ---
+
+- *SER2027 — proposal-deadline reminder, 1 Oct 2026* (`raw/private/conservation/Gmail - SER2027_ Proposal Deadline, Venue Details, and More.pdf`, Society for Ecological Restoration): Final-reminder update to the SER2027 Call for Proposals entry below — symposium/training-course proposals close **7 October 2026, 23:59:59 UTC**, in person only. New detail: the conference's "A Region in Motion" piece notes SER2027 falls **the same week EU Member States submit their final National Restoration Plans under the EU's Nature Restoration Regulation** — a concrete policy hook for the Mediterranean-Basin framing already logged in the September *Restoration Now* entry below. **Venue confirmed**: Centro de Congressos de Lisboa (CCL), on the Tagus River near Belém. Sponsorship tiers range "Seedling" to "Ecosystem Champion," 1,500+ delegates expected from 80+ countries (consistent with the figures already logged). Keywords: SER2027, Lisbon, proposal deadline, Centro de Congressos de Lisboa, EU Nature Restoration Regulation, National Restoration Plans. Related: [[Publications]], [[Professional_Background]], [[Political_Ecology]].
 
 - [Living Data 2027: Call for Sessions is Open!](https://livingdata2027.com/pages/8f1262cf-0fc0-4429-b510-6d820bc3fb35) (`raw/private/conservation/Gmail - [GEO BON - All] Living Data 2027_ Call for Sessions is Open!.pdf`, GEO BON Secretariat via AllMembers, 30 Sept 2026): Call for sessions for **Living Data 2027**, "From Living Data to Ecological Intelligence," 9-12 June 2027, Montreal — parallel sessions, discussions, workshops and other formats on biodiversity data, observations and technology. **Deadline for session proposals: 31 October 2026.** Keywords: GEO BON, Living Data 2027, Montreal, call for sessions, biodiversity data. Related: [[Data]].
 
