@@ -6,7 +6,7 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[codeMeta_meeting]] — Morane Gruenpeter's EOSC Opportunity Area 2 presentation on CodeMeta's role in research-software interoperability and SWH's deposit workflows.
+- [[codeMeta_meeting]] — Three website PRs merged for CodeMeta v4.0 (tools page now stars tools that support the latest version), and a draft hub-and-spoke image shared for community review.
 - [[Conservation]] — SER2027's proposal-deadline reminder, with the Lisbon venue confirmed and the conference timed to EU Member States' National Restoration Plan submissions.
 - [[Climate_Change]] — The African Development Bank's Q3 climate finance newsletter: record MDB climate finance ($163bn) and Great Green Wall land-restoration financing at UNCCD COP17.
 

@@ -1,9 +1,14 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-10-01 (Morane Gruenpeter's EOSC OA2 CodeMeta presentation on Zenodo); 2026-10-01 (PR #145's commits pushed)
+**Last updated**: 2026-10-03 (website PRs #132, #144, #145 merged; v4.0 hub image shared on discussion #467); 2026-10-01 (Morane Gruenpeter's EOSC OA2 CodeMeta presentation on Zenodo); 2026-10-01 (PR #145's commits pushed)
 
 ---
+
+## Website PRs merged and v4.0 hub image shared — 2-3 Oct 2026
+
+- [Request for Feedback on CodeMeta Diagram, discussion #467](https://github.com/codemeta/codemeta/discussions/467#discussioncomment-18730660) (`codemeta/codemeta`, comment of 3 Oct 2026): a draft "Semantic Hub" image for the CodeMeta v4.0 announcement was shared for community review. It reads left to right, from n × n (6 schemas, 30 mappings) to n × 1 to a hub with CodeMeta v4.0 at the centre of twelve schemas, each with one [[Reproducible_Science|crosswalk]]; GitLab, code.json and Zenodo are marked as new or updated in v4.0. Two questions are open: is it technically accurate, and should it be reused on codemeta.github.io. Keywords: CodeMeta v4.0, hub and spoke, crosswalks, discussion #467, diagram.
+- [Swap to version affirmation with ⭐ instead of warning, PR #145](https://github.com/codemeta/codemeta.github.io/pull/145) (`codemeta/codemeta.github.io`, merged 2 Oct 2026): merged together with [PR #144](https://github.com/codemeta/codemeta.github.io/pull/144) (tool version display consistent with the terms table) and [PR #132](https://github.com/codemeta/codemeta.github.io/pull/132) (terms-table script). The tools page now marks tools that support the latest CodeMeta version with a star instead of warning about the others. [PR #143](https://github.com/codemeta/codemeta.github.io/pull/143) (v3 to v4 changes, version badge shortcode) was rebased on 3 Oct and is waiting for review, and [codemeta-generator PR #95](https://github.com/codemeta/codemeta-generator/pull/95) (main website navigation on the generator) is planned for merge before the end of October. Related: [[Open_Source]]. Keywords: codemeta.github.io, tools page, PR #145, PR #144, PR #132, PR #143, generator.
 
 ## Morane Gruenpeter's EOSC OA2 presentation on Zenodo — 25 Nov 2025
 
