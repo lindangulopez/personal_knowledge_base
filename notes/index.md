@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Climate_Change]] — A classic PNAS study: hurricanes with feminine names kill significantly more people than equally severe ones with masculine names, driven by gender-stereotyped risk perception.
 - [[codeMeta_meeting]] — Community replies on the CodeMeta v4.0 hub image: bidirectional arrows requested, and a maintainer flags that crosswalks (unlike the vocabulary) aren't yet v4.0-aligned.
 - [[Conservation]] — SER2027's proposal-deadline reminder, with the Lisbon venue confirmed and the conference timed to EU Member States' National Restoration Plan submissions.
-- [[Climate_Change]] — The African Development Bank's Q3 climate finance newsletter: record MDB climate finance ($163bn) and Great Green Wall land-restoration financing at UNCCD COP17.
 
 ## Topics
 
