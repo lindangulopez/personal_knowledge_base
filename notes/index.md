@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Reproducible_Science]] — OpenAIRE's 2026-2028 strategy and its new partnership with Free Knowledge Africa on African research visibility.
+- [[Conservation]] — Restoration Ecology Early View: nursery seed sourcing in Chamaecrista fasciculata, depth-dependent regrowth limits for Sphagnum peatland restoration.
 - [[Political_Ecology]] — Panama launches an international push at the UN for a Universal Declaration of the Rights of Nature, with a new "For Nature Coalition of States."
-- [[Conservation]] — SER2027's Call for Proposals deadline extended to 21 October 2026; CERP certification applications due 31 October.
-- [[Agriculture]] — EU Agri-Hackathon 2026 team-building call held; Linda's team and challenge track confirmed (detail kept private).
 
 ## Topics
 
