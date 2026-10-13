@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Political_Ecology]] — "Geopolitics - DRC's georesources," a 3-part LinkedIn series on Congolese mineral politics, conflict, and media bias.
 - [[codeMeta_meeting]] — CodeMeta discussion #507 proposes an `aiAssistance` term for AI-development disclosure.
 - [[Reproducible_Science]] — Seven Guiding Questions for Reproducible AI-Assisted Research: role-based documentation for AI as research partner vs. methodological instrument.
-- [[Open_Source]] — Red Hat webinar on digital sovereignty and open source, with a URSSAF OpenShift case study.
 
 ## Topics
 

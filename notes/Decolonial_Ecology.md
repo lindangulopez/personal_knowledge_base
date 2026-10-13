@@ -1,9 +1,11 @@
 # Decolonial Ecology
 
 **Summary**: Colonial and post-colonial environmental legacies — how empire shaped land, water, and ecological policy, and how that history still bears on present-day climate and conservation questions.
-**Last updated**: 2026-09-01
+**Last updated**: 2026-10-13 (DRC georesources geopolitics cross-link)
 
 ---
+
+- See [[Political_Ecology]] for "Geopolitics - DRC's georesources" (Pierre Escher, 3-part LinkedIn series, 13 Oct 2026) — traces DRC mineral plunder from Leopold II's exploitation through successive colonizations to today's Rwanda/M23/AFC conflict, and the ongoing media/political "omerta" the essay argues obscures it.
 
 - *A medicinal tradition still full of discoveries* (Springer Nature Research Communities digest, 1 Sept 2026, `raw/Gmail - Your weekly round-up from Research Communities by Springer Nature.pdf`): A Discover/Springer research-community post on an ethnobotanical survey in Batna, Algeria — interviews with 29 healers and herbal practitioners documenting 87 plant species, including three first records for Algerian ethnobotany and previously unreported therapeutic applications. Read alongside this vault's own [[Safe_and_Just|Indigenous Science framing]] as a live example of traditional ecological knowledge still generating original findings in a formerly colonized region, rather than being treated as already fully catalogued. The newsletter's other four items (neuroscience/cancer/global-health journal collections, a chemistry/materials anniversary post) fell outside this vault's topics and were skipped. Keywords: ethnobotany, traditional medicine, Algeria, Batna, indigenous knowledge, Springer Nature. Related: [[Safe_and_Just]], [[Conservation]].
 

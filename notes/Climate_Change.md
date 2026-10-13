@@ -1,9 +1,11 @@
 # Climate Change
 
 **Summary**: Climate trends, impacts, and the data and events used to study them.
-**Last updated**: 2026-10-05 (Jung et al. 2014, gendered hurricane naming and death tolls)
+**Last updated**: 2026-10-13 (DRC georesources geopolitics cross-link); 2026-10-05 (Jung et al. 2014, gendered hurricane naming and death tolls)
 
 ---
+
+- See [[Political_Ecology]] for "Geopolitics - DRC's georesources" (Pierre Escher, 3-part LinkedIn series, 13 Oct 2026) — Part II covers DRC's role as the source of ~70% of global cobalt supply and critical-minerals/rare-earths geopolitics for the energy transition.
 
 - [Female hurricanes are deadlier than male hurricanes](https://doi.org/10.1073/pnas.1402786111) (Kiju Jung, Sharon Shavitt, Madhu Viswanathan, Joseph M. Hilbe, *PNAS* 111(24), 17 June 2014): An archival study of 92 US-landfalling Atlantic hurricanes (1950-2012, Katrina and Audrey excluded as outliers) found that storms rated more feminine on a masculinity-femininity index caused significantly more deaths than equally severe storms rated more masculine — a negative-binomial model estimates a hurricane at MFI 9 (feminine) killing roughly 42 vs. roughly 15 for one at MFI 3 (masculine), holding minimum pressure constant, with the effect concentrated in high-damage storms. Six follow-up lab experiments (over 1,100 participants total) trace the mechanism: people judge male-named hurricanes as more intense and risky and report greater intent to evacuate or follow evacuation orders for them than for female-named storms of identical described severity, consistent with gender stereotypes (men coded as strong/aggressive, women as weak/passive) rather than any real difference in the storms themselves. An explicit-choice follow-up found no such bias when people were asked directly which name sounded riskier — the effect operates on initial, unreflective risk judgements rather than deliberate ones. The authors argue this is an unintended consequence of the 1979 switch to alternating male/female hurricane names (storms were female-only before then) and call for rethinking gendered natural-hazard naming and media "he/she" framing as hurricane severity increases under climate change. Keywords: hurricane naming, gender bias, risk perception, implicit bias, natural hazard communication, climate change preparedness. Related: [[Safe_and_Just]], [[Political_Ecology]].
 
