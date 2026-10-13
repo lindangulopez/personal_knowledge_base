@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]] — OpenAIRE's 2026-2028 strategy and its new partnership with Free Knowledge Africa on African research visibility.
-- [[Conservation]] — Restoration Ecology Early View: nursery seed sourcing in Chamaecrista fasciculata, depth-dependent regrowth limits for Sphagnum peatland restoration.
-- [[Political_Ecology]] — Panama launches an international push at the UN for a Universal Declaration of the Rights of Nature, with a new "For Nature Coalition of States."
+- [[Reproducible_Science]] — Seven Guiding Questions for Reproducible AI-Assisted Research: role-based documentation for AI as research partner vs. methodological instrument.
+- [[Open_Source]] — Red Hat webinar on digital sovereignty and open source, with a URSSAF OpenShift case study.
+- [[Cartography]] — Les Rencontres QGIS-fr 2027 announced for Lille, 22-24 March.
 
 ## Topics
 
