@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Professional_Background]] — Biomimicry for Social Innovation course: four Tuesday classes on Zoom, 27 Oct-17 Nov 2026, plus pre-course tasks.
+- [[Reproducible_Science]] — RDA P27 wrap-up: 462 attendees from 40 countries, photo album, surveys open until 20 Oct.
 - [[Political_Ecology]] — "Geopolitics - DRC's georesources," a 3-part LinkedIn series on Congolese mineral politics, conflict, and media bias.
-- [[codeMeta_meeting]] — CodeMeta discussion #507 proposes an `aiAssistance` term for AI-development disclosure.
-- [[Reproducible_Science]] — Seven Guiding Questions for Reproducible AI-Assisted Research: role-based documentation for AI as research partner vs. methodological instrument.
 
 ## Topics
 
