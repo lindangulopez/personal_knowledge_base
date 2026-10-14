@@ -6,8 +6,8 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Reproducible_Science]] — OSMI self-assessment grid for its open science monitoring Principles: public consultation open until 1 Dec 2026.
 - [[Professional_Background]] — Biomimicry for Social Innovation course: four Tuesday classes on Zoom, 27 Oct-17 Nov 2026, plus pre-course tasks.
-- [[Reproducible_Science]] — RDA P27 wrap-up: 462 attendees from 40 countries, photo album, surveys open until 20 Oct.
 - [[Political_Ecology]] — "Geopolitics - DRC's georesources," a 3-part LinkedIn series on Congolese mineral politics, conflict, and media bias.
 
 ## Topics
