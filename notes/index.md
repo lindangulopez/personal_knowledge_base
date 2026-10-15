@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Python]] — "Demystifying the Django ORM": Simon Charette on how a QuerySet becomes SQL and comes back as model instances, in four phases.
+- [[Open_Source]] — Testing a web page for accessibility: the Orca screen reader on Linux, and the Accessibility Insights for Web extension.
 - [[Machine_Learning]] — AIPA 2026: AI and intellectual property in Africa, workshop in Addis Ababa, 7-8 Dec, apply by 31 Oct.
-- [[Professional_Background]] — Biomimicry for Social Innovation, "Nourishing Networks": mycelium thinking and mutualistic partnerships.
-- [[Conservation]] — CEN Guyane October newsletter: jaguar camera traps at Saül, Kôk de Roch 2030 (cock-of-the-rock, LiDAR mapping), chytrid monitoring, BEST LIFE 2030 call to 8 Dec.
 
 ## Topics
 
