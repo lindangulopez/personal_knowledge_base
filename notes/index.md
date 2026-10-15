@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]] — OSMI self-assessment grid for its open science monitoring Principles: public consultation open until 1 Dec 2026.
+- [[Machine_Learning]] — AIPA 2026: AI and intellectual property in Africa, workshop in Addis Ababa, 7-8 Dec, apply by 31 Oct.
+- [[Professional_Background]] — Biomimicry for Social Innovation, "Nourishing Networks": mycelium thinking and mutualistic partnerships.
 - [[Conservation]] — CEN Guyane October newsletter: jaguar camera traps at Saül, Kôk de Roch 2030 (cock-of-the-rock, LiDAR mapping), chytrid monitoring, BEST LIFE 2030 call to 8 Dec.
-- [[Political_Ecology]] — "Geopolitics - DRC's georesources," a 3-part LinkedIn series on Congolese mineral politics, conflict, and media bias.
 
 ## Topics
 
