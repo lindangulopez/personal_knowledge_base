@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Reproducible_Science]] — CODEMETASOFT: an OSCARS project building CodeMeta tools, an autocomplete wizard, gap detection and an auto-codemeta generator.
 - [[Python]] — "Demystifying the Django ORM": Simon Charette on how a QuerySet becomes SQL and comes back as model instances, in four phases.
 - [[Open_Source]] — Testing a web page for accessibility: the Orca screen reader on Linux, and the Accessibility Insights for Web extension.
-- [[Machine_Learning]] — AIPA 2026: AI and intellectual property in Africa, workshop in Addis Ababa, 7-8 Dec, apply by 31 Oct.
 
 ## Topics
 
