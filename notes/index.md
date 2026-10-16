@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]] — PRIMAD-LID, a poster at RDA P27: a discipline-diagnostic framework for computational reproducibility, with an RO-Crate profile for ML in bioinformatics.
-- [[Conservation]] — FBIS Africa small grants ($5,000-10,000) to mobilise freshwater biodiversity records, deadline 9 Nov; Biodiversa+ on the next European biodiversity partnership.
-- [[Political_Ecology]] — On Navi Pillay's 2026 Nobel Peace Prize: water as a commons held in trust, and ecocide as a fifth Rome Statute crime.
+- [[Agriculture]]: the Commission's 2025 study on farm employees' working conditions, the baseline for CAP social conditionality (payment cuts of 1-100% for labour breaches).
+- [[Agentic_Coding]]: Archify, an agent skill that turns a plan or a repository into an interactive HTML architecture diagram.
+- [[Professional_Background]]: ITA GSUP France 2026 Demo Night (29 Oct, Cisco Paris), programme and venue confirmed.
 
 ## Topics
 

@@ -1,9 +1,11 @@
 # Agriculture
 
 **Summary**: Farming systems, crops, and the tools and data used to study and manage them.
-**Last updated**: 2026-10-08 (EU Agri-Hackathon team-building confirmed)
+**Last updated**: 2026-10-16 (Commission study on farm employees' working conditions and CAP social conditionality); 2026-10-08 (EU Agri-Hackathon team-building confirmed)
 
 ---
+
+- [Study on the working conditions of farm employees in the EU agriculture sector](https://op.europa.eu/en/publication-detail/-/publication/4541b8bd-4bee-11f0-85ba-01aa75ed71a1/language-en) (European Commission, DG AGRI; written by Milieu Law & Policy Consulting, final report April 2025, published June 2025, 189 pages; PDF filed privately, shared in a hackathon team chat): a baseline for evaluating **CAP social conditionality**, which since 1 January 2025 at the latest links CAP payments to compliance with EU labour and occupational-safety rules, with payment cuts from 1% to 100% depending on severity, extent, recurrence and intent. The study maps farm workers' conditions across the EU, the enforcement systems, and how CAP paying agencies and labour inspectorates share information. Figures it reports: around 60% of farm employment is informal (ILO); 32% of the EU's agricultural labour force lacks a written contract (European Platform on Undeclared Work); in Hungarian inspections of 2023, the most frequent violation (40% of cases) was a missing work schedule or falsified working hours. Its main finding on implementation: most paying agencies have no established channel with the enforcement bodies, and interoperable information systems are lacking, especially in decentralised countries such as Austria, Italy and Spain. Used as the evidence base for Linda's EU Agri-Hackathon project. Keywords: CAP, social conditionality, farm workers, seasonal work, undeclared work, paying agencies. Related: [[Safe_and_Just]], [[Data]].
 
 - See [[Professional_Background]] for Linda's conditional selection for the first EU Agri-Hackathon (16-18 Oct 2026, Brussels award ceremony 8-9 Dec if her team wins) — confirmation due today, 23 Sept 2026, 23:59 CEST. **Update, 8 Oct 2026**: team-building call held, team and challenge track assigned — teammate detail kept private, see the private [[Hackathon]] page.
 
