@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]] — CODEMETASOFT: an OSCARS project building CodeMeta tools, an autocomplete wizard, gap detection and an auto-codemeta generator.
-- [[Python]] — "Demystifying the Django ORM": Simon Charette on how a QuerySet becomes SQL and comes back as model instances, in four phases.
-- [[Open_Source]] — Testing a web page for accessibility: the Orca screen reader on Linux, and the Accessibility Insights for Web extension.
+- [[Reproducible_Science]] — PRIMAD-LID, a poster at RDA P27: a discipline-diagnostic framework for computational reproducibility, with an RO-Crate profile for ML in bioinformatics.
+- [[Conservation]] — FBIS Africa small grants ($5,000-10,000) to mobilise freshwater biodiversity records, deadline 9 Nov; Biodiversa+ on the next European biodiversity partnership.
+- [[Political_Ecology]] — On Navi Pillay's 2026 Nobel Peace Prize: water as a commons held in trust, and ecocide as a fifth Rome Statute crime.
 
 ## Topics
 

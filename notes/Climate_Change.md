@@ -1,9 +1,11 @@
 # Climate Change
 
 **Summary**: Climate trends, impacts, and the data and events used to study them.
-**Last updated**: 2026-10-13 (DRC georesources geopolitics cross-link); 2026-10-05 (Jung et al. 2014, gendered hurricane naming and death tolls)
+**Last updated**: 2026-10-16 (RICH Hub call: AI-powered climate solutions from African innovators); 2026-10-13 (DRC georesources geopolitics cross-link); 2026-10-05 (Jung et al. 2014, gendered hurricane naming and death tolls)
 
 ---
+
+- [RICH Hub: call for African AI-powered climate solutions (LDRI, LinkedIn)](https://www.linkedin.com/posts/climateai-climateinnovation-africaninnovation-share-7515745031715106816-xiUs/) (shared to WhatsApp, Oct 2026): the Local Development Research Institute (LDRI) announces that the Research & Innovation for Climate (RICH) Hub invites African innovators, researchers, start-ups and organisations to express interest in partnering on AI-powered climate solutions. The solutions must be at pilot stage or beyond and tested in real settings. Support offered: technical and innovation help, piloting and knowledge exchange, partner connections, visibility, and possible scaling grants up to USD 200,000. Expressions of interest are reviewed on a rolling basis; details at bit.ly/RICHHub. With AI4D. Keywords: RICH Hub, climate AI, Africa, climate resilience, scaling grants. Related: [[Machine_Learning]].
 
 - See [[Political_Ecology]] for "Geopolitics - DRC's georesources" (Pierre Escher, 3-part LinkedIn series, 13 Oct 2026) — Part II covers DRC's role as the source of ~70% of global cobalt supply and critical-minerals/rare-earths geopolitics for the energy transition.
 

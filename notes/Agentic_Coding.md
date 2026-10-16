@@ -1,9 +1,11 @@
 # Agentic Coding
 
 **Summary**: Agentic coding tools and practices — using LLM-driven coding agents (e.g. Claude Code) to plan, build, and validate technical workflows.
-**Last updated**: 2026-09-27 (Spatial Thoughts alumni session on an AI-assisted site migration); 2026-09-10 (RSECon26's Day 1 AI-thread quartet completed with "Training to Protect Research Integrity"; the Code Translation entry enriched with its full Stata2R slide deck)
+**Last updated**: 2026-10-16 (Spatial Thoughts launches its new site, migrated from WordPress to Hugo); 2026-09-27 (Spatial Thoughts alumni session on an AI-assisted site migration); 2026-09-10 (RSECon26's Day 1 AI-thread quartet completed with "Training to Protect Research Integrity"; the Code Translation entry enriched with its full Stata2R slide deck)
 
 ---
+
+- [Spatial Thoughts: new website launched (LinkedIn)](https://www.linkedin.com/posts/we-launched-a-new-website-for-spatialthoughtscom-share-7513359045165236224-iQVl/) (shared to WhatsApp, Oct 2026): Spatial Thoughts announces a new version of spatialthoughts.com, "a large migration from a legacy Wordpress site to a modern open-source framework". The goal is to automate the back end that runs its cohort-based classes. A companion article, "Building Data Driven Websites with Hugo", describes the AI-led design process. This is the migration presented at the September alumni session below. Keywords: Spatial Thoughts, Hugo, static site, website migration, AI-assisted design. Related: [[Python]].
 
 - [Spatial Thoughts — Alumni Contact Session, September 2026](https://spatialthoughts.com/) (`raw/Gmail - Join us for an Alumni Contact Session - September 2026.pdf`, email from Ujaval Gandhi to the Spatial Thoughts alumni list, 27 Sept 2026): Spatial Thoughts is a geospatial training platform with free courses, tutorials and workshops plus paid live cohort classes. Its monthly alumni session, on **Monday 28 September 2026**, is open to anyone who has taken a live class; attendance is free, registration required. Special topic: a behind-the-scenes look at the new data-driven Spatial Thoughts website, built with Hugo, how AI sped up the large migration from the legacy site, and what it made possible, including a public archive of all class notes. Open Q&A (Ask Me Anything) follows. Linda is eligible as an alumna of the *Agentic Coding for Geospatial* course logged below. Keywords: Spatial Thoughts, alumni session, Hugo, AI-assisted migration, class notes archive, Ujaval Gandhi. Related: [[Remote_Sensing]], [[Python]].
 
