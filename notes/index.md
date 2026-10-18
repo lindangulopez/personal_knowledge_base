@@ -6,7 +6,7 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Agriculture]]: the Commission's 2025 study on farm employees' working conditions, the baseline for CAP social conditionality (payment cuts of 1-100% for labour breaches).
+- [[Agriculture]]: Kuluri, Linda's EU Agri-Hackathon prototype for fair, verifiable seasonal-work agreements, with its live site and final deck.
 - [[Agentic_Coding]]: Archify, an agent skill that turns a plan or a repository into an interactive HTML architecture diagram.
 - [[Professional_Background]]: ITA GSUP France 2026 Demo Night (29 Oct, Cisco Paris), programme and venue confirmed.
 
