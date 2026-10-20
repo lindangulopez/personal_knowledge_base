@@ -1,9 +1,11 @@
 # Urban Planning
 
 **Summary**: Cities, urban form, and the environmental and social dynamics that shape them.
-**Last updated**: 2026-08-25 (linked to Conservation/Data naturalist-livability study)
+**Last updated**: 2026-10-20 (TreeCity urban heat-risk maps, via the CDSE newsletter); 2026-08-25 (linked to Conservation/Data naturalist-livability study)
 
 ---
+
+- See [[Remote_Sensing]] for TreeCity, an independent urban heat-risk platform that uses openEO on Sentinel-2 and Sentinel-3 data to map which neighbourhoods in 77 European cities need cooling first (CDSE newsletter, 20 Oct 2026).
 
 - See [[Conservation]] and [[Data]] for the eco-connectivity notebook's v6 naturalist-livability score — 251 apartment buildings across Guarda, Pinhel, and Vila Nova de Foz Côa weighted for nature access, amenities, parking, and transit — a rare case in this project of scoring the *human* settlement side of a rewilding landscape rather than the ecological one.
 - *An Integrated Infrastructure Proposal for the Côa Valley* (`field-trips/deskStudy/integrated-infrastructure-proposal-coa-valley.md`): Answers [[Climate_Change|the SOPHIA-siting question]] with a concrete two-part proposal, applying Rewilding Portugal's own "build on what's already disturbed" principle to both energy and tourism infrastructure. Part 1: elevated agrivoltaic-style solar canopies over reserves' own already-graded access tracks (Vale Carapito, Ermo das Águias, Faia Brava candidates), the same structural technique already proven over cropland, sited to add zero new habitat footprint. Part 2: a Timbavati-style photographic-tourism conservation levy funding small boutique lodges (6-12 rooms) at the project's own connectivity data's *low*-connectivity sites (explicitly not the high-connectivity Penascosa/Rapoula/Lageosa sites the same data flags as ecologically valuable, per `tourism_sites.gpkg`'s `not_yet_visited`/`potential_ecotourism_sites` layers — see [[Data]]), scaled honestly down ~2 orders of magnitude from Timbavati's South African scale, and excludes trophy hunting from the model. Illustrative order-of-magnitude economics only, not a feasibility study. Keywords: agrivoltaics, solar canopy, conservation levy, ecotourism lodges, infrastructure siting, Timbavati model. Related: [[Climate_Change]], [[Conservation]], [[Data]].

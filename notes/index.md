@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Remote_Sensing]]: CDSE's October newsletter: an openEO Agent in alpha, Sentinel-5P in openEO, and TESSERA and TerraMind embedding notebooks.
+- [[codeMeta_meeting]]: CodeMeta's v4.0 terms table is out of sync with the vocabulary; PR #509 adds a script to regenerate it.
 - [[Agriculture]]: Kuluri, Linda's EU Agri-Hackathon prototype for fair, verifiable seasonal-work agreements, with its live site and final deck.
-- [[Agentic_Coding]]: Archify, an agent skill that turns a plan or a repository into an interactive HTML architecture diagram.
-- [[Professional_Background]]: ITA GSUP France 2026 Demo Night (29 Oct, Cisco Paris), programme and venue confirmed.
 
 ## Topics
 
