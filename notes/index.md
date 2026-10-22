@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Reproducible_Science]]: Replication Radar, an MCP and web app that finds high-impact claims on the OpenAIRE Graph that nobody has replicated yet.
 - [[Open_Source]]: CodeCommons' annual review is online: videos and slides on AI built on the Software Heritage archive, the Unified Data Model and ecosyste.ms.
 - [[Remote_Sensing]]: CDSE's October newsletter: an openEO Agent in alpha, Sentinel-5P in openEO, and TESSERA and TerraMind embedding notebooks.
-- [[codeMeta_meeting]]: CodeMeta's v4.0 terms table is out of sync with the vocabulary; PR #509 adds a script to regenerate it.
 
 ## Topics
 
