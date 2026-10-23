@@ -4,11 +4,15 @@ Table of contents of all notes pages.
 
 ---
 
+!!! tip "Join online, Monday 2 November 2026: Environmental Harm as an International Crime"
+
+    If ecocide becomes the fifth crime, who will be the first to answer for it? The Hague Humanity Hub puts that question to prosecutors, lawyers and photojournalists, as part of The Hague Climate Week 2026. 17:30-19:00 CET, livestreamed. **[Secure your spot](https://www.eventbrite.co.uk/e/environmental-harm-as-an-international-crime-livestream-tickets-2003656168537)** · [My post about it](https://www.linkedin.com/posts/lindangulopez_ecocide-internationalcriminallaw-icc-share-7518662787225726979-ayyI/) · More in [[Political_Ecology]].
+
 ## Latest Finds
 
+- [[Political_Ecology]]: If ecocide becomes the fifth crime, who will be the first to answer for it? "Environmental Harm as an International Crime", The Hague, 2 November 2026, livestreamed.
 - [[Reproducible_Science]]: Replication Radar, an MCP and web app that finds high-impact claims on the OpenAIRE Graph that nobody has replicated yet.
 - [[Open_Source]]: CodeCommons' annual review is online: videos and slides on AI built on the Software Heritage archive, the Unified Data Model and ecosyste.ms.
-- [[Remote_Sensing]]: CDSE's October newsletter: an openEO Agent in alpha, Sentinel-5P in openEO, and TESSERA and TerraMind embedding notebooks.
 
 ## Topics
 

@@ -1,9 +1,26 @@
 # Political Ecology
 
 **Summary**: The politics of land, water, and wildlife — who holds legal rights over nature, who resists or bears the cost of conservation and resource decisions, and how tenure and legal structures shape ecological outcomes.
-**Last updated**: 2026-10-16 (Linda's LinkedIn post on Navi Pillay's 2026 Nobel Peace Prize, water as a commons and ecocide); 2026-10-13 ("Geopolitics - DRC's georesources," 3-part LinkedIn series on Congolese mineral politics); 2026-10-08 (Panama launches UN effort for a Universal Declaration of the Rights of Nature); 2026-09-24 (CIEL policy brief — sea level rise, human rights, and legal obligations)
+**Last updated**: 2026-10-23 (Linda's LinkedIn post inviting people to "Environmental Harm as an International Crime", The Hague, 2 Nov 2026, livestreamed); 2026-10-16 (Linda's LinkedIn post on Navi Pillay's 2026 Nobel Peace Prize, water as a commons and ecocide); 2026-10-13 ("Geopolitics - DRC's georesources," 3-part LinkedIn series on Congolese mineral politics); 2026-10-08 (Panama launches UN effort for a Universal Declaration of the Rights of Nature); 2026-09-24 (CIEL policy brief — sea level rise, human rights, and legal obligations)
 
 ---
+
+- [If ecocide becomes the fifth crime, who will be the first to answer for it? (Linda Angulo Lopez, LinkedIn)](https://www.linkedin.com/posts/lindangulopez_ecocide-internationalcriminallaw-icc-share-7518662787225726979-ayyI/) (Linda's own post, 21 Oct 2026): invites people to [Environmental Harm as an International Crime](https://www.eventbrite.co.uk/e/environmental-harm-as-an-international-crime-livestream-tickets-2003656168537), The Hague Humanity Hub's evening for The Hague Climate Week 2026, with The Promise Institute for Human Rights and Art Works Projects, **Monday 2 November 2026, 17:30-19:00 CET, also livestreamed**. Prosecutors, lawyers and photojournalists ask whether severe environmental destruction can be prosecuted as an international crime: the war crimes and crimes against humanity that exist today, the ICC Prosecutor's 2025 policy on environmental damage, and the campaign to make ecocide a crime. Speakers include Reinhold Gallmetzer (ICC Office of the Prosecutor), Kate Mackintosh, Patricia Willocq and Nicole Ann Ponce, the photographers Oyewole Lawal, Edwin Ndeke and Steve Bynum, a closing keynote by Helena Szczupak, moderated by Leslie Thomas. The post, verbatim:
+
+    > 🌍⚖️ If ecocide becomes the fifth crime, who will be the first to answer for it?
+    >
+    > On 2 November, The The Hague Humanity Hub puts that question to prosecutors, lawyers and photojournalists, as part of The Hague Climate Week 2026. Join online on November 2!
+    >
+    > Under the Rome Statute today, environmental damage is mainly a wartime crime. Article 8(2)(b)(iv) covers "widespread, long-term and severe" damage only when it is clearly excessive compared with the military advantage. Large-scale destruction in peacetime still depends on domestic or regional law.
+    >
+    > ⚖️ Three things are changing that:
+    > (i) the ICC Prosecutor's December 2025 policy, which shows how genocide, crimes against humanity, war crimes and aggression can already cover environmental destruction, including its impact on Indigenous Peoples
+    > (ii) the proposal from Vanuatu, Fiji and Samoa to add ecocide as a fifth crime under the Rome Statute
+    > (iii) regional and national law, such as the EU's 2024 Environmental Crime Directive and Belgium's ecocide legislation
+    >
+    > 📸 The evening also covers visual storytelling, and the photography exhibition stays open during the networking drinks.
+
+    Follows on from the Navi Pillay post below, which already backed the fifth-crime proposal. Keywords: ecocide, Rome Statute, ICC, international criminal law, Hague Climate Week, livestream. Related: [[Climate_Change]], [[Safe_and_Just]].
 
 - [Navi Pillay, 2026 Nobel Peace Prize (Linda Angulo Lopez, LinkedIn)](https://lnkd.in/p/eyxYYfKa) (Linda's own post, about 10 Oct 2026, shared to WhatsApp): congratulates Dr Navi Pillay on the 2026 Nobel Peace Prize, reposting the Nobel Prize announcement on her work in international law, as a judge and as UN human rights chief. The post recalls Pillay opening a law practice in apartheid-era Natal in 1967, starting with political detainees. It links this to Linda's own work on South Africa's National Water Act of 1998, which treats water as a commons held in trust and gives priority to basic human needs and rivers. It welcomes the International Court of Justice's 2025 advisory opinion on states' legal obligations to protect the climate, and supports the proposal by Vanuatu, Fiji and Samoa to make ecocide a fifth crime under the Rome Statute: "a commons lasts only while someone can be held to its rules". Mentions her current work with the Society for Earth Law. Keywords: Navi Pillay, Nobel Peace Prize, National Water Act, commons, ecocide, Rome Statute. Related: [[Decolonial_Ecology]], [[Climate_Change]].
 
