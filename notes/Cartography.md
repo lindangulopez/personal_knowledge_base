@@ -1,9 +1,11 @@
 # Cartography
 
 **Summary**: Maps, story maps, and the visual/narrative design of geographic storytelling.
-**Last updated**: 2026-10-13 (Les Rencontres QGIS-fr 2027 announced for Lille)
+**Last updated**: 2026-10-24 (pointer: Claire Tenu's landscape photo observatories, Fontainebleau and the Seine in Normandy); 2026-10-13 (Les Rencontres QGIS-fr 2027 announced for Lille)
 
 ---
+
+- See [[Conservation]] for Claire Tenu's *Observatoires photographiques du paysage* (Avenir Radieux, 2026, noted in the AFF bulletin of October 2026): two landscape photo observatories, the Seine in Normandy and the Fontainebleau forest, where fixed viewpoints, several of them rebuilt from old engravings, paintings and postcards, are photographed again over time to track how a landscape changes. Keywords: landscape photo observatory, repeat photography, Fontainebleau, Claire Tenu.
 
 - *Les Rencontres QGIS-fr arrivent à Lille fin mars 2027!* (`raw/Gmail - Les Rencontres QGIS-fr arrivent à Lille fin mars 2027!.pdf`, OSGeo-fr mailing list, 13 Oct 2026): Announcement that the next **Rencontres des Utilisateurs Francophones de QGIS** — co-organised by OSGeo-fr and the Région Hauts-de-France — will be held 22-24 March 2027 in Lille, following last year's edition in Brest. OSGeo-fr is looking for both volunteers to help organise the event and sponsors/patrons (organisations and companies using QGIS) to support it financially; more details promised via a forthcoming dedicated website. Same francophone open-source-GIS community as the QField release coverage already logged under [[Open_Source]]. Keywords: QGIS-fr, Rencontres, OSGeo-fr, Lille, francophone GIS community, open-source GIS. Related: [[Open_Source]].
 

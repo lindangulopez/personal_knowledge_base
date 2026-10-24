@@ -10,9 +10,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Political_Ecology]]: If ecocide becomes the fifth crime, who will be the first to answer for it? "Environmental Harm as an International Crime", The Hague, 2 November 2026, livestreamed.
-- [[Reproducible_Science]]: Replication Radar, an MCP and web app that finds high-impact claims on the OpenAIRE Graph that nobody has replicated yet.
-- [[Open_Source]]: CodeCommons' annual review is online: videos and slides on AI built on the Software Heritage archive, the Unified Data Model and ecosyste.ms.
+- [[Conservation]]: Fontainebleau after the summer fires: close to 2,000 hectares burned, 213 km of paths to make safe, and sixty volunteers ready to survey the signposts.
+- [[Political_Ecology]]: The Society for Earth Law opens its first student hub in Africa, in Nigeria, and becomes an independent nonprofit.
+- [[Open_Source]]: Bougainville, DINUM's tool built on Grist to track EU-funded projects from grant signature to final report.
 
 ## Topics
 
@@ -31,6 +31,7 @@ Table of contents of all notes pages.
 - [[Safe_and_Just]] — The "safe and just" framing (planetary boundaries + social foundations) applied to conservation and rewilding decisions.
 - [[Decolonial_Ecology]] — Colonial and post-colonial environmental legacies, and how empire shaped land, water, and ecological policy.
 - [[Political_Ecology]] — The politics of land, water, and wildlife: legal rights over nature, resistance, and tenure.
+- [[Environmental_Justice]] — Who bears environmental harm: the right to a healthy environment, future generations, and fair access to remedies.
 - [[Cartography]] — Maps, story maps, and the visual/narrative design of geographic storytelling.
 - [[Publications]] — Status tracker for planned papers, StoryMap chapters, illustration plates, and blog posts from the Côa Valley project.
 - [[Professional_Background]] — Linda's own career history in environmental governance, ecological restoration, GIS/database work, and open science.
