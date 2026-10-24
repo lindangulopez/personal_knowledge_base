@@ -10,9 +10,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Python]]: Linda's own guide to running djangoproject.com locally, now explaining why the site answers on `www.djangoproject.localhost:8000` and not on `localhost:8000`.
 - [[Open_Source]]: Linda proposes a contributor guide and a `codemeta.json` for the djangoproject.com repository, as part of her Djangonaut Space accessibility track.
 - [[Conservation]]: A two-day Instats seminar on spatial statistics in R for ecologists, livestreamed on 26 October and 6 November.
-- [[Climate_Change]]: HARCCA, a €10 million EU project, sets up eight coastal living labs to co-design nature-based adaptation with local people.
 
 ## Topics
 
