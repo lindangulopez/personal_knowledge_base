@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Remote_Sensing]]: Spatial Thoughts recaps the Cloud-Native Geospatial Forum 2026: STAC and Zarr going mainstream, the Portolan SDI with AGENTS.md files, and the GELOS app for comparing what geospatial foundation models embed.
+- [[Open_Source]]: Slidev, the open-source tool for writing slides as Markdown and presenting them in the browser, now behind Linda's own decks.
 - [[Python]]: Linda's own guide to running djangoproject.com locally, now explaining why the site answers on `www.djangoproject.localhost:8000` and not on `localhost:8000`.
-- [[Open_Source]]: Linda proposes a contributor guide and a `codemeta.json` for the djangoproject.com repository, as part of her Djangonaut Space accessibility track.
-- [[Conservation]]: A two-day Instats seminar on spatial statistics in R for ecologists, livestreamed on 26 October and 6 November.
 
 ## Topics
 

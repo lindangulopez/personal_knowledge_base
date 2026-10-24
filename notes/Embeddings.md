@@ -5,6 +5,8 @@
 
 ---
 
+- See [[Remote_Sensing]] for the CNG Forum 2026 recap (24 Oct): the GELOS app comparing how foundation models organise the same imagery, and open TESSERA embeddings as Zarr on AWS.
+
 - [Milvus vector database documentation](https://milvus.io/docs) (captured 29 Sept 2026): Open-source vector database for storing and searching embeddings at scale, installable via Docker Compose or Kubernetes. Milvus 3.0.x (May 2026) adds External Collection (indexing/retrieving data that stays in a data lake without moving it), Snapshot, Storage V3, sorting search results by scalar fields, nullable vector fields, entity-level TTL, and server-side MinHash signatures. Managed hosting available via Zilliz Cloud. Keywords: Milvus, vector database, embeddings, similarity search, DuckDB alternative, Zilliz. Related: [[Machine_Learning]], [[Data]].
 
 - See [[Remote_Sensing]] for the CDSE October 2026 newsletter: openEO notebooks that generate TESSERA and TerraMind embeddings from Sentinel-1 and Sentinel-2 without downloading the imagery (20 Oct 2026).
