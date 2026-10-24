@@ -1,9 +1,11 @@
 # CodeMeta Meeting Notes
 
 **Summary**: Working notes from the CodeMeta crosswalks community call and a roundup of recent CodeMeta project news, RSECon26, and the *Scientific Data*/Nature "CODE beyond FAIR" roadmap. Kept from a Software Heritage (SWH) participant's point of view.
-**Last updated**: 2026-10-20 (issue #508 and PR #509: terms-table CSV out of sync with v4.0, update script, website held back until a v4.1 tag); 2026-10-13 (discussion #507: proposed `aiAssistance` term for AI-development disclosure; issue #146/PR #147 makefile fix; swh-indexer metadata-workflow docs); 2026-10-03 (discussion #467 replies: `progval` on bidirectional arrows/colour scheme, `moranegg` on crosswalks waiting for v4.1); 2026-10-03 (website PRs #132, #144, #145 merged; v4.0 hub image shared on discussion #467); 2026-10-01 (Morane Gruenpeter's EOSC OA2 CodeMeta presentation on Zenodo); 2026-10-01 (PR #145's commits pushed)
+**Last updated**: 2026-10-24 (pointer: Linda's djangoproject.com issue #2929 proposing a codemeta.json); 2026-10-20 (issue #508 and PR #509: terms-table CSV out of sync with v4.0, update script, website held back until a v4.1 tag); 2026-10-13 (discussion #507: proposed `aiAssistance` term for AI-development disclosure; issue #146/PR #147 makefile fix; swh-indexer metadata-workflow docs); 2026-10-03 (discussion #467 replies: `progval` on bidirectional arrows/colour scheme, `moranegg` on crosswalks waiting for v4.1); 2026-10-03 (website PRs #132, #144, #145 merged; v4.0 hub image shared on discussion #467); 2026-10-01 (Morane Gruenpeter's EOSC OA2 CodeMeta presentation on Zenodo); 2026-10-01 (PR #145's commits pushed)
 
 ---
+
+- See [[Open_Source]] for Linda's [djangoproject.com issue #2929](https://github.com/django/djangoproject.com/issues/2929) (24 Oct 2026), which proposes a `codemeta.json` and a `CONTRIBUTING.md` for the Django website repository, and notes that `django/django` has no `codemeta.json` or `CITATION.cff` yet.
 
 ## The v4.0 terms table is out of sync: issue #508 and PR #509 — 13-20 Oct 2026
 

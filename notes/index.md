@@ -10,9 +10,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Open_Source]]: Linda proposes a contributor guide and a `codemeta.json` for the djangoproject.com repository, as part of her Djangonaut Space accessibility track.
+- [[Conservation]]: A two-day Instats seminar on spatial statistics in R for ecologists, livestreamed on 26 October and 6 November.
 - [[Climate_Change]]: HARCCA, a €10 million EU project, sets up eight coastal living labs to co-design nature-based adaptation with local people.
-- [[Conservation]]: Fontainebleau after the summer fires: close to 2,000 hectares burned, 213 km of paths to make safe, and sixty volunteers ready to survey the signposts.
-- [[Political_Ecology]]: The Society for Earth Law opens its first student hub in Africa, in Nigeria, and becomes an independent nonprofit.
 
 ## Topics
 
