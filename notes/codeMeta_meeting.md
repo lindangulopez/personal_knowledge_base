@@ -38,7 +38,7 @@
 
 ## CodeMeta v4.0 tagged — 29 Sept 2026
 
-- [CodeMeta v4.0 release](https://github.com/codemeta/codemeta/releases/tag/4.0) (`codemeta/codemeta`, tagged by Morane Gruenpeter, 29 Sept 2026): the vocabulary's new major version is now live on GitHub — ahead of the internal Q4 target of W41. A small follow-up fix (PR #502, tightening the `position`/`ContactPoint` definitions) landed just after the tag and is being folded in. Full context (private, contract-scoped) on [[codeMeta]]. Keywords: CodeMeta v4.0, release tag, GitHub. Related: [[Reproducible_Science]].
+- [CodeMeta v4.0 release](https://github.com/codemeta/codemeta/releases/tag/4.0) (`codemeta/codemeta`, tagged by Morane Gruenpeter, 29 Sept 2026): the vocabulary's new major version is now live on GitHub — ahead of the internal Q4 target of W41. A small follow-up fix (PR #502, tightening the `position`/`ContactPoint` definitions) landed just after the tag and is being folded in. Full context (private, contract-scoped) in `notes/private/codeMeta.md`. Keywords: CodeMeta v4.0, release tag, GitHub. Related: [[Reproducible_Science]].
 
 ## Linda's own training — SWHID & CodeMeta (15 Oct 2026)
 
