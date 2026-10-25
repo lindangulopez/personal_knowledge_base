@@ -31,7 +31,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Build site
-        run: mkdocs build
+        # --strict fails the build on mkdocs warnings, so a wiki-link to a
+        # page that isn't published (e.g. one living only in notes/private/)
+        # is caught here instead of deploying as a dead link.
+        run: mkdocs build --strict
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
