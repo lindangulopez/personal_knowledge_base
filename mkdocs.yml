@@ -57,12 +57,14 @@ plugins:
 nav:
   - Home:
     - index.md
+    - Agentic Coding: Agentic_Coding.md
     - Remote Sensing: Remote_Sensing.md
     - Agriculture: Agriculture.md
     - Climate Change: Climate_Change.md
     - Embeddings: Embeddings.md
     - Machine Learning: Machine_Learning.md
     - Python: Python.md
+    - SQL: SQL.md
     - Reproducible Science: Reproducible_Science.md
     - Data: Data.md
     - Conservation: Conservation.md
@@ -74,4 +76,6 @@ nav:
     - Cartography: Cartography.md
     - Publications: Publications.md
     - Professional Background: Professional_Background.md
+    - CodeMeta Meeting Notes: codeMeta_meeting.md
+    - Open Source: Open_Source.md
     - Changelog: log.md
