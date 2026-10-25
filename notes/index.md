@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Critical_Raw_Materials]]: a new page on the EU Critical Raw Materials Act. The Commission recognised 46 more Strategic Projects on 9 Oct 2026 (106 in all), six of them in France, and the Act now requires restoration plans, biodiversity certification and a public database of old mine-waste sites.
 - [[Conservation]]: SER2027's call for proposals has closed, and the call for abstracts — oral presentations, lightning talks and posters — opens 3 December 2026, with the conference's nine thematic series set out in full.
 - [[Publications]]: a new conference-presentations tracker: the Côa connectivity poster is deposited on Zenodo and aimed at SER 2027's "Lands in Motion" series in Lisbon.
-- [[Remote_Sensing]]: Spatial Thoughts recaps the Cloud-Native Geospatial Forum 2026: STAC and Zarr going mainstream, the Portolan SDI with AGENTS.md files, and the GELOS app for comparing what geospatial foundation models embed.
 
 ## Topics
 
@@ -37,6 +37,7 @@ Table of contents of all notes pages.
 - [[Safe_and_Just]] — The "safe and just" framing (planetary boundaries + social foundations) applied to conservation and rewilding decisions.
 - [[Decolonial_Ecology]] — Colonial and post-colonial environmental legacies, and how empire shaped land, water, and ecological policy.
 - [[Political_Ecology]] — The politics of land, water, and wildlife: legal rights over nature, resistance, and tenure.
+- [[Critical_Raw_Materials]] — The EU Critical Raw Materials Act in practice: benchmarks, Strategic Projects, and duties on permitting, site restoration, biodiversity and open geodata.
 - [[Environmental_Justice]] — Who bears environmental harm: the right to a healthy environment, future generations, and fair access to remedies.
 - [[Cartography]] — Maps, story maps, and the visual/narrative design of geographic storytelling.
 - [[Publications]] — Status tracker for planned papers, StoryMap chapters, illustration plates, and blog posts from the Côa Valley project.
