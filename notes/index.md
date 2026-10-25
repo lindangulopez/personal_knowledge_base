@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Decolonial_Ecology]]: on 25 March 2026 the UN General Assembly declared the transatlantic slave trade the gravest crime against humanity, 123 votes to 3, and called reparations claims a concrete step towards remedy. Alongside: the Secretary-General's first report on the Second International Decade for People of African Descent (2025-2034).
+- [[Environmental_Justice]]: OHCHR's Working Group of Experts on People of African Descent is taking inputs on land rights for its November 2026 session (deadline reported as 12 November).
 - [[Critical_Raw_Materials]]: a new page on the EU Critical Raw Materials Act. The Commission recognised 46 more Strategic Projects on 9 Oct 2026 (106 in all), six of them in France, and the Act now requires restoration plans, biodiversity certification and a public database of old mine-waste sites.
-- [[Conservation]]: SER2027's call for proposals has closed, and the call for abstracts — oral presentations, lightning talks and posters — opens 3 December 2026, with the conference's nine thematic series set out in full.
-- [[Publications]]: a new conference-presentations tracker: the Côa connectivity poster is deposited on Zenodo and aimed at SER 2027's "Lands in Motion" series in Lisbon.
 
 ## Topics
 

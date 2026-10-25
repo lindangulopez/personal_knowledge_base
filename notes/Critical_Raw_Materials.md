@@ -1,9 +1,11 @@
 # Critical Raw Materials
 
 **Summary**: The EU's Critical Raw Materials Act (CRMA) and how it is being put into practice: benchmarks for extraction, processing and recycling, the Strategic Projects selected under it, and the duties it creates for permitting, site restoration, biodiversity and open geodata.
-**Last updated**: 2026-10-25 (page created from the CRMA document set: Regulation 2024/1252, the 2023 proposal and impact assessment, the RESourceEU action plan, and the second wave of 46 Strategic Projects, 9 Oct 2026)
+**Last updated**: 2026-10-25 (pointer to the UN reparations resolution and the CRMA strategic projects 2026 leaflet)
 
 ---
+
+- See [[Decolonial_Ecology]] for my LinkedIn post (25 Oct 2026) on the UN resolution declaring the transatlantic slave trade the gravest crime against humanity: Baerbock's "mass resource extraction" and Guterres on African countries' ownership of their natural resources, linked to the Publications Office leaflet [CRMA strategic projects 2026](https://op.europa.eu/en/publication-detail/-/publication/b6e4a9b9-c3b2-11f1-bfcb-01aa75ed71a1/language-en) (DG GROW, released 9 Oct 2026, doi:10.2873/0267289), the overview of the second wave below. Keywords: reparatory justice, resource sovereignty, strategic projects. Related: [[Environmental_Justice]].
 
 - [Commission Decision C(2026)8051 recognising 46 new Strategic Projects](https://single-market-economy.ec.europa.eu/document/download/56f5457c-2ed0-4c10-8c76-d66a79cb00b6_en?filename=C_2026_8051_F1_COMMISSION_DECISION_EN_V2_P1_5091203.PDF) and its [annex](https://single-market-economy.ec.europa.eu/document/download/efabd887-9c12-4a3d-910e-8433c0f63a81_en?filename=C_2026_8051_F1_ANNEX_EN_V3_P1_5091583.PDF) (9 Oct 2026; with a 3-page overview table from the Publications Office). This is the second wave, all inside the EU: 46 projects in 16 Member States, needing €21.1bn of investment. By type: 8 extraction, 11 processing, 19 recycling, 8 combined. They cover 15 of the 17 strategic raw materials; bismuth and boron are missing, by my count from the annex.
   - France has six projects: Lithium de France, EMME, NEOMAT-PCAM, LUERN (Aubert & Duval), BREES (Rhodia), and a share of CRM4Defence (Leonardo).
