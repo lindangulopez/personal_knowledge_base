@@ -1,7 +1,7 @@
 # Publications
 
 **Summary**: Status tracker for planned outputs from the Rewilding Portugal / Côa Valley project — papers, StoryMap chapters, illustration plates, and blog posts — as a working list toward Linda's goal of eventually writing articles, publishing natural-history illustrations, and writing blog posts.
-**Last updated**: 2026-09-27 (companion synthesis posted as a second Zenodo preprint); 2026-09-26 (paper #1 posted as a Zenodo preprint)
+**Last updated**: 2026-10-25 (new Conference presentations section: SER 2027 poster deposited, abstracts open 3 Dec 2026); 2026-09-27 (companion synthesis posted as a second Zenodo preprint); 2026-09-26 (paper #1 posted as a Zenodo preprint)
 
 ---
 
@@ -47,6 +47,10 @@ From `storyMaps/5-ideas.md` / `scratch.md` — see [[Cartography]] for the full 
 ## Natural history illustration plates
 
 Per the project's own deliverables tracking (`Post-Development-Plan.md`, `Daily_Observation_Practice.md` — see [[Conservation]]): a triptych of landscape plates, one per StoryMap theme above (Movement/Vale Carapito, Water/Paul de Toirões, Connection/Ribeira do Mosteiro), plus 9-12 supporting organism/habitat sketches. Target: field-residency foundation complete by end of August 2026, with studio refinement continuing afterward — status of individual plates not yet tracked at this granularity in the source repo.
+
+## Conference presentations
+
+- **SER 2027, 12th World Conference on Ecological Restoration** (Lisbon, 30 Aug to 3 Sep 2027). Poster v0.1 is done and deposited: [doi:10.5281/zenodo.23638438](https://doi.org/10.5281/zenodo.23638438), source in [coa-connectivity-lab/ser2027](https://github.com/coa-connectivity-lab/ser2027). The proposals call (symposia and training courses) closed in October 2026; the route for a poster is the **Call for Abstracts, which opens 3 December 2026** on the [same page](https://ser2027.org/call-for-proposals/), for oral presentations, lightning talks and posters. Target series: **Lands in Motion**. All presentations are in person in Lisbon, with no virtual option. Full thematic-series detail and the committee's evaluation criteria are on [[Conservation]].
 
 ## Blog posts
 

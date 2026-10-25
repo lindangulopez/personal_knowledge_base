@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]]: Linda's own SER 2027 poster, now on Zenodo ([doi:10.5281/zenodo.23638438](https://doi.org/10.5281/zenodo.23638438)): one map of rabbit release candidates inside the wildcat's corridors, pond turtle pools and the Côa's World Heritage and Natura 2000 sites, where a quarter of the study area lies across the border in Spain.
+- [[Conservation]]: SER2027's call for proposals has closed, and the call for abstracts — oral presentations, lightning talks and posters — opens 3 December 2026, with the conference's nine thematic series set out in full.
+- [[Publications]]: a new conference-presentations tracker: the Côa connectivity poster is deposited on Zenodo and aimed at SER 2027's "Lands in Motion" series in Lisbon.
 - [[Remote_Sensing]]: Spatial Thoughts recaps the Cloud-Native Geospatial Forum 2026: STAC and Zarr going mainstream, the Portolan SDI with AGENTS.md files, and the GELOS app for comparing what geospatial foundation models embed.
-- [[Open_Source]]: Slidev, the open-source tool for writing slides as Markdown and presenting them in the browser, now behind Linda's own decks.
 
 ## Topics
 
