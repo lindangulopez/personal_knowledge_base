@@ -16,7 +16,7 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Data]]: ARDoISE and OSERen hold a study day on research data in the environmental and social transition, Friday 22 January 2027, at the Centre Inria de l'Université de Rennes and online, with speakers from Data Terra and the Haut Conseil Breton pour le Climat.
+- [[Data]]: DataCite is recruiting for its community, technology and metadata groups for 2027, open to members and non-members, applications by 19 November 2026.
 - [[Reproducible_Science]]: Recherche Data Gouv lists 26 local "ateliers de la donnée"; eight of them, from Bordeaux to Lille, also support research code and software.
 - [[Conservation]]: GEO BON and GBIF sign a Memorandum of Cooperation at COP17 in Yerevan on Wednesday 28 October, with a BON in a Box demo on querying cloud-optimised Darwin Core Data Packages.
 
