@@ -1,9 +1,11 @@
 # Urban Planning
 
 **Summary**: Cities, urban form, and the environmental and social dynamics that shape them.
-**Last updated**: 2026-10-20 (TreeCity urban heat-risk maps, via the CDSE newsletter); 2026-08-25 (linked to Conservation/Data naturalist-livability study)
+**Last updated**: 2026-10-27 (AI in urban climate resilience research: concentrated in three countries and on physical hazards, Meng et al., npj Climate Action); 2026-10-20 (TreeCity urban heat-risk maps, via the CDSE newsletter); 2026-08-25 (linked to Conservation/Data naturalist-livability study)
 
 ---
+
+- [Global disparities and structural imbalances in AI integration for urban climate resilience research](https://doi.org/10.1038/s44168-026-00431-w) (Meng, Hamm, Yang, Wang and Chan, *npj Climate Action*, published 26 Sept 2026, CC BY-NC-ND 4.0, DOI checked on Crossref; the authors' post on [Springer Nature Research Communities](https://communities.springernature.com/posts/global-disparities-and-structural-imbalances-in-ai-integration-for-urban-climate-resilience-research), 22 Oct 2026, clipped 27 Oct): a large-scale literature mining of 12,498 Web of Science abstracts on urban climate resilience (UCR), 2005-2024. GPT-4 Turbo flagged 572 AI-related abstracts, 495 were kept after manual checks, and BERTopic (all-MiniLM-L6-v2 embeddings, UMAP, HDBSCAN) found 56 research topics. AI-related publications have grown fifteenfold since 2018, but the United States, China and the United Kingdom account for about 40% of them, a digital divide that could limit how well the models transfer to low-income regions. AI is used heavily for physical hazard prediction (40%) and hardly at all for governance resilience (under 4%), which favours engineering problems over the social and institutional adaptation needs of vulnerable people. The authors propose three strategic priorities to move from isolated technical approaches to frameworks that handle the physical, social and governance sides of urban climate risk together, with human-centred AI that brings in unstructured socio-economic knowledge. Keywords: urban climate resilience, AI, BERTopic, literature mining, digital divide, governance. Related: [[Climate_Change]], [[Machine_Learning]], [[Embeddings]], [[Environmental_Justice]].
 
 - See [[Remote_Sensing]] for TreeCity, an independent urban heat-risk platform that uses openEO on Sentinel-2 and Sentinel-3 data to map which neighbourhoods in 77 European cities need cooling first (CDSE newsletter, 20 Oct 2026).
 

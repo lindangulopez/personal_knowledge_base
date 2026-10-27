@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Open_Source]]: FOSDEM 2027 has a devroom on "Archives, Libraries, and Digital Memory" (Sat 30 Jan 2027, Brussels); talks, lightning talks and a panel on running archive and library infrastructure can be submitted until 24 November.
-- [[Decolonial_Ecology]]: on 25 March 2026 the UN General Assembly declared the transatlantic slave trade the gravest crime against humanity, 123 votes to 3, and called reparations claims a concrete step towards remedy. Alongside: the Secretary-General's first report on the Second International Decade for People of African Descent (2025-2034).
-- [[Environmental_Justice]]: OHCHR's Working Group of Experts on People of African Descent is taking inputs on land rights for its November 2026 session (deadline reported as 12 November).
+- [[Urban_Planning]]: AI in urban climate resilience research has grown fifteenfold since 2018, but about 40% of it comes from the US, China and the UK, and it targets physical hazards (40%) far more than governance (under 4%) (Meng et al., *npj Climate Action*, 2026).
+- [[Conservation]]: GEO BON and GBIF sign a Memorandum of Cooperation at COP17 in Yerevan on Wednesday 28 October, with a BON in a Box demo on querying cloud-optimised Darwin Core Data Packages.
+- [[Political_Ecology]]: IASC 2027 (Makassar, 21-25 June 2027) takes contributions, short films included, until 10 November; a "Health as a Commons" info meeting is online on 5 November, and the IASC Methods Lab covers archiving data and code on 12 November.
 
 ## Topics
 

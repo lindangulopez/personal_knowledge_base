@@ -1,9 +1,11 @@
 # Decolonial Ecology
 
 **Summary**: Colonial and post-colonial environmental legacies — how empire shaped land, water, and ecological policy, and how that history still bears on present-day climate and conservation questions.
-**Last updated**: 2026-10-25 (UN resolution on the transatlantic slave trade, my LinkedIn post on it, and the Second International Decade for People of African Descent)
+**Last updated**: 2026-10-27 (Capoeira double film screening, Black History Studies, London, 27 Nov); 2026-10-25 (UN resolution on the transatlantic slave trade, my LinkedIn post on it, and the Second International Decade for People of African Descent)
 
 ---
+
+- [FREE Film Screening - Capoeira: Fly Away Beetle + Besouro](https://www.eventbrite.co.uk/e/free-film-screening-capoeira-fly-away-beetle-besouro-tickets-2003818420838) (Black History Studies on Eventbrite, clipped 26 Oct 2026): a double screening to learn about capoeira and Afro-Brazilian history, **Friday 27 November 2026 from 18:30 GMT** at The Black Cultural Centre Islington, 16-18 Hornsey Road, London N7 7BT (Holloway Road, Piccadilly line). *Capoeira: Fly Away Beetle*: "The stories of three world renowned masters and a young man who redeems his life reveal the virtues and violence of Capoeira, as well as its surprising origins." *Besouro*: "Based on the life of a legendary capoeira fighter from Bahia, 'Besouro' spins a fantastic tale of a young Brazilian man of African descent in search of his mission." Free, donations welcome; the event is filmed and photographed and the footage goes online. Keywords: capoeira, Afro-Brazilian history, Black History Studies, film screening, London, people of African descent. Related: [[Environmental_Justice]].
 
 - *My LinkedIn post: the UN resolution on the transatlantic slave trade* (25 Oct 2026; the short link resolves to the Publications Office leaflet [CRMA strategic projects 2026](https://op.europa.eu/en/publication-detail/-/publication/b6e4a9b9-c3b2-11f1-bfcb-01aa75ed71a1/language-en), doi:10.2873/0267289; source article in the next entry):
 
