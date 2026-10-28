@@ -1,9 +1,11 @@
 # Agentic Coding
 
 **Summary**: Agentic coding tools and practices — using LLM-driven coding agents (e.g. Claude Code) to plan, build, and validate technical workflows.
-**Last updated**: 2026-10-16 (Archify, an agent skill for interactive architecture diagrams); 2026-10-16 (Spatial Thoughts launches its new site, migrated from WordPress to Hugo); 2026-09-27 (Spatial Thoughts alumni session on an AI-assisted site migration); 2026-09-10 (RSECon26's Day 1 AI-thread quartet completed with "Training to Protect Research Integrity"; the Code Translation entry enriched with its full Stata2R slide deck)
+**Last updated**: 2026-10-28 (EVERSE-ReSA webinar on AI guidance for RSE team leaders, 10 Nov); 2026-10-16 (Archify, an agent skill for interactive architecture diagrams); 2026-10-16 (Spatial Thoughts launches its new site, migrated from WordPress to Hugo); 2026-09-27 (Spatial Thoughts alumni session on an AI-assisted site migration); 2026-09-10 (RSECon26's Day 1 AI-thread quartet completed with "Training to Protect Research Integrity"; the Code Translation entry enriched with its full Stata2R slide deck)
 
 ---
+
+- [EVERSE - ReSA Webinar: AI Guidance for Research Software Engineering Team Leaders](https://indico.cern.ch/event/1744683/) (Indico registration page, clipped 28 Oct 2026; event page checked the same day): an online Zoom webinar on **Tuesday 10 November 2026, 15:00-16:00 Paris time**. It presents a new section of EVERSE's Research Software Quality Toolkit (RSQKit) with practical AI guidance for team leaders. Questions covered: keeping research software quality high while protecting developers' agency, ethical and technical concerns, supporting staff who work at different points of the AI spectrum, and how open source maintainers can limit burnout from AI-generated pull requests and security issues. Programme: Carlos Martinez-Ortiz (Netherlands eScience Center) introduces; Michael Sparks (University of Manchester, RSQKit editor) on RSQKit and the AI Spectrum; Faruk Diblen (Netherlands eScience Center, DashVERSE developer) with tips for RSE managers; then Q&A. It follows a roadmap from a ReSA workshop in March 2026. It continues the RSECon26 AI-spectrum talk logged below. Keywords: EVERSE, ReSA, RSQKit, AI spectrum, RSE management, webinar. Related: [[Reproducible_Science]], [[Open_Source]].
 
 - See [[Remote_Sensing]] for the CNG Forum 2026 recap (24 Oct): Drew Breunig's keynote *Using AI Without Losing Your Soul*, and decks built with Slidev and Claude ([[Open_Source]]).
 

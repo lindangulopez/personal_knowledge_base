@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Agentic_Coding]]: EVERSE and ReSA run a webinar on AI guidance for research software team leaders on Tuesday 10 November, presenting a new RSQKit section.
+- [[Conservation]]: the Amis de la Forêt de Fontainebleau mark November with three juniper events in Barbizon and weekly pokeweed work parties in the Trois Pignons.
 - [[Data]]: DataCite is recruiting for its community, technology and metadata groups for 2027, open to members and non-members, applications by 19 November 2026.
-- [[Reproducible_Science]]: Recherche Data Gouv lists 26 local "ateliers de la donnée"; eight of them, from Bordeaux to Lille, also support research code and software.
-- [[Conservation]]: GEO BON and GBIF sign a Memorandum of Cooperation at COP17 in Yerevan on Wednesday 28 October, with a BON in a Box demo on querying cloud-optimised Darwin Core Data Packages.
 
 ## Topics
 
