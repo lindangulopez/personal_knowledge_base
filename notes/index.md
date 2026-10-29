@@ -18,7 +18,7 @@ Table of contents of all notes pages.
 
 - [[Agriculture]]: GRAIN on investment funds buying into farms and food companies — private equity, pension funds and sovereign wealth funds, from a liquidated berry grower in western France to 810,000 hectares held by one asset manager.
 - [[Open_Source]]: DjangoCon Europe 2027 goes to Innsbruck, 17-21 February, with the call for participation closing 15 November 2026 and early-bird tickets to 30 November.
-- [[Agentic_Coding]]: EVERSE and ReSA run a webinar on AI guidance for research software team leaders on Tuesday 10 November, presenting a new RSQKit section.
+- [[Agentic_Coding]]: the Ocean Data Platform shows how AI agents can find, query and map real ocean data, and how to check the results (recorded webinar, 22 October).
 
 ## Topics
 

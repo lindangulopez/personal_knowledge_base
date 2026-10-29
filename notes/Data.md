@@ -1,9 +1,11 @@
 # Data
 
 **Summary**: Datasets and data sources of general interest.
-**Last updated**: 2026-10-27 (later: DataCite call for its 2027 steering and working groups); 2026-10-27 (ARDoISE and OSERen study day, Rennes, 22 Jan 2027); 2026-10-01 (ICTV programmatic virus-taxonomy API)
+**Last updated**: 2026-10-29 (pointer to the Ocean Data Platform AI-agents webinar); 2026-10-27 (later: DataCite call for its 2027 steering and working groups); 2026-10-27 (ARDoISE and OSERen study day, Rennes, 22 Jan 2027); 2026-10-01 (ICTV programmatic virus-taxonomy API)
 
 ---
+
+- See [[Agentic_Coding]] for the Ocean Data Platform webinar (22 Oct 2026) on finding, querying and mapping ocean datasets with AI agents.
 
 - [Call for applications for 2027 DataCite steering and working groups](https://datacite.org/blog/call-for-applications-for-2027-datacite-steering-and-working-groups/) (relayed on the rda-france list by Véronique Stoll, National Chief Research Data Officer and director of Recherche Data Gouv, 27 Oct 2026, in French): DataCite, the DOI registration agency for research data and software, is looking for members for three groups, with terms starting in January 2027: (i) the **Community Engagement Steering Group** (CESG), on what communities need in services and collaboration; (ii) the **Services & Technology Steering Group** (STSG), on DataCite's services and technology; (iii) the **Metadata Working Group** (MWG), on how the DataCite metadata schema evolves. The DataCite post says it is open to members and non-members alike, with virtual meetings through the year and some work between them; terms are multi-year and renewable. Apply with a short form (which group, what you would bring) by **19 November 2026**; decisions in mid-December. The French ministry wants French voices in these groups, to carry the community's needs into international discussions on DOIs and research data infrastructure. Related: [[Reproducible_Science]], [[Open_Source]]. Keywords: DataCite, DOI, metadata schema, working groups, call for applications, RDA France.
 
