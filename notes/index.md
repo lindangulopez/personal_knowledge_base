@@ -18,7 +18,7 @@ Table of contents of all notes pages.
 
 - [[Open_Source]]: Software Heritage releases the 2026-10 edition of The State of Public Code: 240,922 repositories with public-sector contributions, from 114 countries and territories, plus a URL checker and one JSON file per country.
 - [[Data]]: a free ODP Academy course, Working with Ocean Data on ODP (HUB Ocean, WIOMSA, SeaSketch), from 9 November to 10 December, no coding needed; register by 9 November.
-- [[Conservation]]: the World Shipping Council's Whale Chart, now a global geospatial dataset of ship-strike measures for whales, from slow-down zones to areas to be avoided.
+- [[Reproducible_Science]]: ReSA's October newsletter: a draft on research software authorship open for pilot projects until 30 November, a webinar series on research software and generative AI, and France's Open Science Strategy 2026-2033.
 
 ## Topics
 
