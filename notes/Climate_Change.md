@@ -1,9 +1,11 @@
 # Climate Change
 
 **Summary**: Climate trends, impacts, and the data and events used to study them.
-**Last updated**: 2026-10-27 (pointer to Meng et al. 2026 on AI in urban climate resilience research); 2026-10-24 (IHE Delft e-newsletter, October 2026: HARCCA coastal adaptation living labs, Budapest Groundwater Declaration, events and short courses); 2026-10-16 (RICH Hub call: AI-powered climate solutions from African innovators); 2026-10-13 (DRC georesources geopolitics cross-link); 2026-10-05 (Jung et al. 2014, gendered hurricane naming and death tolls)
+**Last updated**: 2026-10-29 (Heritage Adapts! event on El Niño risks to heritage); 2026-10-27 (pointer to Meng et al. 2026 on AI in urban climate resilience research); 2026-10-24 (IHE Delft e-newsletter, October 2026: HARCCA coastal adaptation living labs, Budapest Groundwater Declaration, events and short courses); 2026-10-16 (RICH Hub call: AI-powered climate solutions from African innovators); 2026-10-13 (DRC georesources geopolitics cross-link); 2026-10-05 (Jung et al. 2014, gendered hurricane naming and death tolls)
 
 ---
+
+- [El Niño: Understanding Risks and Preparing Heritage Practitioners and Communities (International Session)](https://community.heritageadapts.org/c/events-ha/el-nino-understanding-risks-and-preparing-heritage-practitioners-and-communities-international-session) (Heritage Adapts! community events page, clipped 29 Oct 2026): a public event on how heritage practitioners and communities can prepare for El Niño-related risks, bringing together climate science, regional perspectives and practical experience on the possible impacts on cultural and natural heritage. Heritage Adapts! is a UN-recognised campaign to speed up climate adaptation for cultural heritage by 2030. The date, time and format are only visible after signing in to the community, so they are not recorded here. Background: the WMO confirmed a strong El Niño in September 2026, and UNESCO runs a *Cultura x El Niño* preparedness campaign, with field sessions in northern Peru in October. Keywords: El Niño, cultural heritage, climate risk, disaster preparedness, Heritage Adapts. Related: [[Decolonial_Ecology]].
 
 - See [[Urban_Planning]] for Meng et al. (*npj Climate Action*, 2026), a review of 12,498 urban climate resilience abstracts: AI-related work grew fifteenfold since 2018, about 40% of it comes from the US, China and the UK, and it targets physical hazards far more than governance.
 

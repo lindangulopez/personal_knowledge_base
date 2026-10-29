@@ -1,9 +1,13 @@
 # Data
 
 **Summary**: Datasets and data sources of general interest.
-**Last updated**: 2026-10-29 (pointer to the Ocean Data Platform AI-agents webinar); 2026-10-27 (later: DataCite call for its 2027 steering and working groups); 2026-10-27 (ARDoISE and OSERen study day, Rennes, 22 Jan 2027); 2026-10-01 (ICTV programmatic virus-taxonomy API)
+**Last updated**: 2026-10-29 (later: ODP Academy free course, Working with Ocean Data on ODP, 9 Nov-10 Dec; pointer to the WSC Whale Chart); 2026-10-29 (pointer to the Ocean Data Platform AI-agents webinar); 2026-10-27 (later: DataCite call for its 2027 steering and working groups); 2026-10-27 (ARDoISE and OSERen study day, Rennes, 22 Jan 2027); 2026-10-01 (ICTV programmatic virus-taxonomy API)
 
 ---
+
+- [Working with Ocean Data on ODP](https://www.hubocean.earth/odp-academy-wiomsa-training) (ODP Academy email from HUB Ocean's capacity-building team to people who applied for its Ocean Data in the Cloud training in April, 29 Oct 2026; course and registration pages checked the same day): a free online course from HUB Ocean, WIOMSA (the Western Indian Ocean Marine Science Association) and SeaSketch, **9 November to 10 December 2026**, self-paced, alone or in a small group, 2-4 hours a week, no coding needed. Four modules with recorded lessons and weekly tasks: Explore (opens 12 Nov), GIS (16 Nov, QGIS or ArcGIS), Code (23 Nov, Python or R) and Plan (30 Nov, SeaSketch), with a look at where AI tools fit in. Opening and closing webinars on 12 November and 10 December, 12:00-13:30 East Africa Time (10:00-11:30 CET). A digital certificate for each module and for the whole course, signed by HUB Ocean and WIOMSA, and the free ODP account is kept afterwards. Open to anyone working with ocean data from the Western Indian Ocean region. **Register by 9 November** ([form](https://www.hubocean.earth/odp-academy-wiomsa-registration); the registration page itself says 12 November, and 10 November to join a group from the start). A longer, supported course is planned for 2027. Keywords: Ocean Data Platform, HUB Ocean, WIOMSA, SeaSketch, online course, ocean data. Related: [[Cartography]], [[Python]], [[Conservation]], [[Agentic_Coding]].
+
+- See [[Conservation]] for the WSC Whale Chart, digital version, a global dataset of ship-strike measures for whales, featured on the Ocean Data Platform.
 
 - See [[Agentic_Coding]] for the Ocean Data Platform webinar (22 Oct 2026) on finding, querying and mapping ocean datasets with AI agents.
 

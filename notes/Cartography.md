@@ -1,9 +1,11 @@
 # Cartography
 
 **Summary**: Maps, story maps, and the visual/narrative design of geographic storytelling.
-**Last updated**: 2026-10-24 (pointer: Claire Tenu's landscape photo observatories, Fontainebleau and the Seine in Normandy); 2026-10-13 (Les Rencontres QGIS-fr 2027 announced for Lille)
+**Last updated**: 2026-10-29 (pointer: ODP Academy course with a QGIS module); 2026-10-24 (pointer: Claire Tenu's landscape photo observatories, Fontainebleau and the Seine in Normandy); 2026-10-13 (Les Rencontres QGIS-fr 2027 announced for Lille)
 
 ---
+
+- See [[Data]] for the ODP Academy course *Working with Ocean Data on ODP* (9 Nov-10 Dec 2026, free), whose second module maps ocean data in QGIS or ArcGIS.
 
 - See [[Conservation]] for Claire Tenu's *Observatoires photographiques du paysage* (Avenir Radieux, 2026, noted in the AFF bulletin of October 2026): two landscape photo observatories, the Seine in Normandy and the Fontainebleau forest, where fixed viewpoints, several of them rebuilt from old engravings, paintings and postcards, are photographed again over time to track how a landscape changes. Keywords: landscape photo observatory, repeat photography, Fontainebleau, Claire Tenu.
 

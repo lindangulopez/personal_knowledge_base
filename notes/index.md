@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Agriculture]]: GRAIN on investment funds buying into farms and food companies — private equity, pension funds and sovereign wealth funds, from a liquidated berry grower in western France to 810,000 hectares held by one asset manager.
-- [[Open_Source]]: DjangoCon Europe 2027 goes to Innsbruck, 17-21 February, with the call for participation closing 15 November 2026 and early-bird tickets to 30 November.
-- [[Agentic_Coding]]: the Ocean Data Platform shows how AI agents can find, query and map real ocean data, and how to check the results (recorded webinar, 22 October).
+- [[Open_Source]]: Software Heritage releases the 2026-10 edition of The State of Public Code: 240,922 repositories with public-sector contributions, from 114 countries and territories, plus a URL checker and one JSON file per country.
+- [[Data]]: a free ODP Academy course, Working with Ocean Data on ODP (HUB Ocean, WIOMSA, SeaSketch), from 9 November to 10 December, no coding needed; register by 9 November.
+- [[Conservation]]: the World Shipping Council's Whale Chart, now a global geospatial dataset of ship-strike measures for whales, from slow-down zones to areas to be avoided.
 
 ## Topics
 
