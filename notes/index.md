@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Agriculture]]: GRAIN on investment funds buying into farms and food companies — private equity, pension funds and sovereign wealth funds, from a liquidated berry grower in western France to 810,000 hectares held by one asset manager.
+- [[Open_Source]]: DjangoCon Europe 2027 goes to Innsbruck, 17-21 February, with the call for participation closing 15 November 2026 and early-bird tickets to 30 November.
 - [[Agentic_Coding]]: EVERSE and ReSA run a webinar on AI guidance for research software team leaders on Tuesday 10 November, presenting a new RSQKit section.
-- [[Conservation]]: the Amis de la Forêt de Fontainebleau mark November with three juniper events in Barbizon and weekly pokeweed work parties in the Trois Pignons.
-- [[Data]]: DataCite is recruiting for its community, technology and metadata groups for 2027, open to members and non-members, applications by 19 November 2026.
 
 ## Topics
 
