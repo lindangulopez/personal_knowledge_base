@@ -18,7 +18,7 @@ Table of contents of all notes pages.
 
 - [[Conservation]]: The AEET, SFE2 & EEF Joint Meeting 2027 in Zaragoza opens its call for abstracts, closing 16 November 2026 at 14:00, with a session on monitoring plant and insect population trends from raw data to biodiversity indicators.
 - [[Agentic_Coding]]: Rwanda's new AI agency seeks firms to build supervised AI agents on three live government services (citizen complaints, food and cosmetics licensing, building permits); expressions of interest due 9 November.
-- [[Reproducible_Science]]: ReSA's October newsletter: a draft on research software authorship open for pilot projects until 30 November, a webinar series on research software and generative AI, and France's Open Science Strategy 2026-2033.
+- [[Reproducible_Science]]: The Society of RSE's October newsletter: 32 funded places on DisCouRSE leadership programmes for research technical professionals (apply by 8 November), and a poster call for the CoSeC Conference in Manchester, 2 December.
 
 ## Topics
 
