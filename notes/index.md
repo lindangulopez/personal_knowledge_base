@@ -18,7 +18,7 @@ Table of contents of all notes pages.
 
 - [[Reproducible_Science]]: SORTEE elects three new Board members (one graduate seat, two open seats) by ranked-choice vote; seven candidates, ballots close 11 November at 13:00 UTC.
 - [[Conservation]]: The AEET, SFE2 & EEF Joint Meeting 2027 in Zaragoza opens its call for abstracts, closing 16 November 2026 at 14:00, with a session on monitoring plant and insect population trends from raw data to biodiversity indicators.
-- [[Agentic_Coding]]: Rwanda's new AI agency seeks firms to build supervised AI agents on three live government services (citizen complaints, food and cosmetics licensing, building permits); expressions of interest due 9 November.
+- [[Data]]: HUB Ocean's ODP Workspaces, a ready-made JupyterHub for working with Ocean Data Platform datasets in Python or R, with example notebooks.
 
 ## Topics
 
