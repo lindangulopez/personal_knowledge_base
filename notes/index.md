@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: SORTEE elects three new Board members (one graduate seat, two open seats) by ranked-choice vote; seven candidates, ballots close 11 November at 13:00 UTC.
-- [[Conservation]]: The AEET, SFE2 & EEF Joint Meeting 2027 in Zaragoza opens its call for abstracts, closing 16 November 2026 at 14:00, with a session on monitoring plant and insect population trends from raw data to biodiversity indicators.
-- [[Data]]: HUB Ocean's ODP Workspaces, a ready-made JupyterHub for working with Ocean Data Platform datasets in Python or R, with example notebooks.
+- [[Reproducible_Science]]: Metascience 2027 comes to Montreal, 14-16 June 2027, on "what works, for whom, and how" in research reform; abstracts due 4 December 2026.
+- [[Remote_Sensing]]: Spatial Thoughts' new live course, Cloud Native Remote Sensing with Python (Xarray, STAC, Dask, DuckDB), runs 1-17 December 2026.
+- [[Safe_and_Just]]: Global Artivism Month's first dispatches: Palestine Cinema Days in Aotearoa and land, sovereignty and climate justice in Australia.
 
 ## Topics
 
