@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: Metascience 2027 comes to Montreal, 14-16 June 2027, on "what works, for whom, and how" in research reform; abstracts due 4 December 2026.
-- [[Remote_Sensing]]: Spatial Thoughts' new live course, Cloud Native Remote Sensing with Python (Xarray, STAC, Dask, DuckDB), runs 1-17 December 2026.
-- [[Safe_and_Just]]: Global Artivism Month's first dispatches: Palestine Cinema Days in Aotearoa and land, sovereignty and climate justice in Australia.
+- [[Environmental_Justice]]: Greenpeace Africa on COP31 in Antalya: polluters pay, and adaptation and loss and damage paid in grants, not loans.
+- [[Machine_Learning]]: SCIANCE starts a monthly webinar series on AI in science in Europe, first session Thursday 12 November 2026.
+- [[SQL]]: the CNRS rBDD network's webinar on TimescaleDB, PostgreSQL's time-series extension, Thursday 12 November 2026.
 
 ## Topics
 
