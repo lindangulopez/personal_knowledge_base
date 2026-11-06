@@ -1,9 +1,11 @@
 # Cartography
 
 **Summary**: Maps, story maps, and the visual/narrative design of geographic storytelling.
-**Last updated**: 2026-10-29 (pointer: ODP Academy course with a QGIS module); 2026-10-24 (pointer: Claire Tenu's landscape photo observatories, Fontainebleau and the Seine in Normandy); 2026-10-13 (Les Rencontres QGIS-fr 2027 announced for Lille)
+**Last updated**: 2026-11-06 (night: RustGIS v0.5.0); 2026-10-29 (pointer: ODP Academy course with a QGIS module); 2026-10-24 (pointer: Claire Tenu's landscape photo observatories, Fontainebleau and the Seine in Normandy); 2026-10-13 (Les Rencontres QGIS-fr 2027 announced for Lille)
 
 ---
+
+- [RustGIS](https://rustgis.app) v0.5.0 (Qiusheng Wu's LinkedIn post, shared 6 Nov 2026; site checked; code under the opengeos GitHub organisation): a fast, free and open-source desktop and browser GIS written in pure Rust, for Windows, macOS, Linux and the web ([web app](https://web.rustgis.app)). Data stays on your machine unless you send it to an AI model you choose, and every action is a command you can script. Release 0.5.0 (231 pull requests, 24 contributors, 11 first-timers) adds an expression language for queries and symbols, richer symbols and labels (hatch, gradient and shapeburst fills, label halos), overlay tools (Intersect, Union, Identity, Near, Merge, Kernel Density, a stronger Spatial Join), saving edits to GeoPackage and PostGIS with autosave, WMS and WMTS on a time slider, chunked reading of large Shapefile, GeoPackage, FlatGeobuf and GeoParquet layers, PMTiles export, and a Qt map widget for Python. The site also lists an MCP server and a Python package. Keywords: RustGIS, open-source GIS, Rust, GeoParquet, PMTiles, opengeos. Related: [[Open_Source]], [[Python]].
 
 - See [[Data]] for the ODP Academy course *Working with Ocean Data on ODP* (9 Nov-10 Dec 2026, free), whose second module maps ocean data in QGIS or ArcGIS.
 

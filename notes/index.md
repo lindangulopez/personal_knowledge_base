@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: Katz and Gruenpeter at PIDfest 2026 on swimming in the sea of software identifiers — and why 83.9% of projects disagree with themselves about how to cite them.
-- [[Open_Source]]: swh.el, a new Emacs client for Software Heritage — archive a repo, copy a SWHID, generate a BibTeX citation, all from the editor.
-- [[Data]]: swMATH is building a source-code recommender for mathematical software on top of the Software Heritage archive (FIZ Karlsruhe, DFG, 2025-2028).
+- [[Cartography]]: RustGIS v0.5.0, a free, open-source GIS in pure Rust that runs on the desktop and in the browser, now with expressions, overlay tools and GeoParquet.
+- [[Political_Ecology]]: COP17 in Yerevan closed with fragile progress: finance, Indigenous peoples' say in decisions, the Cali Fund, and 55 countries saying "la science n'est pas négociable".
+- [[Climate_Change]]: the fourth Amsterdam Complexity School on Climate Change, 19-23 April 2027; applications close in January.
 
 ## Topics
 
