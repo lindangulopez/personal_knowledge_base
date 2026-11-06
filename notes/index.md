@@ -16,7 +16,7 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Cartography]]: RustGIS v0.5.0, a free, open-source GIS in pure Rust that runs on the desktop and in the browser, now with expressions, overlay tools and GeoParquet.
+- [[Reproducible_Science]]: the Open Science Retreat 2027, REWIRE Edition, a free week on computational reproducibility near Munich, 22-26 March 2027; apply by 4 December.
 - [[Political_Ecology]]: COP17 in Yerevan closed with fragile progress: finance, Indigenous peoples' say in decisions, the Cali Fund, and 55 countries saying "la science n'est pas négociable".
 - [[Climate_Change]]: the fourth Amsterdam Complexity School on Climate Change, 19-23 April 2027; applications close in January.
 
