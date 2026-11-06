@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Environmental_Justice]]: Greenpeace Africa on COP31 in Antalya: polluters pay, and adaptation and loss and damage paid in grants, not loans.
-- [[Machine_Learning]]: SCIANCE starts a monthly webinar series on AI in science in Europe, first session Thursday 12 November 2026.
-- [[SQL]]: the CNRS rBDD network's webinar on TimescaleDB, PostgreSQL's time-series extension, Thursday 12 November 2026.
+- [[Reproducible_Science]]: Katz and Gruenpeter at PIDfest 2026 on swimming in the sea of software identifiers — and why 83.9% of projects disagree with themselves about how to cite them.
+- [[Open_Source]]: swh.el, a new Emacs client for Software Heritage — archive a repo, copy a SWHID, generate a BibTeX citation, all from the editor.
+- [[Data]]: swMATH is building a source-code recommender for mathematical software on top of the Software Heritage archive (FIZ Karlsruhe, DFG, 2025-2028).
 
 ## Topics
 
