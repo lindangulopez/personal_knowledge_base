@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Safe_and_Just]]: Global Artivism Month reaches South Asia, with artists in India finding a language for silenced experience, and phulkari embroidery to remember the 1984 anti-Sikh pogrom (New Delhi, 15 Nov).
 - [[Conservation]]: Biodiversa+ asks its community to defend a dedicated biodiversity partnership in FP10 before 19 November; also new, PR Stats courses on animal movement, from step-selection functions to deep learning (deepSSF).
 - [[Machine_Learning]]: the RAISE Observatory maps AI in European science on the OpenAIRE Graph; Earth sciences have the highest share of AI-related papers, 9%.
-- [[Open_Source]]: the OpenAIRE Monitor counts about 8,000 EC-funded software records, nearly all deposited on Zenodo and almost none in Software Heritage.
 
 ## Topics
 
