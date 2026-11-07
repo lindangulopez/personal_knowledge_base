@@ -4,16 +4,6 @@ Table of contents of all notes pages.
 
 ---
 
-!!! tip "Join online, Monday 2 November 2026: Environmental Harm as an International Crime"
-
-    If ecocide becomes the fifth crime, who will be the first to answer for it? The Hague Humanity Hub puts that question to prosecutors, lawyers and photojournalists, as part of The Hague Climate Week 2026. 17:30-19:00 CET, livestreamed. **[Secure your spot](https://www.eventbrite.co.uk/e/environmental-harm-as-an-international-crime-livestream-tickets-2003656168537)** · [My post about it](https://www.linkedin.com/posts/lindangulopez_ecocide-internationalcriminallaw-icc-share-7518662787225726979-ayyI/) · More in [[Political_Ecology]].
-
-!!! example "On the gallery: ii. Water, Paul de Toirões"
-
-    [![Digital study: the Paul de Toirões wetland in rough burnt sienna lines on grey schist, with open water, reed beds, a heron, ducks, and old drainage ditches fading into the marsh](assets/water.jpg){ width="320" }](https://coa-connectivity-lab.github.io/global-artivism/#work)
-
-    Wetlands recovering after decades of drainage and damming. A heron and ducks on open water, reeds taking the fields back, and the old straight ditches fading into the marsh, drawn after the Iron Age fine-line engravings of the Côa Valley. One of six digital studies (drawn by code, written with AI assistance) for Global Artivism Month, 1 November to 10 December 2026. **[See the gallery: Movement, Water, Connection](https://coa-connectivity-lab.github.io/global-artivism/)** · More in [[Cartography]] and [[Conservation]].
-
 ## Latest Finds
 
 - [[Safe_and_Just]]: Global Artivism Month reaches South Asia, with artists in India finding a language for silenced experience, and phulkari embroidery to remember the 1984 anti-Sikh pogrom (New Delhi, 15 Nov).
