@@ -16,9 +16,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: the Open Science Retreat 2027, REWIRE Edition, a free week on computational reproducibility near Munich, 22-26 March 2027; apply by 4 December.
-- [[Political_Ecology]]: COP17 in Yerevan closed with fragile progress: finance, Indigenous peoples' say in decisions, the Cali Fund, and 55 countries saying "la science n'est pas négociable".
-- [[Climate_Change]]: the fourth Amsterdam Complexity School on Climate Change, 19-23 April 2027; applications close in January.
+- [[Conservation]]: Biodiversa+ asks its community to make the case for a dedicated biodiversity partnership in FP10 before the 19 November decision meeting; none of the 19 proposed areas is about biodiversity.
+- [[Machine_Learning]]: the RAISE Observatory maps AI in European science on the OpenAIRE Graph; Earth sciences have the highest share of AI-related papers, 9%.
+- [[Open_Source]]: the OpenAIRE Monitor counts about 8,000 EC-funded software records, nearly all deposited on Zenodo and almost none in Software Heritage.
 
 ## Topics
 
