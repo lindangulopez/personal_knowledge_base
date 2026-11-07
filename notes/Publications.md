@@ -1,7 +1,7 @@
 # Publications
 
-**Summary**: Linda's published outputs on Zenodo, and a status tracker for planned outputs from the Rewilding Portugal / Côa Valley project (StoryMap chapters, illustration plates, blog posts), toward her goal of writing articles, publishing natural-history illustrations and writing blog posts.
-**Last updated**: 2026-11-07 (Draft papers table dropped; new Zenodo records section, records checked on the Zenodo API; SER 2027 poster now at v0.2); 2026-10-25 (new Conference presentations section: SER 2027 poster deposited, abstracts open 3 Dec 2026); 2026-09-27 (companion synthesis posted as a second Zenodo preprint); 2026-09-26 (paper #1 posted as a Zenodo preprint)
+**Summary**: Linda's published outputs on Zenodo, and a status tracker for planned outputs from the Rewilding Portugal / Côa Valley project (conference presentations, blog posts), toward her goal of writing articles, publishing natural-history illustrations and writing blog posts.
+**Last updated**: 2026-11-07 (Draft papers, StoryMap chapters and illustration plates sections dropped; new Zenodo records section, records checked on the Zenodo API; SER 2027 poster now at v0.2); 2026-10-25 (new Conference presentations section: SER 2027 poster deposited, abstracts open 3 Dec 2026); 2026-09-27 (companion synthesis posted as a second Zenodo preprint); 2026-09-26 (paper #1 posted as a Zenodo preprint)
 
 ---
 
@@ -28,26 +28,10 @@ The two posters are versions of one deposit. The Côa Valley outputs are describ
 
 **27 Sept 2026, the companion synthesis.** [*Rabbits, wildcats, pond turtles and a river that stayed: a synthesis and research agenda for trophic and hydrological rewilding in the Greater Côa Valley, Portugal*](https://zenodo.org/records/22997241): Linda Angulo Lopez, Zenodo preprint, 27 Sept 2026, CC BY 4.0, [DOI 10.5281/zenodo.22997241](https://doi.org/10.5281/zenodo.22997241). A literature synthesis (about 45 references) built around three linked species: the European rabbit as keystone prey, the European wildcat that depends on it, and the Mediterranean pond turtle as the river-side animal that needs summer pools. It joins predator and mesopredator cascades, the rabbit's "conservation paradox" and rewilding's effects on the water cycle into one chain of links for the valley, and sets out seven testable hypotheses, each tied to a step in the connectivity workflow preprint. It opens from South Africa's National Water Act of 1998 and its ecological Reserve, as a catchment view and a move towards earth law. Section 8 is an illustration method, drawing the three animals in the fine-line style of the Côa's Iron Age engravings; the plates are for the [[Cartography|"Movement, Water, Connection" gallery]] during Global Artivism Month. Source files: [`research/rewilding-dynamics`](https://github.com/coa-connectivity-lab/Solo-field-illustrator-project-for-Rewilding-Portugal/tree/main/research/rewilding-dynamics). Keywords: Zenodo preprint, trophic rewilding, European rabbit, European wildcat, Mediterranean pond turtle, Iron Age engravings. Related: [[Conservation]], [[Safe_and_Just]].
 
-## StoryMap chapters (public, general-audience track)
-
-From `storyMaps/5-ideas.md` / `scratch.md` — see [[Cartography]] for the full chapter-design notes. Deliberately kept separate from the papers above: same underlying fieldwork, told the other way round (site/species/narrative first, model output as a finished image, not working data).
-
-| Chapter | Theme | Status |
-|---|---|---|
-| Three Centuries of a Frontier — Almeida | Opening frame | Substantially in hand (desk-heavy) |
-| Water Without Borders — Paul de Toirões | Longitudinal/aquatic connectivity | Site visited, species table pending |
-| Who Moves Through the Côa — Vale Carapito | Terrestrial connectivity | Site visited, needs most source-checking |
-| If the Price Is Biodiversity, Don't Call It Green — Ribeira do Mosteiro | Threat/fragmentation case | Site visited (24-25 Aug reconnaissance) |
-| Two Rivers, Two Stories — Porto/Douro comparison | Closing, political frame | Trip done; dam counts now verified — see [[Conservation]] |
-
-## Natural history illustration plates
-
-Per the project's own deliverables tracking (`Post-Development-Plan.md`, `Daily_Observation_Practice.md` — see [[Conservation]]): a triptych of landscape plates, one per StoryMap theme above (Movement/Vale Carapito, Water/Paul de Toirões, Connection/Ribeira do Mosteiro), plus 9-12 supporting organism/habitat sketches. Target: field-residency foundation complete by end of August 2026, with studio refinement continuing afterward — status of individual plates not yet tracked at this granularity in the source repo.
-
 ## Conference presentations
 
 - **SER 2027, 12th World Conference on Ecological Restoration** (Lisbon, 30 Aug to 3 Sep 2027). Poster deposited: v0.1 on 25 Oct ([doi:10.5281/zenodo.23638438](https://doi.org/10.5281/zenodo.23638438)), **v0.2 on 6 Nov 2026** with Russell Vance as co-author, retitled *Rabbits and wildcats in the Greater Côa Valley* ([doi:10.5281/zenodo.24013744](https://doi.org/10.5281/zenodo.24013744); all versions [10.5281/zenodo.23638437](https://doi.org/10.5281/zenodo.23638437)), source in [coa-connectivity-lab/ser2027](https://github.com/coa-connectivity-lab/ser2027). The proposals call (symposia and training courses) closed in October 2026; the route for a poster is the **Call for Abstracts, which opens 3 December 2026** on the [same page](https://ser2027.org/call-for-proposals/), for oral presentations, lightning talks and posters. Target series: **Lands in Motion**. All presentations are in person in Lisbon, with no virtual option. Full thematic-series detail and the committee's evaluation criteria are on [[Conservation]].
 
 ## Blog posts
 
-Not yet drafted anywhere in the source repo — no working titles or topics captured yet. Worth returning to this section once Linda has specific post ideas to track; the preprints and StoryMap chapters above are natural source material to pull from.
+Not yet drafted anywhere in the source repo — no working titles or topics captured yet. Worth returning to this section once Linda has specific post ideas to track; the preprints above are natural source material to pull from.
