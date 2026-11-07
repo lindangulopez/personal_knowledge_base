@@ -16,7 +16,7 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]]: Biodiversa+ asks its community to make the case for a dedicated biodiversity partnership in FP10 before the 19 November decision meeting; none of the 19 proposed areas is about biodiversity.
+- [[Conservation]]: Biodiversa+ asks its community to defend a dedicated biodiversity partnership in FP10 before 19 November; also new, PR Stats courses on animal movement, from step-selection functions to deep learning (deepSSF).
 - [[Machine_Learning]]: the RAISE Observatory maps AI in European science on the OpenAIRE Graph; Earth sciences have the highest share of AI-related papers, 9%.
 - [[Open_Source]]: the OpenAIRE Monitor counts about 8,000 EC-funded software records, nearly all deposited on Zenodo and almost none in Software Heritage.
 
