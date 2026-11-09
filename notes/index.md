@@ -6,7 +6,7 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: the RDA Reproducibility Checklist Working Group calls for people from every field to add what makes results hard to reproduce in their discipline; next meeting Thursday 19 November.
+- [[Reproducible_Science]]: the EVERSE November newsletter: the TechRadar of research software quality tools, RSQKit's new AI guidance, open writing sessions from 7 December and a stakeholder day in Brussels on 24 November.
 - [[Open_Source]]: SWH for VS Code, a new Software Heritage client for Visual Studio Code: check what is archived, save a repository, copy a SWHID for the selected lines, cite it in BibTeX.
 - [[Safe_and_Just]]: Global Artivism Month reaches South Asia, with artists in India finding a language for silenced experience, and phulkari embroidery to remember the 1984 anti-Sikh pogrom (New Delhi, 15 Nov).
 
