@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Climate_Change]]: UN CC:Learn, 145 UN e-learning courses on climate policy, adaptation and finance, in English and French; 25% off certificates with the code COP31 until 22 November.
 - [[Reproducible_Science]]: the EVERSE November newsletter: the TechRadar of research software quality tools, RSQKit's new AI guidance, open writing sessions from 7 December and a stakeholder day in Brussels on 24 November.
 - [[Open_Source]]: SWH for VS Code, a new Software Heritage client for Visual Studio Code: check what is archived, save a repository, copy a SWHID for the selected lines, cite it in BibTeX.
-- [[Safe_and_Just]]: Global Artivism Month reaches South Asia, with artists in India finding a language for silenced experience, and phulkari embroidery to remember the 1984 anti-Sikh pogrom (New Delhi, 15 Nov).
 
 ## Topics
 
