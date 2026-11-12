@@ -8,7 +8,7 @@ Table of contents of all notes pages.
 
 - [[Climate_Change]]: UN CC:Learn, 145 UN e-learning courses on climate policy, adaptation and finance, in English and French; 25% off certificates with the code COP31 until 22 November.
 - [[Reproducible_Science]]: the EVERSE November newsletter: the TechRadar of research software quality tools, RSQKit's new AI guidance, open writing sessions from 7 December and a stakeholder day in Brussels on 24 November.
-- [[Open_Source]]: the Software Heritage November newsletter: CodeCommons review sessions online, `git clone swh::<URL>` to restore a vanished forge, the State of Public Code release, and FOSDEM devroom proposals due 24 November.
+- [[Open_Source]]: Linda's Djangonaut Space Session 7 site: an eight-week plan for contributing to Django, with ORM and accessibility tracks, a reading list and the status of her first pull requests.
 
 ## Topics
 

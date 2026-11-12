@@ -1,9 +1,11 @@
 # Python
 
 **Summary**: Python packages, libraries, and code notes.
-**Last updated**: 2026-10-29 (pointer to DjangoCon Europe 2027); earlier, 2026-10-24 (own guide: running djangoproject.com locally, django-hosts subdomain routing); earlier, 2026-10-15 (Simon Charette, "Demystifying the Django ORM"); earlier, 2026-09-30 (CPython time-complexity reference)
+**Last updated**: 2026-11-12 (pointer to the Djangonaut Space Session 7 site); earlier, 2026-10-29 (pointer to DjangoCon Europe 2027); earlier, 2026-10-24 (own guide: running djangoproject.com locally, django-hosts subdomain routing); earlier, 2026-10-15 (Simon Charette, "Demystifying the Django ORM"); earlier, 2026-09-30 (CPython time-complexity reference)
 
 ---
+
+- See [[Open_Source]] for Linda's [Djangonaut Space Session 7 site](https://lindangulopez.github.io/djangonaut-session7/): learning path, ORM and accessibility tracks, reading list and status of her Django contributions.
 
 - See [[Open_Source]] for DjangoCon Europe 2027 (Innsbruck, 17-21 Feb 2027): call for participation closes 15 Nov 2026, early-bird tickets to 30 Nov, DSF grants open 30 Nov.
 
