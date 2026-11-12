@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Climate_Change]]: UN CC:Learn, 145 UN e-learning courses on climate policy, adaptation and finance, in English and French; 25% off certificates with the code COP31 until 22 November.
-- [[Reproducible_Science]]: the EVERSE November newsletter: the TechRadar of research software quality tools, RSQKit's new AI guidance, open writing sessions from 7 December and a stakeholder day in Brussels on 24 November.
-- [[Open_Source]]: Linda's Djangonaut Space Session 7 site: an eight-week plan for contributing to Django, with ORM and accessibility tracks, a reading list and the status of her first pull requests.
+- [[Environmental_Justice]]: how the deCOALonize coalition, with Greenpeace Africa, Katiba Institute, Natural Justice, 350.org, Save Lamu and Sauti ya Wanawake, stopped a $2 billion coal plant at Lamu, Kenya.
+- [[Remote_Sensing]]: thriveGEO's November news: Sentinel data moving to EOPF Zarr, a free EOPF Explorer webinar on 25 November, wildfire EO with Natural Resources Canada, and the CASSINI hackathon.
+- [[Climate_Change]]: COP31 day two, the open dialogue on a roadmap away from fossil fuels and the call for a Belém-to-Antalya just transition mechanism.
 
 ## Topics
 
@@ -27,6 +27,7 @@ Table of contents of all notes pages.
 - [[Safe_and_Just]] — The "safe and just" framing (planetary boundaries + social foundations) applied to conservation and rewilding decisions.
 - [[Decolonial_Ecology]] — Colonial and post-colonial environmental legacies, and how empire shaped land, water, and ecological policy.
 - [[Political_Ecology]] — The politics of land, water, and wildlife: legal rights over nature, resistance, and tenure.
+- [[Careers_and_Leadership]] — Career paths and leadership stories, especially of African women, across countries and sectors.
 - [[Critical_Raw_Materials]] — The EU Critical Raw Materials Act in practice: benchmarks, Strategic Projects, and duties on permitting, site restoration, biodiversity and open geodata.
 - [[Environmental_Justice]] — Who bears environmental harm: the right to a healthy environment, future generations, and fair access to remedies.
 - [[Cartography]] — Maps, story maps, and the visual/narrative design of geographic storytelling.
