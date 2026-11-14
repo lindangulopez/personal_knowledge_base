@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Environmental_Justice]]: how the deCOALonize coalition, with Greenpeace Africa, Katiba Institute, Natural Justice, 350.org, Save Lamu and Sauti ya Wanawake, stopped a $2 billion coal plant at Lamu, Kenya.
-- [[Remote_Sensing]]: thriveGEO's November news: Sentinel data moving to EOPF Zarr, a free EOPF Explorer webinar on 25 November, wildfire EO with Natural Resources Canada, and the CASSINI hackathon.
-- [[Climate_Change]]: COP31 day two, the open dialogue on a roadmap away from fossil fuels and the call for a Belém-to-Antalya just transition mechanism.
+- [[Reproducible_Science]]: only 31 of 226 ecology and evolution journals say anything about replication studies on their websites (PCI Ecology recommendation).
+- [[Conservation]]: absence of evidence is not evidence of absence, the debate over South-East Queensland's lost subtidal oyster reefs (Restoration Ecology).
+- [[Open_Source]]: FOSDEM 2027 accepts 77 developer rooms, including Archives, Libraries, and Digital Memory and Open Research.
 
 ## Topics
 
