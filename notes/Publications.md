@@ -1,7 +1,7 @@
 # Publications
 
 **Summary**: Linda's published outputs on Zenodo, and a status tracker for planned outputs from the Rewilding Portugal / Côa Valley project (conference presentations, blog posts), toward her goal of writing articles, publishing natural-history illustrations and writing blog posts.
-**Last updated**: 2026-11-07 (Draft papers, StoryMap chapters and illustration plates sections dropped; new Zenodo records section, records checked on the Zenodo API; SER 2027 poster now at v0.2); 2026-10-25 (new Conference presentations section: SER 2027 poster deposited, abstracts open 3 Dec 2026); 2026-09-27 (companion synthesis posted as a second Zenodo preprint); 2026-09-26 (paper #1 posted as a Zenodo preprint)
+**Last updated**: 2026-11-15 (new section, earlier articles and story maps: two LinkedIn articles and a 2020 StoryMap); 2026-11-07 (Draft papers, StoryMap chapters and illustration plates sections dropped; new Zenodo records section, records checked on the Zenodo API; SER 2027 poster now at v0.2); 2026-10-25 (new Conference presentations section: SER 2027 poster deposited, abstracts open 3 Dec 2026); 2026-09-27 (companion synthesis posted as a second Zenodo preprint); 2026-09-26 (paper #1 posted as a Zenodo preprint)
 
 ---
 
@@ -31,6 +31,16 @@ The two posters are versions of one deposit. The Côa Valley outputs are describ
 ## Conference presentations
 
 - **SER 2027, 12th World Conference on Ecological Restoration** (Lisbon, 30 Aug to 3 Sep 2027). Poster deposited: v0.1 on 25 Oct ([doi:10.5281/zenodo.23638438](https://doi.org/10.5281/zenodo.23638438)), **v0.2 on 6 Nov 2026** with Russell Vance as co-author, retitled *Rabbits and wildcats in the Greater Côa Valley* ([doi:10.5281/zenodo.24013744](https://doi.org/10.5281/zenodo.24013744); all versions [10.5281/zenodo.23638437](https://doi.org/10.5281/zenodo.23638437)), source in [coa-connectivity-lab/ser2027](https://github.com/coa-connectivity-lab/ser2027). The proposals call (symposia and training courses) closed in October 2026; the route for a poster is the **Call for Abstracts, which opens 3 December 2026** on the [same page](https://ser2027.org/call-for-proposals/), for oral presentations, lightning talks and posters. Target series: **Lands in Motion**. All presentations are in person in Lisbon, with no virtual option. Full thematic-series detail and the committee's evaluation criteria are on [[Conservation]].
+
+## Earlier articles and story maps
+
+Pieces Linda published before the Côa Valley project, shared 15 Nov 2026. LinkedIn refuses automated reading (HTTP 403), so the two articles are listed by title only, with dates and descriptions still to add.
+
+- [Stamp Out COVID-19](https://storymaps.arcgis.com/stories/6538ed37095b428cb52351dd98ecb901) (ArcGIS StoryMap, 3-4 Dec 2020): SNAP participation across U.S. counties, with space-time cube and emerging hot spot analysis, for Esri's MOOC *Spatial Data Science: The New Frontier in Analytics*. Described on [[Cartography]].
+- [Tableau Citizen Science](https://www.linkedin.com/pulse/tableau-citizen-science-linda-angulo-l%C3%B3pez/) (LinkedIn article; date and content not checked). Related: [[Data]].
+- [Battle of the Neighborhoods](https://www.linkedin.com/pulse/battle-neighborhoods-linda-angulo-l%C3%B3pez/) (LinkedIn article; date and content not checked; the title is that of the capstone project of IBM's Applied Data Science course, which is unconfirmed here). Related: [[Urban_Planning]], [[Python]].
+
+Keywords: StoryMap, LinkedIn articles, Tableau, citizen science, spatial data science, portfolio.
 
 ## Blog posts
 

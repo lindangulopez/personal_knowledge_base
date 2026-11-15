@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: only 31 of 226 ecology and evolution journals say anything about replication studies on their websites (PCI Ecology recommendation).
-- [[Conservation]]: absence of evidence is not evidence of absence, the debate over South-East Queensland's lost subtidal oyster reefs (Restoration Ecology).
-- [[Open_Source]]: FOSDEM 2027 accepts 77 developer rooms, including Archives, Libraries, and Digital Memory and Open Research.
+- [[Conservation]]: PLOS Ecosystems, a new open access journal for ecosystem and biodiversity science, is open for submissions.
+- [[Agentic_Coding]]: Dapr durable execution for goose, so an AI agent that crashes halfway resumes without redoing finished turns.
+- [[Cartography]]: GIS Day 2026, Women+ in Geospatial's panel "The Future of AI is Still Human" (Wed 18 Nov, 18:00 CET).
 
 ## Topics
 
