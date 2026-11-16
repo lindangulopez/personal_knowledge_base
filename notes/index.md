@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]]: PLOS Ecosystems, a new open access journal for ecosystem and biodiversity science, is open for submissions.
-- [[Agentic_Coding]]: Dapr durable execution for goose, so an AI agent that crashes halfway resumes without redoing finished turns.
-- [[Cartography]]: GIS Day 2026, Women+ in Geospatial's panel "The Future of AI is Still Human" (Wed 18 Nov, 18:00 CET).
+- [[Climate_Change]]: "Les défis de l'IA frugale", a free Inria MOOC on the environmental footprint of AI, open to 31 Dec.
+- [[Safe_and_Just]]: Global Artivism Month, Dispatch 15, on borders drawn through Indigenous lands from Guatemala to the Black Hills.
+- [[Conservation]]: CESABINAR #21, LandWorm, how land use shapes earthworm communities across France (Thu 26 Nov, not recorded).
 
 ## Topics
 
