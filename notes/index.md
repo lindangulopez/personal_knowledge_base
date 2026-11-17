@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Climate_Change]]: "Les défis de l'IA frugale", a free Inria MOOC on the environmental footprint of AI, open to 31 Dec.
-- [[Safe_and_Just]]: Global Artivism Month, Dispatch 15, on borders drawn through Indigenous lands from Guatemala to the Black Hills.
-- [[Conservation]]: CESABINAR #21, LandWorm, how land use shapes earthworm communities across France (Thu 26 Nov, not recorded).
+- [[codeMeta_meeting]]: CodeMeta v4.0 on the Software Heritage blog, with the new `archivedAt` term for naming a trusted archive.
+- [[Reproducible_Science]]: PCI webinar, 15 Dec: Shinichi Nakagawa on why the mental-health and replication crises are one problem.
+- [[Conservation]]: 25 years of planted acacia nuclei in the Tunisian Sahara, and a call for a global knowledge commons for restoration.
 
 ## Topics
 
