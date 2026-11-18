@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[codeMeta_meeting]]: CodeMeta v4.0 on the Software Heritage blog, with the new `archivedAt` term for naming a trusted archive.
-- [[Reproducible_Science]]: PCI webinar, 15 Dec: Shinichi Nakagawa on why the mental-health and replication crises are one problem.
-- [[Conservation]]: 25 years of planted acacia nuclei in the Tunisian Sahara, and a call for a global knowledge commons for restoration.
+- [[Reproducible_Science]]: DATAstronomy, 10 Dec: a day on the research-data lifecycle for astronomy and astrophysics (Observatoire de la Côte d'Azur, DATAZUR).
+- [[Data]]: Café SIST, 26 Nov: GDPR compliance for CNRS labs, with the CNRS data protection office and a RevCil demo.
+- [[Safe_and_Just]]: the Global Artivism Virtual Convening, 7-9 Dec, three days with artivists and organisers worldwide.
 
 ## Topics
 
