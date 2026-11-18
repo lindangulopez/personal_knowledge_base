@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: DATAstronomy, 10 Dec: a day on the research-data lifecycle for astronomy and astrophysics (Observatoire de la Côte d'Azur, DATAZUR).
-- [[Data]]: Café SIST, 26 Nov: GDPR compliance for CNRS labs, with the CNRS data protection office and a RevCil demo.
-- [[Safe_and_Just]]: the Global Artivism Virtual Convening, 7-9 Dec, three days with artivists and organisers worldwide.
+- [[Conservation]]: Restoration Ecology, November 2026 issue: restoration as ecological reparation, seed sourcing under climate change, herbivore baselines for European rewilding, and gender equity in Brazilian restoration.
+- [[Environmental_Justice]]: Greenpeace Africa on COP31 climate finance: adaptation finance without a baseline, Paris Agreement Article 9.1, and access for the poorest countries.
+- [[Reproducible_Science]]: ATScience x IOSP, open science on the open social web, 29-30 Apr 2027 in the Netherlands; first round of proposals closes 30 Nov.
 
 ## Topics
 
