@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]]: Restoration Ecology, November 2026 issue: restoration as ecological reparation, seed sourcing under climate change, herbivore baselines for European rewilding, and gender equity in Brazilian restoration.
-- [[Environmental_Justice]]: Greenpeace Africa on COP31 climate finance: adaptation finance without a baseline, Paris Agreement Article 9.1, and access for the poorest countries.
-- [[Reproducible_Science]]: ATScience x IOSP, open science on the open social web, 29-30 Apr 2027 in the Netherlands; first round of proposals closes 30 Nov.
+- [[Conservation]]: Restoration Ecology Early View: native cyanobacteria against splash erosion on saline slopes, and cheap tree traits that predict which planted species persist in a restored Atlantic Forest.
+- [[Open_Source]]: AtmosphereConf 2027, the AT Protocol conference, comes to the Netherlands (29 Apr-2 May); round 1 of the call for presentations closes 30 Nov.
+- [[Climate_Change]]: the frugal AI MOOC opens sequence 3, on reducing AI's impact; next live session with the authors Tue 1 Dec, 13:00.
 
 ## Topics
 

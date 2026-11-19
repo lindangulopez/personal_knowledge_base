@@ -1,10 +1,11 @@
 # SQL
 
 **Summary**: Database systems and SQL notes.
-**Last updated**: 2026-11-04 (rBDD webinar on TimescaleDB, 12 Nov); 2026-09-29 (RocksDB)
+**Last updated**: 2026-11-19 (PostGIS Day 2026, online, 19 Nov); 2026-11-04 (rBDD webinar on TimescaleDB, 12 Nov); 2026-09-29 (RocksDB)
 
 ---
 
+- [PostGIS Day 2026](https://postgis.net/community/events/2026-postgis-day/) (subscription confirmation for the PostGIS Day mailing list, 18 Nov 2026; event listed on postgis.net, visited 19 Nov): PostGIS Day is held each year the day after GIS Day, in 2026 on **Thu 19 Nov**, online, "an opportunity for developers, users, and enthusiasts to come together" around what PostGIS, the spatial extension of PostgreSQL, makes possible. The event site is hosted by [Snowflake](https://www.snowflake.com/en/postgis-day/). The list subscription still needs confirming in the email. Useful for the GeoDjango track (Django on PostgreSQL with PostGIS, from 19 Dec), see [[Open_Source]] and [[Cartography]]. Keywords: PostGIS, PostgreSQL, GIS Day, spatial databases, online event.
 - *rBDD webinar: TimescaleDB* (Annick Battais for the rBDD network's organising team, email to the rbdd and sist lists, 3 Nov 2026; no event page found on [rbdd.cnrs.fr](https://rbdd.cnrs.fr/) on 4 Nov): "Le réseau rBDD vous invite à découvrir TimescaleDB lors d'un webinaire organisé le jeudi 12 novembre 2026 à 10:00 ! Une Extension de PostgreSQL spécialisée dans la gestion des séries temporelles, TimescaleDB propose des fonctionnalités avancées de partitionnement, de compression et d'analyse des données, particulièrement intéressantes pour les applications scientifiques, l'instrumentation et la supervision." Programme: 20 min overview of TimescaleDB and its main features, 25 min on a real deployment (setup, uses, lessons learned), 15 min of questions. **Thu 12 Nov 2026, 10:00-11:00**, by video call; the link is sent at the start of that week. rBDD is the CNRS network for people working on databases, run by MITI's networks platform. Keywords: TimescaleDB, PostgreSQL, time series, rBDD, CNRS, webinar. Related: [[Data]], [[Reproducible_Science]].
 
 - [PostgreSQL](https://www.postgresql.org/): Homepage for PostgreSQL, described as "the world's most advanced open source relational database," with over 35 years of active development. Keywords: PostgreSQL, relational database, open source. Related: [[Data]], [[Python]].
