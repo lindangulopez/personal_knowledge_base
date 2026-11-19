@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]]: Reconnecting nature and people: a science-policy day on evidence-based restoration under the EU Nature Restoration Regulation, Brussels and live stream, 25 Nov.
-- [[Open_Source]]: AtmosphereConf 2027, the AT Protocol conference, comes to the Netherlands (29 Apr-2 May); round 1 of the call for presentations closes 30 Nov.
-- [[Reproducible_Science]]: REWIRE, a Horizon Europe project (2026-2029) that puts computational reproducibility into practice with Argos plans, GNU Guix and RO-Crate in eight pilot organisations.
+- [[Conservation]]: World Wetlands Day 2027, "Innovation in Action for Wetlands" (2 Feb 2027): 411 million ha lost since 1970, wetlands disappearing three times faster than forests.
+- [[Reproducible_Science]]: GigaByte's SAW article embeds the Software Heritage archive of its code as a figure: hosted on GitHub, archived in Software Heritage.
+- [[Cartography]]: QGIS Server, GeoServer or MapServer? A CNRS SIST thread's rule of thumb: QGIS Server with Lizmap for general web mapping.
 
 ## Topics
 
