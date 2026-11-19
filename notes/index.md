@@ -6,7 +6,7 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]]: Restoration Ecology Early View: native cyanobacteria against splash erosion on saline slopes, and cheap tree traits that predict which planted species persist in a restored Atlantic Forest.
+- [[Conservation]]: Reconnecting nature and people: a science-policy day on evidence-based restoration under the EU Nature Restoration Regulation, Brussels and live stream, 25 Nov.
 - [[Open_Source]]: AtmosphereConf 2027, the AT Protocol conference, comes to the Netherlands (29 Apr-2 May); round 1 of the call for presentations closes 30 Nov.
 - [[Climate_Change]]: the frugal AI MOOC opens sequence 3, on reducing AI's impact; next live session with the authors Tue 1 Dec, 13:00.
 
