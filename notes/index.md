@@ -8,7 +8,7 @@ Table of contents of all notes pages.
 
 - [[Conservation]]: World Wetlands Day 2027, "Innovation in Action for Wetlands" (2 Feb 2027): 411 million ha lost since 1970, wetlands disappearing three times faster than forests.
 - [[Reproducible_Science]]: GigaByte's SAW article embeds the Software Heritage archive of its code as a figure: hosted on GitHub, archived in Software Heritage.
-- [[Cartography]]: QGIS Server, GeoServer or MapServer? A CNRS SIST thread's rule of thumb: QGIS Server with Lizmap for general web mapping.
+- [[Cartography]]: QGIS Server or GeoServer? The CNRS SIST thread continued: QGIS Server has no per-layer roles, while GeoServer passes tokens for access control and publishes data-model outputs (app-schema) for FAIR exchange.
 
 ## Topics
 
