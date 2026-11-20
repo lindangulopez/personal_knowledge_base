@@ -6,7 +6,7 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- [[Conservation]]: World Wetlands Day 2027, "Innovation in Action for Wetlands" (2 Feb 2027): 411 million ha lost since 1970, wetlands disappearing three times faster than forests.
+- [[Conservation]]: PLOS's ecosystems research page gathers the new PLOS Ecosystems journal and three collections, from data for conservation decisions to nature-based solutions for climate and water.
 - [[Reproducible_Science]]: GigaByte's SAW article embeds the Software Heritage archive of its code as a figure: hosted on GitHub, archived in Software Heritage.
 - [[Cartography]]: QGIS Server or GeoServer? The CNRS SIST thread continued: QGIS Server has no per-layer roles, while GeoServer passes tokens for access control and publishes data-model outputs (app-schema) for FAIR exchange.
 
