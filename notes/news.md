@@ -1,6 +1,6 @@
 # News
 
-The latest additions to my notes, and the table of contents of all topic pages.
+The latest additions to my notes, my CV, and the table of contents of all topic pages.
 
 ---
 
@@ -9,6 +9,49 @@ The latest additions to my notes, and the table of contents of all topic pages.
 - [[Agriculture]]: UC Davis's CLEAR Center sets the fifth State of the Science Summit on cutting methane from animal agriculture for 15-17 June 2027, at UC Davis.
 - [[Conservation]]: PLOS's ecosystems research page gathers the new PLOS Ecosystems journal and three collections, from data for conservation decisions to nature-based solutions for climate and water.
 - [[Reproducible_Science]]: GigaByte's SAW article embeds the Software Heritage archive of its code as a figure: hosted on GitHub, archived in Software Heritage.
+
+## CV
+
+Where these places are: see the [map on the home page](index.md#where-i-have-worked).
+
+### Experience
+
+#### Key experience
+
+<div class="timeline">
+<div class="entry"><div class="when">Sep 2025 to now · Paris</div><div class="role">Partnerships Specialist and OSPO-RADAR Assistance</div><div class="org">Software Heritage (Fondation Inria)</div><p>Partnerships from first contact to production, metadata quality checks, training on SWHID and CodeMeta.</p><a class="maplink" href="../#career-map" data-place="swh">Show on map</a></div>
+<div class="entry"><div class="when">Apr 2023 to Feb 2024 · Paris</div><div class="role">Database Administrator (Application Developer), BBEES unit</div><div class="org">Muséum national d'Histoire naturelle</div><p>Updated the database and website of Transloc, the platform for conservation translocations in the Western Palearctic (Biodiversa+, Water JPI), working with partners in more than ten EU countries.</p><a class="maplink" href="../#career-map" data-place="mnhn">Show on map</a></div>
+<div class="entry"><div class="when">2006 to 2008 · Fontainebleau</div><div class="role">Research Assistant</div><div class="org">INSEAD</div><p>Interviews on corporate social responsibility for the EU FP6 RESPONSE project, to study cognition in environmental economics.</p><a class="maplink" href="../#career-map" data-place="insead">Show on map</a></div>
+<div class="entry"><div class="when">1997 to 2002 · South Africa</div><div class="role">Environmental Deputy Director</div><div class="org">Department of Minerals and Energy</div><p>Post-mining land restoration and catchment management at the Palabora copper mine and Bushveld platinum mines; audits of restoration funds; tenders to rehabilitate derelict mines.</p><a class="maplink" href="../#career-map" data-place="palabora">Show on map</a></div>
+</div>
+
+#### Other experience
+
+<div class="timeline">
+<div class="entry"><div class="when">Feb 2026 to now · Côa Valley, Portugal (remote)</div><div class="role">Researcher, Rewilding Academic Talent Program</div><div class="org">Rewilding Portugal</div><p>Landscape-connectivity modelling and multispecies corridor design. See the <a href="../blog/">blog</a>.</p><a class="maplink" href="../#career-map" data-place="coa">Show on map</a></div>
+<div class="entry"><div class="when">Sep 2024 to Aug 2025 · Paris</div><div class="role">Project Officer, Data Management and International Relations</div><div class="org">INRAE</div><a class="maplink" href="../#career-map" data-place="inrae">Show on map</a></div>
+<div class="entry"><div class="when">Mar to Aug 2024 · Écully</div><div class="role">Chargée de mission données de la recherche</div><div class="org">École centrale de Lyon</div><a class="maplink" href="../#career-map" data-place="ecl">Show on map</a></div>
+<div class="entry"><div class="when">Oct 2022 to Mar 2023 · Paris</div><div class="role">Database Administrator (Application Developer)</div><div class="org">Muséum national d'Histoire naturelle</div><p>An information system for historical opium-poppy dispersal data.</p></div>
+<div class="entry"><div class="when">Jan to Sep 2022 · Savigny-le-Temple</div><div class="role">GIS Database Technician</div><div class="org">GRDF</div><a class="maplink" href="../#career-map" data-place="grdf">Show on map</a></div>
+<div class="entry"><div class="when">2011 to 2020 · Boulogne-Billancourt</div><div class="role">Business English teacher</div><div class="org">Metropolitan Langues &amp; Aptitudes</div><a class="maplink" href="../#career-map" data-place="metropolitan">Show on map</a></div>
+<div class="entry"><div class="when">1996 to 1997 · South Africa</div><div class="role">Water-quality technician</div><div class="org">Department of Water Affairs and Forestry</div></div>
+</div>
+
+#### Volunteering and mentoring
+
+<div class="timeline vol">
+<div class="entry"><div class="when">2026 · Remote</div><div class="role">Trainer, Local Network Leads programme</div><div class="org">African Reproducibility Network</div><a class="maplink" href="../#career-map" data-place="aren">Show on map</a></div>
+<div class="entry"><div class="when">Sep to Dec 2025 · Remote</div><div class="role">Satellite-data mentor, Niger and Jamaica</div><div class="org">Innovate with EU Space Data</div><a class="maplink" href="../#career-map" data-place="jamaica">Show on map</a></div>
+</div>
+
+### Education
+
+<div class="timeline edu">
+<div class="entry"><div class="when">2001 · Paris</div><div class="role">Mastère Spécialisé en Administration des Mines</div><div class="org">Mines Paris, PSL</div><a class="maplink" href="../#career-map" data-place="mines">Show on map</a></div>
+<div class="entry"><div class="when">1995 to 1996 · Johannesburg</div><div class="role">BSc Honours, Botany</div><div class="org">University of the Witwatersrand</div><p>Somatic embryogenesis of cassava.</p><a class="maplink" href="../#career-map" data-place="wits">Show on map</a></div>
+<div class="entry"><div class="when">1990 to 1994 · Johannesburg</div><div class="role">BSc, Botany and Plant Biology</div><div class="org">University of the Witwatersrand</div></div>
+<div class="entry"><div class="when">Since 2020 · Online</div><div class="role">Continuing education in data science and GIS</div><div class="org">Johns Hopkins (R), IBM (Python, machine learning), UC Davis (GIS), Spatial Thoughts (PyQGIS, GDAL)</div></div>
+</div>
 
 ## Topics
 

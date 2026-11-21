@@ -12,10 +12,11 @@ hide:
 
 I grew up in Port Shepstone, South Africa, and I live in Fontainebleau. I work at Software Heritage in Paris, helping research institutions archive, cite and describe the source code behind their science. I also mentor people who use satellite data and GIS in Africa and the Caribbean.
 
-<span class="readtime">5 min read</span>
+<span class="readtime">4 min read</span>
 
 [Read the blog](blog/index.md){ .md-button .md-button--primary }
 [Publications](Publications.md){ .md-button }
+[CV](news.md#cv){ .md-button }
 [News](news.md){ .md-button }
 
 </div>
@@ -28,6 +29,22 @@ I grew up in Port Shepstone, South Africa, and I live in Fontainebleau. I work a
 </div>
 
 <p class="credits">Photos: Paris by <a href="https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg">Yann Caradec</a> (CC BY-SA 2.0) and the forest of Fontainebleau by <a href="https://commons.wikimedia.org/wiki/File:Rochers_en_for%C3%AAt_de_Fontainebleau11.JPG">Thesupermat</a> (CC BY-SA 3.0), via Wikidata; the Indian Ocean at Margate, on the South Coast near Port Shepstone, by <a href="https://www.flickr.com/photos/65695019@N07/54280264565">Bernard Dupont</a> (CC BY-SA 2.0); zebras in Pilanesberg National Park, inside the Bushveld complex, by <a href="https://www.flickr.com/photos/25779097@N08/6253262246">South African Tourism</a> (CC BY 2.0), via Flickr.</p>
+
+## Where I have worked
+
+Click a pin, or filter the map.
+
+<div class="map-controls" role="group" aria-label="Filter the map">
+<button type="button" data-filter="all" aria-pressed="true">All</button>
+<button type="button" data-filter="now" aria-pressed="false"><span class="dot" style="background:#0b2a4a"></span>Now</button>
+<button type="button" data-filter="experience" aria-pressed="false"><span class="dot" style="background:#1f5a96"></span>Experience</button>
+<button type="button" data-filter="education" aria-pressed="false"><span class="dot" style="background:#5fa8e0"></span>Education</button>
+<button type="button" data-filter="volunteer" aria-pressed="false"><span class="dot" style="background:#5c6bc0"></span>Volunteering and mentoring</button>
+</div>
+
+<div id="career-map" aria-label="Map of the places where Linda has studied and worked"></div>
+
+[Read my full CV: experience and education](news.md#cv){ .md-button }
 
 ## What I bring
 
@@ -59,6 +76,14 @@ I grew up in Port Shepstone, South Africa, and I live in Fontainebleau. I work a
 
 </div>
 
+## Recent work
+
+<div class="gallery" markdown>
+<figure><a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img src="assets/img/codemeta-v4.svg" alt="CodeMeta 4.0 drawn as a hub linked to twelve metadata schemas" loading="lazy"></a><figcaption><strong>CodeMeta 4.0 released</strong>The research-software metadata standard, with new terms for citation, documentation and related software.</figcaption></figure>
+<figure><a href="blog/a-connectivity-model-you-can-read/"><img src="assets/img/map-connection.jpg" alt="Map of multispecies connectivity across the Côa catchment" loading="lazy"></a><figcaption><strong>A model you can read</strong>An open connectivity workflow for the Côa Valley.</figcaption></figure>
+<figure><a href="blog/citing-and-preserving-research-code/"><img src="assets/img/paris.jpg" alt="Paris skyline with the Eiffel Tower" loading="lazy"></a><figcaption><strong>Citing research code</strong>Four talks on SWHID and CodeMeta in 2026.</figcaption></figure>
+</div>
+
 ## Now: Software Heritage
 
 Since September 2025 I have been Partnerships Specialist and OSPO-RADAR Assistance at [Software Heritage](https://www.softwareheritage.org/), the universal archive of source code, hosted by Inria in Paris. I follow partnerships from the first contact to production: the agreement, the metadata quality checks, and the day the code is archived. I also work on the OSPO-RADAR project, and contribute to [CodeMeta](https://codemeta.github.io/), the metadata standard that lets research software be found and cited.
@@ -76,67 +101,6 @@ From September to December 2025 I was a satellite-data mentor for Innovate with 
 ## Where I started: South Africa
 
 I studied botany at the University of the Witwatersrand, then tested water quality for the Department of Water Affairs and Forestry. From 1997 to 2002 I was Environmental Deputy Director at the Department of Minerals and Energy. I oversaw the environmental side of the Palabora copper mine, on the edge of Kruger National Park, and of platinum mines in the Bushveld complex: post-mining land restoration, catchment management, audits of restoration funds, and tenders to rehabilitate derelict mines. That work brought me to Mines Paris, and to France.
-
-## Where I have worked
-
-Click a pin, or filter the map.
-
-<div class="map-controls" role="group" aria-label="Filter the map">
-<button type="button" data-filter="all" aria-pressed="true">All</button>
-<button type="button" data-filter="now" aria-pressed="false"><span class="dot" style="background:#0b2a4a"></span>Now</button>
-<button type="button" data-filter="experience" aria-pressed="false"><span class="dot" style="background:#1f5a96"></span>Experience</button>
-<button type="button" data-filter="education" aria-pressed="false"><span class="dot" style="background:#5fa8e0"></span>Education</button>
-<button type="button" data-filter="volunteer" aria-pressed="false"><span class="dot" style="background:#5c6bc0"></span>Volunteering and mentoring</button>
-</div>
-
-<div id="career-map" aria-label="Map of the places where Linda has studied and worked"></div>
-
-## Experience
-
-### Key experience
-
-<div class="timeline">
-<div class="entry"><div class="when">Sep 2025 to now · Paris</div><div class="role">Partnerships Specialist and OSPO-RADAR Assistance</div><div class="org">Software Heritage (Fondation Inria)</div><p>Partnerships from first contact to production, metadata quality checks, training on SWHID and CodeMeta.</p><a class="maplink" href="#career-map" data-place="swh">Show on map</a></div>
-<div class="entry"><div class="when">Apr 2023 to Feb 2024 · Paris</div><div class="role">Database Administrator (Application Developer), BBEES unit</div><div class="org">Muséum national d'Histoire naturelle</div><p>Updated the database and website of Transloc, the platform for conservation translocations in the Western Palearctic (Biodiversa+, Water JPI), working with partners in more than ten EU countries.</p><a class="maplink" href="#career-map" data-place="mnhn">Show on map</a></div>
-<div class="entry"><div class="when">2006 to 2008 · Fontainebleau</div><div class="role">Research Assistant</div><div class="org">INSEAD</div><p>Interviews on corporate social responsibility for the EU FP6 RESPONSE project, to study cognition in environmental economics.</p><a class="maplink" href="#career-map" data-place="insead">Show on map</a></div>
-<div class="entry"><div class="when">1997 to 2002 · South Africa</div><div class="role">Environmental Deputy Director</div><div class="org">Department of Minerals and Energy</div><p>Post-mining land restoration and catchment management at the Palabora copper mine and Bushveld platinum mines; audits of restoration funds; tenders to rehabilitate derelict mines.</p><a class="maplink" href="#career-map" data-place="palabora">Show on map</a></div>
-</div>
-
-### Other experience
-
-<div class="timeline">
-<div class="entry"><div class="when">Feb 2026 to now · Côa Valley, Portugal (remote)</div><div class="role">Researcher, Rewilding Academic Talent Program</div><div class="org">Rewilding Portugal</div><p>Landscape-connectivity modelling and multispecies corridor design. See the <a href="blog/">blog</a>.</p><a class="maplink" href="#career-map" data-place="coa">Show on map</a></div>
-<div class="entry"><div class="when">Sep 2024 to Aug 2025 · Paris</div><div class="role">Project Officer, Data Management and International Relations</div><div class="org">INRAE</div><a class="maplink" href="#career-map" data-place="inrae">Show on map</a></div>
-<div class="entry"><div class="when">Mar to Aug 2024 · Écully</div><div class="role">Chargée de mission données de la recherche</div><div class="org">École centrale de Lyon</div><a class="maplink" href="#career-map" data-place="ecl">Show on map</a></div>
-<div class="entry"><div class="when">Oct 2022 to Mar 2023 · Paris</div><div class="role">Database Administrator (Application Developer)</div><div class="org">Muséum national d'Histoire naturelle</div><p>An information system for historical opium-poppy dispersal data.</p></div>
-<div class="entry"><div class="when">Jan to Sep 2022 · Savigny-le-Temple</div><div class="role">GIS Database Technician</div><div class="org">GRDF</div><a class="maplink" href="#career-map" data-place="grdf">Show on map</a></div>
-<div class="entry"><div class="when">2011 to 2020 · Boulogne-Billancourt</div><div class="role">Business English teacher</div><div class="org">Metropolitan Langues &amp; Aptitudes</div><a class="maplink" href="#career-map" data-place="metropolitan">Show on map</a></div>
-<div class="entry"><div class="when">1996 to 1997 · South Africa</div><div class="role">Water-quality technician</div><div class="org">Department of Water Affairs and Forestry</div></div>
-</div>
-
-### Volunteering and mentoring
-
-<div class="timeline vol">
-<div class="entry"><div class="when">2026 · Remote</div><div class="role">Trainer, Local Network Leads programme</div><div class="org">African Reproducibility Network</div><a class="maplink" href="#career-map" data-place="aren">Show on map</a></div>
-<div class="entry"><div class="when">Sep to Dec 2025 · Remote</div><div class="role">Satellite-data mentor, Niger and Jamaica</div><div class="org">Innovate with EU Space Data</div><a class="maplink" href="#career-map" data-place="jamaica">Show on map</a></div>
-</div>
-
-## Education
-
-<div class="timeline edu">
-<div class="entry"><div class="when">2001 · Paris</div><div class="role">Mastère Spécialisé en Administration des Mines</div><div class="org">Mines Paris, PSL</div><a class="maplink" href="#career-map" data-place="mines">Show on map</a></div>
-<div class="entry"><div class="when">1995 to 1996 · Johannesburg</div><div class="role">BSc Honours, Botany</div><div class="org">University of the Witwatersrand</div><p>Somatic embryogenesis of cassava.</p><a class="maplink" href="#career-map" data-place="wits">Show on map</a></div>
-<div class="entry"><div class="when">1990 to 1994 · Johannesburg</div><div class="role">BSc, Botany and Plant Biology</div><div class="org">University of the Witwatersrand</div></div>
-<div class="entry"><div class="when">Since 2020 · Online</div><div class="role">Continuing education in data science and GIS</div><div class="org">Johns Hopkins (R), IBM (Python, machine learning), UC Davis (GIS), Spatial Thoughts (PyQGIS, GDAL)</div></div>
-</div>
-
-## Recent work
-
-<div class="gallery" markdown>
-<figure><a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img src="assets/img/codemeta-v4.svg" alt="CodeMeta 4.0 drawn as a hub linked to twelve metadata schemas" loading="lazy"></a><figcaption><strong>CodeMeta 4.0 released</strong>The research-software metadata standard, with new terms for citation, documentation and related software.</figcaption></figure>
-<figure><a href="blog/a-connectivity-model-you-can-read/"><img src="assets/img/map-connection.jpg" alt="Map of multispecies connectivity across the Côa catchment" loading="lazy"></a><figcaption><strong>A model you can read</strong>An open connectivity workflow for the Côa Valley.</figcaption></figure>
-<figure><a href="blog/citing-and-preserving-research-code/"><img src="assets/img/paris.jpg" alt="Paris skyline with the Eiffel Tower" loading="lazy"></a><figcaption><strong>Citing research code</strong>Four talks on SWHID and CodeMeta in 2026.</figcaption></figure>
-</div>
 
 ## Let's talk
 

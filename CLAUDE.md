@@ -8,8 +8,8 @@ A personal notes organizer maintained by Claude Code.
 - raw/ -- documents containing unprocessed notes
 - processed/ -- documents containing processed notes
 - notes/ -- markdown pages for the organized notes pages
-- notes/index.md -- landing page (about Linda: bio, career map, experience, education); hand-edited, not part of ingestion
-- notes/news.md -- "News" page: Latest Finds and the table of contents of all the notes pages
+- notes/index.md -- landing page (about Linda: intro, What I bring, recent work, career map); hand-edited, not part of ingestion
+- notes/news.md -- "News" page: Latest Finds, the CV (experience and education, hand-edited, leave alone when ingesting) and the table of contents of all the notes pages
 - notes/log.md -- append-only record of all operations
 ```
 
