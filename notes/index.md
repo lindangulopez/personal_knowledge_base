@@ -83,10 +83,10 @@ Click a pin, or filter the map.
 
 <div class="map-controls" role="group" aria-label="Filter the map">
 <button type="button" data-filter="all" aria-pressed="true">All</button>
-<button type="button" data-filter="now" aria-pressed="false"><span class="dot" style="background:#5b7f3a"></span>Now</button>
-<button type="button" data-filter="experience" aria-pressed="false"><span class="dot" style="background:#8f4322"></span>Experience</button>
-<button type="button" data-filter="education" aria-pressed="false"><span class="dot" style="background:#2f6f8f"></span>Education</button>
-<button type="button" data-filter="volunteer" aria-pressed="false"><span class="dot" style="background:#6a4c93"></span>Volunteering and mentoring</button>
+<button type="button" data-filter="now" aria-pressed="false"><span class="dot" style="background:#0b2a4a"></span>Now</button>
+<button type="button" data-filter="experience" aria-pressed="false"><span class="dot" style="background:#1f5a96"></span>Experience</button>
+<button type="button" data-filter="education" aria-pressed="false"><span class="dot" style="background:#5fa8e0"></span>Education</button>
+<button type="button" data-filter="volunteer" aria-pressed="false"><span class="dot" style="background:#5c6bc0"></span>Volunteering and mentoring</button>
 </div>
 
 <div id="career-map" aria-label="Map of the places where Linda has studied and worked"></div>

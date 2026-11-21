@@ -1,31 +1,32 @@
-/* Palette: burnt sienna on warm stone, after the Côa line plates */
+/* Palette: shades of blue */
 :root,
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #8f4322;
-  --md-primary-fg-color--light: #b8643c;
-  --md-primary-fg-color--dark: #6b2f17;
-  --md-accent-fg-color: #c0622f;
-  --md-default-bg-color: #fbf8f4;
+  --md-primary-fg-color: #1f5a96;
+  --md-primary-fg-color--light: #4a86c5;
+  --md-primary-fg-color--dark: #143d66;
+  --md-accent-fg-color: #2b7bd0;
+  --md-default-bg-color: #f7f9fc;
   --la-card-bg: #ffffff;
-  --la-muted: #6b625b;
-  --la-line: #e6ddd3;
-  --la-edu: #2f6f8f;
-  --la-exp: #8f4322;
-  --la-home: #5b7f3a;
+  --la-muted: #5b6878;
+  --la-line: #dbe4ee;
+  --la-edu: #5fa8e0;
+  --la-exp: #1f5a96;
+  --la-home: #0b2a4a;
 }
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #b8643c;
-  --md-primary-fg-color--light: #d48a62;
-  --md-primary-fg-color--dark: #8f4322;
-  --md-accent-fg-color: #e08a5a;
-  --md-default-bg-color: #1d1a18;
-  --la-card-bg: #262220;
-  --la-muted: #b4aaa1;
-  --la-line: #3a3430;
-  --la-edu: #6fb0d0;
-  --la-exp: #e08a5a;
-  --la-home: #9cc278;
+  --md-primary-fg-color: #2f6fb0;
+  --md-primary-fg-color--light: #6aa6e0;
+  --md-primary-fg-color--dark: #1f5a96;
+  --md-accent-fg-color: #7db7f0;
+  --md-typeset-a-color: #8cc0f0;
+  --md-default-bg-color: #121820;
+  --la-card-bg: #1a222c;
+  --la-muted: #a3b1c2;
+  --la-line: #2a3644;
+  --la-edu: #8cc8f5;
+  --la-exp: #6aa6e0;
+  --la-home: #b9d4f2;
 }
 
 /* ---------- Home hero ---------- */
@@ -163,9 +164,9 @@
 @media screen and (max-width: 44.9375em) { #career-map { height: 380px; } }
 
 .leaflet-popup-content { font-family: var(--md-text-font-family, sans-serif); font-size: .8rem; line-height: 1.4; }
-.leaflet-popup-content .pop-when { color: #6b625b; font-size: .72rem; text-transform: uppercase; font-weight: 600; }
+.leaflet-popup-content .pop-when { color: #5b6878; font-size: .72rem; text-transform: uppercase; font-weight: 600; }
 .leaflet-popup-content .pop-title { font-weight: 700; margin: .15rem 0; }
-.leaflet-popup-content .pop-org { color: #8f4322; }
+.leaflet-popup-content .pop-org { color: #1f5a96; }
 .leaflet-popup-content p { margin: .3rem 0 0; }
 
 .career-pin {
@@ -175,11 +176,11 @@
   border: 2px solid #fff;
   box-shadow: 0 1px 4px rgba(0, 0, 0, .45);
 }
-.career-pin.education { background: #2f6f8f; }
-.career-pin.experience { background: #8f4322; }
-.career-pin.home { background: #5b7f3a; }
-.career-pin.volunteer { background: #6a4c93; }
-.timeline.vol .entry::before { background: #6a4c93; }
+.career-pin.education { background: #5fa8e0; }
+.career-pin.experience { background: #1f5a96; }
+.career-pin.home { background: #0b2a4a; }
+.career-pin.volunteer { background: #5c6bc0; }
+.timeline.vol .entry::before { background: #5c6bc0; }
 .readtime { font-size: .75rem; color: var(--la-muted); display: block; margin: .2rem 0 .6rem; }
 
 /* Photo strip */
