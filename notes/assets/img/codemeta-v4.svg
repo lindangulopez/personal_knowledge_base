@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="t">
+  <title id="t">CodeMeta 4.0 as a hub: one vocabulary at the centre, linked to twelve metadata schemas by crosswalks</title>
+  <rect width="900" height="1125" fill="#f4ece2"/>
+  <g stroke="#b8643c" stroke-width="4" stroke-linecap="round">
+    <line x1="450" y1="560" x2="450" y2="250"/>
+    <line x1="450" y1="560" x2="605" y2="292"/>
+    <line x1="450" y1="560" x2="718" y2="405"/>
+    <line x1="450" y1="560" x2="760" y2="560"/>
+    <line x1="450" y1="560" x2="718" y2="715"/>
+    <line x1="450" y1="560" x2="605" y2="828"/>
+    <line x1="450" y1="560" x2="450" y2="870"/>
+    <line x1="450" y1="560" x2="295" y2="828"/>
+    <line x1="450" y1="560" x2="182" y2="715"/>
+    <line x1="450" y1="560" x2="140" y2="560"/>
+    <line x1="450" y1="560" x2="182" y2="405"/>
+    <line x1="450" y1="560" x2="295" y2="292"/>
+  </g>
+  <g fill="#fbf8f4" stroke="#8f4322" stroke-width="5">
+    <circle cx="450" cy="250" r="34"/><circle cx="605" cy="292" r="34"/><circle cx="718" cy="405" r="34"/>
+    <circle cx="760" cy="560" r="34"/><circle cx="718" cy="715" r="34"/><circle cx="605" cy="828" r="34"/>
+    <circle cx="450" cy="870" r="34"/><circle cx="295" cy="828" r="34"/><circle cx="182" cy="715" r="34"/>
+    <circle cx="140" cy="560" r="34"/><circle cx="182" cy="405" r="34"/><circle cx="295" cy="292" r="34"/>
+  </g>
+  <circle cx="450" cy="560" r="135" fill="#8f4322"/>
+  <text x="450" y="545" text-anchor="middle" font-family="'Source Sans 3', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#fff">CodeMeta</text>
+  <text x="450" y="605" text-anchor="middle" font-family="'Source Sans 3', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#fff">4.0</text>
+  <text x="450" y="1010" text-anchor="middle" font-family="'Source Sans 3', Helvetica, Arial, sans-serif" font-size="36" fill="#6b2f17">one vocabulary, twelve crosswalks</text>
+  <text x="450" y="1060" text-anchor="middle" font-family="'Source Sans 3', Helvetica, Arial, sans-serif" font-size="28" fill="#6b625b">released 29 September 2026</text>
+</svg>
