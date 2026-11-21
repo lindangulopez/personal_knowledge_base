@@ -66,6 +66,9 @@ extra_javascript:
 
 extra:
   social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/lindangulopez/
+      name: LinkedIn
     - icon: fontawesome/brands/github
       link: https://github.com/lindangulopez
       name: GitHub

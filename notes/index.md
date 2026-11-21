@@ -121,6 +121,7 @@ I studied botany at the University of the Witwatersrand, then tested water quali
 
 I am at my best where ecology, data and people meet: a partnership to build, a data system to put right, a landscape to model with the people who live in it. Does your team have one of those? Let's meet.
 
-[Find me on GitHub](https://github.com/lindangulopez){ .md-button .md-button--primary }
+[Connect on LinkedIn](https://www.linkedin.com/in/lindangulopez/){ .md-button .md-button--primary }
+[GitHub](https://github.com/lindangulopez){ .md-button }
 [ORCID](https://orcid.org/0009-0009-5689-7148){ .md-button }
 [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Angulo%20Lopez%2C%20Linda%22){ .md-button }
