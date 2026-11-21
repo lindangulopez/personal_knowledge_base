@@ -36,10 +36,10 @@ Click a pin, or filter the map.
 
 <div class="map-controls" role="group" aria-label="Filter the map">
 <button type="button" data-filter="all" aria-pressed="true">All</button>
-<button type="button" data-filter="now" aria-pressed="false"><span class="dot" style="background:#0b2a4a"></span>Now</button>
-<button type="button" data-filter="experience" aria-pressed="false"><span class="dot" style="background:#1f5a96"></span>Experience</button>
-<button type="button" data-filter="education" aria-pressed="false"><span class="dot" style="background:#5fa8e0"></span>Education</button>
-<button type="button" data-filter="volunteer" aria-pressed="false"><span class="dot" style="background:#5c6bc0"></span>Volunteering and mentoring</button>
+<button type="button" data-filter="now" aria-pressed="false"><span class="dot" style="background:#08393a"></span>Now</button>
+<button type="button" data-filter="experience" aria-pressed="false"><span class="dot" style="background:#0f6b6b"></span>Experience</button>
+<button type="button" data-filter="education" aria-pressed="false"><span class="dot" style="background:#4fb3ae"></span>Education</button>
+<button type="button" data-filter="volunteer" aria-pressed="false"><span class="dot" style="background:#2f6fb0"></span>Volunteering and mentoring</button>
 </div>
 
 <div id="career-map" aria-label="Map of the places where Linda has studied and worked"></div>
@@ -79,7 +79,7 @@ Click a pin, or filter the map.
 ## Recent work
 
 <div class="gallery" markdown>
-<figure><a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img src="assets/img/codemeta-v4.svg" alt="CodeMeta 4.0 drawn as a hub linked to twelve metadata schemas" loading="lazy"></a><figcaption><strong>CodeMeta 4.0 released</strong>The research-software metadata standard, with new terms for citation, documentation and related software.</figcaption></figure>
+<figure><a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img class="contain" src="assets/img/codemeta-v4-hub.png" alt="CodeMeta v4.0 as a hub: one crosswalk each to twelve schemas, from CITATION.cff and GitHub to DataCite and Wikidata; GitLab, Zenodo and code.json new or updated in v4.0" loading="lazy"></a><figcaption><strong>CodeMeta 4.0 released</strong>The research-software metadata standard, with new terms for citation, documentation and related software.</figcaption></figure>
 <figure><a href="blog/a-connectivity-model-you-can-read/"><img src="assets/img/map-connection.jpg" alt="Map of multispecies connectivity across the Côa catchment" loading="lazy"></a><figcaption><strong>A model you can read</strong>An open connectivity workflow for the Côa Valley.</figcaption></figure>
 <figure><a href="blog/citing-and-preserving-research-code/"><img src="assets/img/paris.jpg" alt="Paris skyline with the Eiffel Tower" loading="lazy"></a><figcaption><strong>Citing research code</strong>Four talks on SWHID and CodeMeta in 2026.</figcaption></figure>
 </div>
