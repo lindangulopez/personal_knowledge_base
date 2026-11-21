@@ -75,7 +75,7 @@
 /* ---------- Image gallery ---------- */
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 1rem;
   margin: 1rem 0 2rem;
 }
@@ -250,3 +250,6 @@
 .gallery img.contain { object-fit: contain; background: #FFFBEA; }
 .gallery figure.wide { grid-column: span 2; }
 .gallery figure.wide img { aspect-ratio: 8 / 5; }
+.md-typeset figure.featured { margin: 1rem 0 1.2rem; max-width: none; }
+.md-typeset figure.featured img { width: 100%; border-radius: 12px; border: 1px solid var(--la-line); background: #FFFBEA; }
+.md-typeset figure.featured figcaption { font-size: .7rem; color: var(--la-muted); max-width: none; text-align: left; }
