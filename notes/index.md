@@ -134,8 +134,6 @@ Click a pin, or filter the map.
 
 <div class="gallery" markdown>
 <figure><a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img src="assets/img/codemeta-v4.svg" alt="CodeMeta 4.0 drawn as a hub linked to twelve metadata schemas" loading="lazy"></a><figcaption><strong>CodeMeta 4.0 released</strong>The research-software metadata standard, with new terms for citation, documentation and related software.</figcaption></figure>
-<figure><a href="blog/new-animals-in-an-old-line/"><img src="assets/img/plate-rabbit.jpg" alt="European rabbit drawn in burnt sienna lines on grey schist" loading="lazy"></a><figcaption><strong>New animals in an old line</strong>Field illustration after the Côa's Iron Age engravings.</figcaption></figure>
-<figure><a href="blog/rabbits-and-wildcats-at-ser-2027/"><img src="assets/img/ser2027-poster.jpg" alt="SER 2027 poster: Rabbits and wildcats in the Greater Côa Valley" loading="lazy"></a><figcaption><strong>Rabbits and wildcats</strong>A connectivity poster for SER 2027, Lisbon.</figcaption></figure>
 <figure><a href="blog/a-connectivity-model-you-can-read/"><img src="assets/img/map-connection.jpg" alt="Map of multispecies connectivity across the Côa catchment" loading="lazy"></a><figcaption><strong>A model you can read</strong>An open connectivity workflow for the Côa Valley.</figcaption></figure>
 <figure><a href="blog/citing-and-preserving-research-code/"><img src="assets/img/paris.jpg" alt="Paris skyline with the Eiffel Tower" loading="lazy"></a><figcaption><strong>Citing research code</strong>Four talks on SWHID and CodeMeta in 2026.</figcaption></figure>
 </div>
