@@ -79,7 +79,7 @@ Click a pin, or filter the map.
 ## Recent work
 
 <div class="gallery" markdown>
-<figure><a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img class="contain" src="assets/img/codemeta-v4-hub.png" alt="CodeMeta v4.0 as a hub: one crosswalk each to twelve schemas, from CITATION.cff and GitHub to DataCite and Wikidata; GitLab, Zenodo and code.json new or updated in v4.0" loading="lazy"></a><figcaption><strong>CodeMeta 4.0 released</strong>The research-software metadata standard, with new terms for citation, documentation and related software.</figcaption></figure>
+<figure class="wide"><a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img class="contain" src="assets/img/codemeta-v4-hub.png" alt="From n × n (six schemas, 30 mappings) to n × 1 (6 crosswalks) to hub and spoke: CodeMeta v4.0 at the centre with one crosswalk each to twelve schemas; GitLab, Zenodo and code.json new or updated in v4.0" loading="lazy"></a><figcaption><strong>CodeMeta 4.0 released</strong>The research-software metadata standard, with new terms for citation, documentation and related software.</figcaption></figure>
 <figure><a href="blog/a-connectivity-model-you-can-read/"><img src="assets/img/map-connection.jpg" alt="Map of multispecies connectivity across the Côa catchment" loading="lazy"></a><figcaption><strong>A model you can read</strong>An open connectivity workflow for the Côa Valley.</figcaption></figure>
 <figure><a href="blog/citing-and-preserving-research-code/"><img src="assets/img/paris.jpg" alt="Paris skyline with the Eiffel Tower" loading="lazy"></a><figcaption><strong>Citing research code</strong>Four talks on SWHID and CodeMeta in 2026.</figcaption></figure>
 </div>

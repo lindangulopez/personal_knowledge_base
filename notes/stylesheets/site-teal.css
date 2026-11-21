@@ -248,3 +248,5 @@
 }
 
 .gallery img.contain { object-fit: contain; background: #FFFBEA; }
+.gallery figure.wide { grid-column: span 2; }
+.gallery figure.wide img { aspect-ratio: 8 / 5; }
