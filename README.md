@@ -8,7 +8,7 @@ Topics span (i) technical notes on remote sensing, machine learning, embeddings,
 
 - `raw/` — unprocessed notes and bookmarks waiting to be ingested
 - `processed/` — source clippings once ingested (gitignored, not published)
-- `notes/` — the published topic pages, plus `index.md` (table of contents) and `log.md` (append-only change history)
+- `notes/` — the published topic pages, plus `index.md` (landing page about Linda), `news.md` (Latest Finds and table of contents), `blog/` (blog posts) and `log.md` (append-only change history)
 
 ## Workflow
 

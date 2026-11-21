@@ -8,7 +8,8 @@ A personal notes organizer maintained by Claude Code.
 - raw/ -- documents containing unprocessed notes
 - processed/ -- documents containing processed notes
 - notes/ -- markdown pages for the organized notes pages
-- notes/index.md -- table of contents of all the notes pages
+- notes/index.md -- landing page (about Linda: bio, career map, experience, education); hand-edited, not part of ingestion
+- notes/news.md -- "News" page: Latest Finds and the table of contents of all the notes pages
 - notes/log.md -- append-only record of all operations
 ```
 
@@ -28,18 +29,18 @@ When the user adds a new note to `raw/` and asks you to ingest it
 * If the raw file is a substantial document rather than a short bookmark or personal note (e.g. a Jupyter notebook, long report, multi-section writeup), do not reproduce it verbatim. Write an accurate, multi-sentence description covering its scope, methods, and key sections instead, following the same [title/description](url)-style entry format where applicable.
 * Identify the core concepts/topic of the resource. 
 * Identify the main topic and related topics.
-* Read `notes/index.md` first to find relevant topic pages.
+* Read `notes/news.md` first to find relevant topic pages.
 * If there is no match, a new topic page can be added. See the list of topics below for additional topics of interest.
 * Add a new item to the main topic page. Keeping the newer notes at the top.
 * Add back-links ([[page-name]]) to connect related topics. If the related topic page does not exist, create the page.
-* Update `notes/index.md` with new pages and one-line descriptions.
+* Update `notes/news.md` with new pages and one-line descriptions.
 * Append an entry to `notes/log.md` with the date, source name, and what changed
 
 ## Update the Website
 
 This vault is published as a MkDocs site on GitHub Pages. After ingesting new notes:
 
-* Update the "Latest Finds" section in `notes/index.md` with the 3 most recently added notes, each from a different topic page.
+* Update the "Latest Finds" section in `notes/news.md` with the 3 most recently added notes, each from a different topic page.
 * Commit and push the changes to GitHub (`git add`, `git commit`, `git push`) so the site's GitHub Actions workflow rebuilds and redeploys automatically. `processed/` stays gitignored and is never pushed.
 
 ## List of Topics
