@@ -30,20 +30,6 @@ I grew up in Port Shepstone, South Africa, and I live in Fontainebleau. I work a
 
 <p class="credits">Photos: Paris by <a href="https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg">Yann Caradec</a> (CC BY-SA 2.0) and the forest of Fontainebleau by <a href="https://commons.wikimedia.org/wiki/File:Rochers_en_for%C3%AAt_de_Fontainebleau11.JPG">Thesupermat</a> (CC BY-SA 3.0), via Wikidata; the Indian Ocean at Margate, on the South Coast near Port Shepstone, by <a href="https://www.flickr.com/photos/65695019@N07/54280264565">Bernard Dupont</a> (CC BY-SA 2.0); zebras in Pilanesberg National Park, inside the Bushveld complex, by <a href="https://www.flickr.com/photos/25779097@N08/6253262246">South African Tourism</a> (CC BY 2.0), via Flickr.</p>
 
-## Featured: CodeMeta 4.0
-
-<figure class="featured" markdown>
-<a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img src="assets/img/codemeta-v4-hub.png" alt="From n × n (six schemas, 30 mappings) to n × 1 (6 crosswalks) to hub and spoke: CodeMeta v4.0 at the centre with one crosswalk each to twelve schemas; GitLab, Zenodo and code.json new or updated in v4.0"></a>
-<figcaption>From n × n mappings to one crosswalk per schema, with CodeMeta 4.0 as the hub.</figcaption>
-</figure>
-
-[CodeMeta](https://codemeta.github.io/) is the international metadata standard for research software. Built on Schema.org and JSON-LD, it lets a project describe itself in one `codemeta.json` file: what the software is, who made it, how it is licensed and funded, how to cite it. Archives, repositories and catalogues read that file instead of asking authors to type the same information into every form.
-
-Version 4.0 was released on 29 September 2026, coordinated by the SciCodes CodeMeta task force. I am one of its 30 named authors and one of five first-time contributors to this release. It adds terms for citation, documentation and related software, and adopts Schema.org's `archivedAt`, so authors can name a trusted archive, such as Software Heritage, where their code can still be found if the original repository disappears.
-
-[See the release](https://github.com/codemeta/codemeta/releases/tag/4.0){ .md-button .md-button--primary }
-[Read the 4.0 terms](https://w3id.org/codemeta/4){ .md-button }
-
 ## Where I have worked
 
 Click a pin, or filter the map.
@@ -91,6 +77,22 @@ Click a pin, or filter the map.
 </div>
 
 ## Recent work
+
+### CodeMeta 4.0, an international standard
+
+<figure class="featured" markdown>
+<a href="https://github.com/codemeta/codemeta/releases/tag/4.0"><img src="assets/img/codemeta-v4-hub.png" alt="From n × n (six schemas, 30 mappings) to n × 1 (6 crosswalks) to hub and spoke: CodeMeta v4.0 at the centre with one crosswalk each to twelve schemas; GitLab, Zenodo and code.json new or updated in v4.0"></a>
+<figcaption>From n × n mappings to one crosswalk per schema, with CodeMeta 4.0 as the hub.</figcaption>
+</figure>
+
+[CodeMeta](https://codemeta.github.io/) is the international metadata standard for research software. Built on Schema.org and JSON-LD, it lets a project describe itself in one `codemeta.json` file: what the software is, who made it, how it is licensed and funded, how to cite it. Archives, repositories and catalogues read that file instead of asking authors to type the same information into every form.
+
+Version 4.0 was released on 29 September 2026, coordinated by the SciCodes CodeMeta task force. I am one of its 30 named authors and one of five first-time contributors to this release. It adds terms for citation, documentation and related software, and adopts Schema.org's `archivedAt`, so authors can name a trusted archive, such as Software Heritage, where their code can still be found if the original repository disappears.
+
+[See the release](https://github.com/codemeta/codemeta/releases/tag/4.0){ .md-button .md-button--primary }
+[Read the 4.0 terms](https://w3id.org/codemeta/4){ .md-button }
+
+### More recent work
 
 <div class="gallery" markdown>
 <figure><a href="blog/a-connectivity-model-you-can-read/"><img src="assets/img/map-connection.jpg" alt="Map of multispecies connectivity across the Côa catchment" loading="lazy"></a><figcaption><strong>A model you can read</strong>An open connectivity workflow for the Côa Valley.</figcaption></figure>
