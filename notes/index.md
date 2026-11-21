@@ -87,7 +87,7 @@ Click a pin, or filter the map.
 
 [CodeMeta](https://codemeta.github.io/) is the international metadata standard for research software. Built on Schema.org and JSON-LD, it lets a project describe itself in one `codemeta.json` file: what the software is, who made it, how it is licensed and funded, how to cite it. Archives, repositories and catalogues read that file instead of asking authors to type the same information into every form.
 
-Version 4.0 was released on 29 September 2026, coordinated by the SciCodes CodeMeta task force. I am one of its 30 named authors and one of five first-time contributors to this release. It adds terms for citation, documentation and related software, and adopts Schema.org's `archivedAt`, so authors can name a trusted archive, such as Software Heritage, where their code can still be found if the original repository disappears.
+Version 4.0 was released on 29 September 2026, coordinated by the SciCodes CodeMeta task force. I am one of its 30 named authors and one of five first-time contributors to this release. It adds terms for citation, documentation and related software. One new term, `archivedAt`, lets authors record in their software's metadata where a copy of the code is archived, for example in Software Heritage. If the code is deleted from GitHub or GitLab, people can still find it there.
 
 [See the release](https://github.com/codemeta/codemeta/releases/tag/4.0){ .md-button .md-button--primary }
 [Read the 4.0 terms](https://w3id.org/codemeta/4){ .md-button }
