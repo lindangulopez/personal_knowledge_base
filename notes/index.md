@@ -6,9 +6,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [[Agriculture]]: UC Davis's CLEAR Center sets the fifth State of the Science Summit on cutting methane from animal agriculture for 15-17 June 2027, at UC Davis.
 - [[Conservation]]: PLOS's ecosystems research page gathers the new PLOS Ecosystems journal and three collections, from data for conservation decisions to nature-based solutions for climate and water.
 - [[Reproducible_Science]]: GigaByte's SAW article embeds the Software Heritage archive of its code as a figure: hosted on GitHub, archived in Software Heritage.
-- [[Cartography]]: QGIS Server or GeoServer? The CNRS SIST thread continued: QGIS Server has no per-layer roles, while GeoServer passes tokens for access control and publishes data-model outputs (app-schema) for FAIR exchange.
 
 ## Topics
 
