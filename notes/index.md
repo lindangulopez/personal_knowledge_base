@@ -10,7 +10,7 @@ hide:
 
 <p class="tagline">Functional ecologist working in open science</p>
 
-I grew up in Port Shepstone, South Africa, and trained as a botanist. I am a Full Stack GIS Developer, with more than 25 years of work across Europe and Africa in environmental governance, landscape ecology and research infrastructures, including national ecological restoration programmes in South Africa. I work at Software Heritage in Paris, helping research institutions archive, cite and describe the source code behind their science, and I am one of the authors of CodeMeta 4.0, the international metadata standard for research software. I also mentor people who use satellite data and GIS in Africa and the Caribbean.
+I grew up in Port Shepstone, South Africa, and I live in Fontainebleau. I work at Software Heritage in Paris, helping research institutions archive, cite and describe the source code behind their science, and I am one of the authors of CodeMeta 4.0, the international metadata standard for research software. I also mentor people who use satellite data and GIS in Africa and the Caribbean.
 
 <span class="readtime">4 min read</span>
 
