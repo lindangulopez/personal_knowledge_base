@@ -202,13 +202,6 @@
 .intro h1 { font-size: 2.6rem; font-weight: 700; line-height: 1.1; margin: 0 0 .4rem; color: var(--md-default-fg-color); }
 .intro .tagline { font-size: 1.15rem; color: var(--md-primary-fg-color); font-weight: 600; margin: 0 0 1rem; }
 .intro .md-button { margin: .3rem .4rem .3rem 0; }
-.md-typeset .intro a.intro-photo { float: right; width: 38%; margin: .2rem 0 .8rem 1.2rem; }
-.intro-photo img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 45% 70%; border-radius: 12px; }
-.intro::after { content: ""; display: block; clear: both; }
-@media screen and (max-width: 44.9375em) {
-  .md-typeset .intro a.intro-photo { float: none; width: 100%; margin: 0 0 1rem; }
-  .intro-photo img { aspect-ratio: 16 / 9; }
-}
 
 .destinations {
   display: grid;
