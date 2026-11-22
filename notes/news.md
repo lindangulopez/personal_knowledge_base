@@ -6,8 +6,8 @@ The latest additions to my notes, my CV, and the table of contents of all topic 
 
 ## Latest Finds
 
-- [[Agriculture]]: UC Davis's CLEAR Center sets the fifth State of the Science Summit on cutting methane from animal agriculture for 15-17 June 2027, at UC Davis.
-- [[Conservation]]: PLOS's ecosystems research page gathers the new PLOS Ecosystems journal and three collections, from data for conservation decisions to nature-based solutions for climate and water.
+- [[Conservation]]: my Wild Coast exercise on ODP data: no seamounts within 190 km, but one of South Africa's narrowest shelves, cut by canyons just outside the Pondoland MPA.
+- [[Agentic_Coding]]: QGIS driven by Claude Code through the QGIS MCP plugin, and three things it taught me about ODP's live layers.
 - [[Reproducible_Science]]: GigaByte's SAW article embeds the Software Heritage archive of its code as a figure: hosted on GitHub, archived in Software Heritage.
 
 ## CV
