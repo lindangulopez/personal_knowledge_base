@@ -8,7 +8,7 @@ The latest additions to my notes, my CV, and the table of contents of all topic 
 
 - [[Conservation]]: my Wild Coast exercise on ODP data: no seamounts within 190 km, but one of South Africa's narrowest shelves, cut by canyons just outside the Pondoland MPA.
 - [[Agentic_Coding]]: QGIS driven by Claude Code through the QGIS MCP plugin, and three things it taught me about ODP's live layers.
-- [[Reproducible_Science]]: GigaByte's SAW article embeds the Software Heritage archive of its code as a figure: hosted on GitHub, archived in Software Heritage.
+- [[Climate_Change]]: frugal AI, sequence 3: data centres run at about 60 % of capacity, cooling adds about 20 %, and Edge AI moves small models to where the data is produced.
 
 ## CV
 
