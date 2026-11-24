@@ -306,3 +306,4 @@ Append-only record of all operations.
 - 2026-11-24 (later): add-then-update: demo/README.md gains "How it gets lost" (three loss points, from the CSIC dim vs DataCite comparison) and "How to move held, not sent to can be sent" (route 1 crosswalk mapping, route 2 client reads dim); slides now 10 (four statuses, where it gets lost, held to can be sent, demo results), anonymised.
 - 2026-11-24 (later): Weekly planner (private): gate 6 step (i) done (three CSIC records with the survey, with Claude) and moved to "Done and dropped"; ticked in Metadata_Check_RsMetaCheck.md; aha line added to Metadata_Check_Tool.md.
 - 2026-11-24 (later): Gate 6 step (i) report for Morane written in sirs-network tools/metadata_check/report_CSIC_three_records_2026-11-24.md (not committed).
+- 2026-11-24 (later): LinkedIn profile review (private) from the 24 Nov screenshot; refresh planned for Feb 2027 in the weekly planner ("Later"), plan in LinkedIn_Drafts/Profile_Refresh_Feb2027.md.
