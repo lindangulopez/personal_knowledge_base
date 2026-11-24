@@ -6,7 +6,7 @@ The latest additions to my notes, my CV, and the table of contents of all topic 
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: OSPO-RADAR now exports an institution's software as BibTeX, built from the metadata archived in Software Heritage, even when a project has no CodeMeta file.
+- [[Reproducible_Science]]: "source code" went from 18 mentions to none in the EOSC research agenda between 2021 and 2026; an EOSC concept note asks for an OSPO inside the Federation.
 - [[Cartography]]: QGIS Server or GeoServer? Researchers on the CNRS SIST list compare access rights, Lizmap and twenty years of running GeoServer.
 - [[Climate_Change]]: frugal AI, sequence 3: data centres run at about 60 % of capacity, cooling adds about 20 %, and Edge AI moves small models to where the data is produced.
 
