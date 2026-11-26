@@ -6,9 +6,9 @@ The latest additions to my notes, my CV, and the table of contents of all topic 
 
 ## Latest Finds
 
-- [[Reproducible_Science]]: "source code" went from 18 mentions to none in the EOSC research agenda between 2021 and 2026; an EOSC concept note asks for an OSPO inside the Federation.
-- [[Cartography]]: QGIS Server or GeoServer? Researchers on the CNRS SIST list compare access rights, Lizmap and twenty years of running GeoServer.
-- [[Agentic_Coding]]: a Sorbonne half-day on developing with AI agents (11 Dec): Google, SAP on Claude Code in a ten-year-old codebase, LIP6, then an open panel on verification and costs.
+- [[Reproducible_Science]]: CORTRE is building a reporting guideline for replications and other reproducibility efforts, and recruits a Delphi panel (interest by 23 Dec).
+- [[Data]]: a Café SIST on GDPR compliance for CNRS labs: the CNIL's resources, the developer's GDPR guide and declarations through RevCil.
+- [[Conservation]]: after the 2026 forest fires, a five-minute photo survey asks which forest landscapes you find beautiful, for PEPR FORESTT.
 
 ## CV
 
