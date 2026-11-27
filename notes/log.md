@@ -312,3 +312,4 @@ Append-only record of all operations.
 - 2026-11-26 ("ingest new notes"): 3 public files, screened for prompt injection, none found; moved to `processed/2026-11-26-batch/`. **Reproducible_Science.md**: the CORTRE Delphi panel for a reporting guideline on reproducibility efforts (interest by 23 Dec). **Data.md**: Café SIST on GDPR compliance (CNIL resources, the developer's GDPR guide, RevCil). **Conservation.md**: the BIODIFUL MEDIFEUX survey on forest fires and landscape aesthetics (PEPR FORESTT, QWERTY). **news.md**: Latest Finds now Reproducible Science, Data and Conservation. Private part: see the private log.
 - 2026-11-26 (night, "ingest new notes"): 2 private files only; nothing public changed. See the private log.
 - 2026-11-27 (evening, "ingest new notes"): 13 private files only; nothing public changed. See the private log.
+- 2026-11-27 (later evening, "ingest new notes"): 2 private files only; nothing public changed. See the private log.
